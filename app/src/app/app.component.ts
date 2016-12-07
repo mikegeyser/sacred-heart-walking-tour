@@ -19,5 +19,17 @@ export class MyApp {
       StatusBar.styleDefault();
       Splashscreen.hide();
     });
+
+    this.deploy.channel = 'dev';
+    this.deploy.check().then((snapshotAvailable: boolean) => {
+      if (snapshotAvailable) {
+        // When snapshotAvailable is true, you can apply the snapshot
+
+        this.deploy
+          .download()
+          .then(() => this.deploy.extract())
+          .then(() => this.deploy.load());
+      }
+    });
   }
 }
