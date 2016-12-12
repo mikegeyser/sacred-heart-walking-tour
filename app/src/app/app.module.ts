@@ -7,7 +7,8 @@ import { HomePage } from '../pages/home/home';
 import { TabsPage } from '../pages/tabs/tabs';
 import { CloudSettings, CloudModule } from '@ionic/cloud-angular';
 import { ConnectivityService } from '../providers/connectivity-service';
-import { AgmCoreModule } from 'angular2-google-maps/core';
+import { PointsOfInterestModule } from '../pages/points-of-interest/points-of-interest.module';
+import { IonicImageViewerModule } from 'ionic-img-viewer';
 
 const cloudSettings: CloudSettings = {
   'core': {
@@ -15,7 +16,6 @@ const cloudSettings: CloudSettings = {
   }
 };
 
-const api_key: string = "AIzaSyAJymzPSBYve3q0KoFEJf69LN_1hEPRtuk";
 
 @NgModule({
   declarations: [
@@ -26,11 +26,10 @@ const api_key: string = "AIzaSyAJymzPSBYve3q0KoFEJf69LN_1hEPRtuk";
     TabsPage
   ],
   imports: [
+    PointsOfInterestModule,
     IonicModule.forRoot(MyApp),
     CloudModule.forRoot(cloudSettings),
-    AgmCoreModule.forRoot({
-      apiKey: api_key
-    })
+    IonicImageViewerModule
   ],
   bootstrap: [IonicApp],
   entryComponents: [

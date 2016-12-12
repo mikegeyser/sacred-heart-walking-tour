@@ -1,8 +1,7 @@
 import { Component, ElementRef, ViewChild, NgZone } from '@angular/core';
 import { NavController } from 'ionic-angular';
 import { Geolocation } from 'ionic-native';
-import { SebmGoogleMap, MapTypeStyle } from 'angular2-google-maps/core';
-import { Test } from '../../Models/point-of-interest';
+import { AllPointsOfInterest, getPointOfInterest } from '../points-of-interest/point-of-interest';
 
 declare var google;
 
@@ -20,7 +19,7 @@ export class HomePage {
   longitude: number = 28.075560;
   zoom: number = 327;
 
-  constructor(public navCtrl: NavController, private _ngZone: NgZone) {
+  constructor(public nav: NavController, private _ngZone: NgZone) {
     this.loadGoogleMaps(_ngZone);
   }
 
@@ -35,7 +34,11 @@ export class HomePage {
 
       window['mapNavigate'] = (id) => {
         _ngZone.run(() => {
-          alert('did some stuff with id: ' + id);
+          let poi = getPointOfInterest(id);
+
+          console.log(`Navigating to POI  ${poi.id} - ${poi.title}`);
+          console.log(poi.page);
+          this.nav.push(poi.page);
         });
       };
 
@@ -65,7 +68,9 @@ export class HomePage {
 
       this.map = new google.maps.Map(this.mapElement.nativeElement, mapOptions);
 
-      var marker = Test.createMarker(this.map);
+      for (let key in AllPointsOfInterest) {
+        AllPointsOfInterest[key].createMarker(this.map)
+      }
     });
   }
 }
