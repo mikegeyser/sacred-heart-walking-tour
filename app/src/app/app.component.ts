@@ -16,20 +16,8 @@ export class MyApp {
     platform.ready().then(() => {
       // Okay, so the platform is ready and our plugins are available.
       // Here you can do any higher level native things you might need.
-      StatusBar.styleDefault();
-      Splashscreen.hide();
-    });
-
-    this.deploy.channel = 'dev';
-    this.deploy.check().then((snapshotAvailable: boolean) => {
-      if (snapshotAvailable) {
-        // When snapshotAvailable is true, you can apply the snapshot
-
-        this.deploy
-          .download()
-          .then(() => this.deploy.extract())
-          .then(() => this.deploy.load());
-      }
+        StatusBar.styleDefault();
+        Splashscreen.hide();
     });
   }
 }

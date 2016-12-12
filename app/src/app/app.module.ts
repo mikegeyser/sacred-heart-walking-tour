@@ -6,6 +6,8 @@ import { ContactPage } from '../pages/contact/contact';
 import { HomePage } from '../pages/home/home';
 import { TabsPage } from '../pages/tabs/tabs';
 import { CloudSettings, CloudModule } from '@ionic/cloud-angular';
+import { ConnectivityService } from '../providers/connectivity-service';
+import { AgmCoreModule } from 'angular2-google-maps/core';
 
 const cloudSettings: CloudSettings = {
   'core': {
@@ -13,6 +15,7 @@ const cloudSettings: CloudSettings = {
   }
 };
 
+const api_key: string = "AIzaSyAJymzPSBYve3q0KoFEJf69LN_1hEPRtuk";
 
 @NgModule({
   declarations: [
@@ -24,7 +27,10 @@ const cloudSettings: CloudSettings = {
   ],
   imports: [
     IonicModule.forRoot(MyApp),
-    CloudModule.forRoot(cloudSettings)
+    CloudModule.forRoot(cloudSettings),
+    AgmCoreModule.forRoot({
+      apiKey: api_key
+    })
   ],
   bootstrap: [IonicApp],
   entryComponents: [
@@ -34,6 +40,9 @@ const cloudSettings: CloudSettings = {
     HomePage,
     TabsPage
   ],
-  providers: [{provide: ErrorHandler, useClass: IonicErrorHandler}]
+  providers: [
+    {provide: ErrorHandler, useClass: IonicErrorHandler}, 
+    ConnectivityService
+  ]
 })
 export class AppModule {}
