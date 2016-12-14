@@ -1,14 +1,18 @@
 import { NgModule, ErrorHandler } from '@angular/core';
 import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
 import { MyApp } from './app.component';
-import { AboutPage } from '../pages/about/about';
-import { ContactPage } from '../pages/contact/contact';
-import { HomePage } from '../pages/home/home';
-import { TabsPage } from '../pages/tabs/tabs';
 import { CloudSettings, CloudModule } from '@ionic/cloud-angular';
 import { ConnectivityService } from '../providers/connectivity-service';
 import { PointsOfInterestModule } from '../pages/points-of-interest/points-of-interest.module';
 import { IonicImageViewerModule } from 'ionic-img-viewer';
+
+// All pages (sucks)
+import { AboutPage } from '../pages/about/about';
+import { ContactPage } from '../pages/contact/contact';
+import { HomePage } from '../pages/home/home';
+import { TabsPage } from '../pages/tabs/tabs';
+import { GatePage } from '../pages/points-of-interest/gate/gate';
+import { PrePrimaryPage } from '../pages/points-of-interest/pre-primary/pre-primary';
 
 const cloudSettings: CloudSettings = {
   'core': {
@@ -23,7 +27,9 @@ const cloudSettings: CloudSettings = {
     AboutPage,
     ContactPage,
     HomePage,
-    TabsPage
+    TabsPage,
+    GatePage,
+    PrePrimaryPage
   ],
   imports: [
     PointsOfInterestModule,
@@ -37,11 +43,13 @@ const cloudSettings: CloudSettings = {
     AboutPage,
     ContactPage,
     HomePage,
-    TabsPage
+    TabsPage,
+    GatePage,
+    PrePrimaryPage
   ],
   providers: [
-    {provide: ErrorHandler, useClass: IonicErrorHandler}, 
+    { provide: ErrorHandler, useClass: IonicErrorHandler },
     ConnectivityService
   ]
 })
-export class AppModule {}
+export class AppModule { }
