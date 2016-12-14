@@ -11,9 +11,10 @@ export class PointOfInterest {
         public longitude: number,
         public page: Component
     ) {
-        this.info = `<strong>${this.title}</strong>
+        this.info = `<button class="pin-btn" ion-button onclick="mapNavigate(${this.id})">
+                     <strong>${this.title}</strong>
                      <div>Some brief blurb about the poi.</div>
-                    <button ion-button onclick="mapNavigate(${this.id})">Go</button>`;
+                     </button>`;
     }
     createMarker(map: any) {
         var marker = new google.maps.Marker({
