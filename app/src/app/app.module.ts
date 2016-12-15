@@ -12,7 +12,8 @@ import { ContactPage } from '../pages/contact/contact';
 import { HomePage } from '../pages/home/home';
 import { TabsPage } from '../pages/tabs/tabs';
 import { GatePage } from '../pages/points-of-interest/gate/gate';
-import { PrePrimaryPage } from '../pages/points-of-interest/pre-primary/pre-primary';
+// import { PrePrimaryPage } from '../pages/points-of-interest/pre-primary/pre-primary';
+import { PointOfInterestPage } from '../pages/points-of-interest/point-of-interest/point-of-interest';
 
 const cloudSettings: CloudSettings = {
   'core': {
@@ -29,7 +30,8 @@ const cloudSettings: CloudSettings = {
     HomePage,
     TabsPage,
     GatePage,
-    PrePrimaryPage
+    // PrePrimaryPage,
+    PointOfInterestPage
   ],
   imports: [
     PointsOfInterestModule,
@@ -45,7 +47,8 @@ const cloudSettings: CloudSettings = {
     HomePage,
     TabsPage,
     GatePage,
-    PrePrimaryPage
+    // PrePrimaryPage,
+    PointOfInterestPage
   ],
   providers: [
     { provide: ErrorHandler, useClass: IonicErrorHandler },

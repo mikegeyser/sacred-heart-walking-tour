@@ -1,8 +1,10 @@
 declare var google;
 import { Component } from '@angular/core';
+import { PointOfInterestElement } from './point-of-interest-element';
 
 export class PointOfInterest {
     info: string = "This is a test.";
+    elements: PointOfInterestElement[] = [];
 
     constructor(
         public id: string,
@@ -16,6 +18,7 @@ export class PointOfInterest {
                      <div>Some brief blurb about the poi.</div>
                      </button>`;
     }
+    
     createMarker(map: any) {
         var marker = new google.maps.Marker({
             position: { lat: this.latitude, lng: this.longitude },
@@ -34,6 +37,10 @@ export class PointOfInterest {
 
     navigate() {
         alert("navigated!");
+    }
+
+    addElement(element: PointOfInterestElement){
+        this.elements.push(element);
     }
 }
 
