@@ -1,21 +1,19 @@
 declare var google;
-import { Component } from '@angular/core';
-import { PointOfInterestElement } from './point-of-interest-element';
 
 export class PointOfInterest {
-    info: string = "This is a test.";
     elements: PointOfInterestElement[] = [];
-
+    info: string;
+    
     constructor(
         public id: string,
         public title: string,
+        public description: string = "",
         public latitude: number,
-        public longitude: number,
-        public page: Component
+        public longitude: number
     ) {
         this.info = `<button class="pin-btn" ion-button onclick="mapNavigate(${this.id})">
-                     <strong>${this.title}</strong>
-                     <div>Some brief blurb about the poi.</div>
+                     <strong>${this.id} - ${this.title}</strong>
+                     <div>${this.description}</div>
                      </button>`;
     }
     
@@ -35,22 +33,19 @@ export class PointOfInterest {
         });
     }
 
-    navigate() {
-        alert("navigated!");
-    }
-
     addElement(element: PointOfInterestElement){
         this.elements.push(element);
     }
 }
 
-var allPointsOfInterest: { [id: string]: PointOfInterest; } = {};
-export var AllPointsOfInterest = allPointsOfInterest;
+export class PointOfInterestElement {
+    text: string;
+    furtherText: string;
+    url: string;  
+    type: PointOfInterestElementType = PointOfInterestElementType.Image;     
+}
 
-export function addPointOfInterest(poi: PointOfInterest) {
-    allPointsOfInterest[poi.id] = poi;
-};
-
-export function getPointOfInterest(id: string) {
-    return allPointsOfInterest[id];
-};
+export enum PointOfInterestElementType {
+    Image = 1,
+    Video = 2
+}

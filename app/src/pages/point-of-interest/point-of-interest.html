@@ -1,0 +1,29 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>{{poi.id}} - {{poi.title}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content padding>
+  <div class="chevron left">
+    <ion-icon name="arrow-back"  [class.active]="!isFirst()" [isActive]="!isFirst()" (click)="previous()"></ion-icon>
+  </div>
+
+  <div class="card" [class.show-more]="showMore">
+    <img [src]="selected.url" imageViewer *ngIf="selected.type == 1">
+    <div class="video-container"  *ngIf="selected.type == 2">
+      <iframe width="854" height="480" [src]="" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <h2>
+      {{selected.text}}
+    </h2>
+    <a href="#" (click)=toggleShowMore()>[show {{showMore ? "less" : "more"}}]</a>
+    <div [innerHTML]="selected.furtherText" *ngIf="showMore">
+    </div>
+  </div>
+
+  <div class="chevron right">
+    <ion-icon name="arrow-forward" [class.active]="!isLast()" [isActive]="!isLast()" (click)="next()"></ion-icon>
+  </div>
+</ion-content>

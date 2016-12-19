@@ -1,7 +1,8 @@
 import { Component, ElementRef, ViewChild, NgZone } from '@angular/core';
 import { NavController } from 'ionic-angular';
 import { Geolocation } from 'ionic-native';
-import { AllPointsOfInterest, getPointOfInterest } from '../points-of-interest/point-of-interest';
+import { AllPointsOfInterest, getPointOfInterest } from '../../data/index';
+import { PointOfInterestPage } from '../point-of-interest/point-of-interest';
 
 declare var google;
 
@@ -37,8 +38,7 @@ export class HomePage {
           let poi = getPointOfInterest(id);
 
           console.log(`Navigating to POI  ${poi.id} - ${poi.title}`);
-          console.log(poi.page);
-          this.nav.push(poi.page);
+          this.nav.push(PointOfInterestPage, { id: poi.id });
         });
       };
 
