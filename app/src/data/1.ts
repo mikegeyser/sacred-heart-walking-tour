@@ -20,7 +20,8 @@ poi.addElement({
     By 1825 the Marist Brotherhood had grown such that new premises was needed and Notre Dame de L’Hermitage was opened near St Chamond. This was designed and built by Champagnat (skilled in metal and wood work trained by his farming father) aided by twenty Brothers and some local artisans.
     </p>
     `,
-    url: "assets/images/points-of-interest/01.115b.jpg"
+    url: "assets/images/points-of-interest/01.115b.jpg",
+    reference: "Image: Marist Archive"
 });
 
 poi.addElement({
@@ -40,7 +41,8 @@ poi.addElement({
     This badge is the international crest of the Marist Brothers of the Schools. The intertwined AM monogram (seen on many of the Marist school blazers, though no longer on Sacred Heart’s) stands for Ad Mariam, a shortened form of Ad Jesum per Mariam (to Jesus through Mary), the Marist motto.  The twelve stars and crown above the monogram are taken from the symbolism in the book of Revelation (21:1) which the Church accounts as the coronation of Mary and a reference to the twelve tribes of Israel / twelve disciples (themselves representative of all peoples and therefore symbolic of the international Marist congregation). The three violets are symbolic also – they represent the virtues of humility, simplicity and modesty that Champagnat espoused – and just as the actual violet is tiny in size but has a strong, beautiful and lingering fragrance; these virtues are a huge powerhouse for good despite their unimposing fronts. Currently there are Marist Brothers and schools in 80 countries worldwide.
     </p>
     `,
-    url: "assets/images/points-of-interest/01.109.jpg"
+    url: "assets/images/points-of-interest/01.109.jpg",
+    reference: "Image: http://www.champagnat.org/000.php?p=166"
 });
 
 poi.addElement({
@@ -54,7 +56,8 @@ poi.addElement({
     Though twenty Marist schools and training missions opened in South Africa following the arrival of the first Brothers in 1867, only 5 remain today in 2017. Reasons surrounding language/religion and the socio-political structure of South Africa particularly during the years between 1940-1990, the effects of the first and second world wars (many Brothers conscripted in these) and the sourcing of Brothers elsewhere internationally are cited by the Marist institute as reasons for this. Furthermore, issues surrounding funding for the schools, influences of social teachings from Vatican II which led to clashes between teachings of Catholicism and the apartheid government as well as the Marist principles of inclusion and modesty versus some sentiments within South African society to the opposite can be seen as contributory to this.
     </p>
     `,
-    url: "assets/images/points-of-interest/01.77c.jpg"
+    url: "assets/images/points-of-interest/01.77c.jpg",
+    reference: "Image: Marist Archive"
 });
 
 poi.addElement({
@@ -71,7 +74,8 @@ poi.addElement({
     The building infront of which this POI is located is the Marist Provincial office for Southern Africa. Some of the space used by the Marist Provincial offices was at one-time part of the dormitories and the Sanatorium when boarders were still admitted to Sacred Heart, prior to 1974. 
     </p>
     `,
-    url: "assets/images/points-of-interest/01.130.jpg"
+    url: "assets/images/points-of-interest/01.130.jpg",
+    reference: "Image: http://champagnat.fms.it/img/caricate/small/news_3892.jpg"
 });
 
 poi.addElement({
@@ -80,7 +84,8 @@ poi.addElement({
     furtherText: `
     <p>A film produced in 2014 charting the early beginnings of the Marist Brotherhood and the development of the five existing Marist schools in South Africa, six including the Three2Six education project. The film explores the unique pedagogy of the Marists and the particular ethos of their schools today. A further Marist school in Johannesburg is planned to open in the near future.</p>
     `,
-    url: "https://www.youtube.com/embed/FQmzPYckhb4?start=16&end=182"
+    url: "https://www.youtube.com/embed/FQmzPYckhb4?start=16&end=182",
+    reference: "Marist Brothers Corporate 2014, Video, 4 mins 58 seconds Marist Schools in South Africa"
 });
 
 poi.addElement({
@@ -94,7 +99,8 @@ poi.addElement({
     This logo incorporates the three violets of the Marist logo (see card 2).
     </p>
     `,
-    url: "assets/images/points-of-interest/01.129.png"
+    url: "assets/images/points-of-interest/01.129.png",
+    reference: "Image: http://www.champagnat.org/500.php?a=1"
 });
 
 export var One = poi;

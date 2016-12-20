@@ -42,7 +42,8 @@ export class PointOfInterestElement {
     text: string;
     furtherText: string;
     url: string;  
-    type: PointOfInterestElementType = PointOfInterestElementType.Image;     
+    type: PointOfInterestElementType = PointOfInterestElementType.Image;
+    reference: string;     
 }
 
 export enum PointOfInterestElementType {
