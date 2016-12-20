@@ -4,6 +4,7 @@ import { MyApp } from './app.component';
 import { CloudSettings, CloudModule } from '@ionic/cloud-angular';
 import { ConnectivityService } from '../providers/connectivity-service';
 import { IonicImageViewerModule } from 'ionic-img-viewer';
+import { SafePipe } from '../pipes/safe';
 
 // All pages (sucks)
 import { AboutPage } from '../pages/about/about';
@@ -26,7 +27,8 @@ const cloudSettings: CloudSettings = {
     HomePage,
     TabsPage,
     // PrePrimaryPage,
-    PointOfInterestPage
+    PointOfInterestPage,
+    SafePipe
   ],
   imports: [
     IonicModule.forRoot(MyApp),

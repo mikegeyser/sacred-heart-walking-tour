@@ -13,7 +13,7 @@
   <div class="card" [class.show-more]="showMore">
     <img [src]="selected.url" imageViewer *ngIf="selected.type == 1">
     <div class="video-container"  *ngIf="selected.type == 2">
-      <iframe width="854" height="480" [src]="" frameborder="0" allowfullscreen></iframe>
+      <iframe width="854" height="480" [src]="selected.url | safe" frameborder="0" allowfullscreen></iframe>
     </div>
     <h2>
       {{selected.text}}

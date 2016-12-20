@@ -1,4 +1,4 @@
-import { PointOfInterest, PointOfInterestElement, PointOfInterestElementType } from '../models/point-of-interest';
+import { PointOfInterest, PointOfInterestElementType } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("9", "Orchard", "Some random descriptive text", -26.173365, 28.074303);
 
