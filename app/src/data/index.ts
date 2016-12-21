@@ -5,6 +5,7 @@ import {Five} from './5';
 import {Nine} from './9';
 import {Ten} from './10';
 import {Sixteen} from './16';
+import {TwentyThree} from './23';
 
 
 
@@ -25,3 +26,4 @@ addPointOfInterest(Five);
 addPointOfInterest(Nine);
 addPointOfInterest(Ten);
 addPointOfInterest(Sixteen);
+addPointOfInterest(TwentyThree);
