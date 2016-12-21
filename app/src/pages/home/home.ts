@@ -78,7 +78,7 @@ export class HomePage {
       this.map.fitBounds(this.bounds);
 
       // Create a geo-mask for the school.
-      var polygonMask = new google.maps.Polygon({
+      new google.maps.Polygon({
         map: this.map,
         strokeColor: '#000000',
         strokeOpacity: 0.5,
