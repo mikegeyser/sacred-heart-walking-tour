@@ -33,7 +33,8 @@ poi.addElement({
     <p>
     Edward Joffe, matric c. 1948, in his book Before Mandela’s Rainbow recalled:
     <blockquote>
-    “Facing the College’s main buildings across the driveway stood an orchard the size of a soccer field, entry to which was absolutely forbidden. Few foolhardy lads had ever courted disaster by entering that sanctuary where the Brothers meditated, enjoyed a quiet drag, or simply escaped to take respite from their charges” (Joffe 2013:39)
+    “Facing the College’s main buildings across the driveway stood an orchard the size of a soccer field, entry to which was absolutely forbidden. Few foolhardy lads had ever courted disaster by entering that sanctuary where the Brothers meditated, enjoyed a quiet drag, or simply escaped to take respite from their charges” 
+    <footer>Joffe 2013:39</footer>
     </blockquote>
     </p>
     <p>

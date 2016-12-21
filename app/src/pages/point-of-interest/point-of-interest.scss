@@ -20,7 +20,7 @@ page-point-of-interest {
         h2 {
             width: 100%;
             color: color($colors, primary);
-            font-size: 1.6em;
+            font-size: 1.3em;
         }
         
         img {
@@ -103,7 +103,13 @@ page-point-of-interest {
     }
 
     figcaption {
+        font-style: italic;
         text-align: center;
         color: #b2b2b2;
+    }
+    
+    footer {
+        font-style: italic;
+        text-align: right;
     }
 }
