@@ -17,9 +17,13 @@ export class PointOfInterest {
                      </button>`;
     }
     
-    createMarker(map: any) {
+    getLatLng(){
+        return { lat: this.latitude, lng: this.longitude };
+    }
+
+    createMarker(map: any, bounds: any) {
         var marker = new google.maps.Marker({
-            position: { lat: this.latitude, lng: this.longitude },
+            position: this.getLatLng(),
             title: this.title,
             map: map
         });
@@ -31,6 +35,8 @@ export class PointOfInterest {
         marker.addListener('click', function () {
             infowindow.open(map, marker);
         });
+
+        bounds.extend(marker.getPosition());
     }
 
     addElement(element: PointOfInterestElement){
