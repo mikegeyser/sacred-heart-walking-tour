@@ -58,7 +58,7 @@ poi.addElement({
 
 poi.addElement({
     type: PointOfInterestElementType.Image,
-    text: "The British team for the Schneider Trophy standing in front of two seaplanes at Calshot, UK. Flight Lieutenant Samuel Kinkead second from left (9th August 1927).",
+    text: "The British team for the Schneider Trophy standing in front of two seaplanes at Calshot, UK. Flight Lieutenant Samuel Kinkead second from right (9th August 1927).",
     furtherText: `
     <p>
     Flight Lieutenant Samuel Marcus Kinkead R.N.A.S, D.F.C Bar, D.S.C Bar and D.S.O born in 1897  was a matric at Koch Street in 1911. After leaving Sacred Heart College, S.M. Kinkead trained with the R.F.C and became a highly skilled fighter pilot during WW1 and speed aviator afterwards. He died during an attempt to break the world record for the fastest ever recorded seaplane flight in 1928.      

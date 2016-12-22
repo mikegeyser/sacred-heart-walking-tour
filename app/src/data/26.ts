@@ -35,7 +35,7 @@ poi.addElement({
     </p>
     `,
     url: "assets/images/points-of-interest/36.40.jpg",
-    reference: "Image: Unknown"
+    reference: "Image: Marist Archive"
 });
 
 poi.addElement({
@@ -65,7 +65,7 @@ poi.addElement({
     </p>
     `,
     url: "assets/images/points-of-interest/36.24.jpg",
-    reference: "Image: Unknown"
+    reference: "Image: C Kamana"
 });
 
 poi.addElement({
@@ -77,7 +77,7 @@ poi.addElement({
     </p>
     `,
     url: "assets/images/points-of-interest/36.55.jpg",
-    reference: "Image: Unknown"
+    reference: "Image: Marist Archive"
 });
 
 poi.addElement({
@@ -89,7 +89,7 @@ poi.addElement({
     </p>
     `,
     url: "assets/images/points-of-interest/36.50c.jpg",
-    reference: "Image: Unknown"
+    reference: "Image: Marist Archive"
 });
 
 poi.addElement({
@@ -104,7 +104,7 @@ poi.addElement({
     </p>
     `,
     url: "assets/images/points-of-interest/36.12.jpg",
-    reference: "Image: Unknown"
+    reference: "Image: C Kamana"
 });
 
 export var TwentySix = poi;
