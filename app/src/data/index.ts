@@ -1,13 +1,14 @@
 import { PointOfInterest } from '../models/point-of-interest';
 
-import {One} from './1';
-import {Five} from './5';
-import {Nine} from './9';
-import {Ten} from './10';
-import {Sixteen} from './16';
-import {TwentyThree} from './23';
-import {TwentySix} from './26';
-import {TwentyNine} from './29';
+import { One } from './1';
+import { Five } from './5';
+import { Nine } from './9';
+import { Ten } from './10';
+import { Sixteen } from './16';
+import { Seventeen } from './17';
+import { TwentyThree } from './23';
+import { TwentySix } from './26';
+import { TwentyNine } from './29';
 
 
 
@@ -28,6 +29,7 @@ addPointOfInterest(Five);
 addPointOfInterest(Nine);
 addPointOfInterest(Ten);
 addPointOfInterest(Sixteen);
+addPointOfInterest(Seventeen);
 addPointOfInterest(TwentyThree);
 addPointOfInterest(TwentySix);
 addPointOfInterest(TwentyNine);
