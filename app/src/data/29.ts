@@ -82,12 +82,5 @@ poi.addElement({
     url: "assets/images/points-of-interest/29.23.jpg",
     reference: "Image: http://www.theaerodrome.com/aces/safrica/saunders3.php"
 });
-/*
-1.	  
-2.	
-3.	  
-4.	
-5.	
-6.	
- */
+
 export var TwentyNine = poi;
