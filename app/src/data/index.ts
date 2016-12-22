@@ -12,6 +12,7 @@ import { TwentyThree } from './23';
 import { TwentySix } from './26';
 import { TwentyNine } from './29';
 import { ThirtySix } from './36';
+import { ThirtyEight } from './38';
 
 
 
@@ -39,3 +40,4 @@ addPointOfInterest(TwentyThree);
 addPointOfInterest(TwentySix);
 addPointOfInterest(TwentyNine);
 addPointOfInterest(ThirtySix);
+addPointOfInterest(ThirtyEight);

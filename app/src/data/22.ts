@@ -34,7 +34,7 @@ poi.addElement({
 
 poi.addElement({
     type: PointOfInterestElementType.Image,
-    text: "1933, Corpus Christi Procession gathering on the site where the Macartin Centre now stands. This year there was a crowd of 6,000 people. ",
+    text: "1933, Corpus Christi Procession gathering on the site where the Macartin Centre now stands. In that year there was a crowd of 6,000 people. ",
     furtherText: `
     <p>
     During the 1930s and 1940s thousands of Catholics from all over the Johannesburg area congregated at Sacred Heart College in Observatory to celebrate the feast of Corpus Christi. As is traditional, Corpus Christi (a celebration of the bodily presence of Jesus in the Eucharistic service) is celebrated on the second Sunday after Pentecost, approximately six weeks after Easter. The festival was marked with a procession, Mystery Plays and with the celebration of the Eucharist at several points around the college grounds. One altar for this purpose was set up in the arched entrance to the swimming pool – seen in this image with the double columns on either side of the archway. 
