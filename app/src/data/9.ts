@@ -22,10 +22,10 @@ poi.addElement({
 
 poi.addElement({
     type: PointOfInterestElementType.Image,
-    text: "Front of College viewed through some of the orchard trees in c.1932-35.",
+    text: "Front of College viewed through some of the orchard trees in c.1930-33.",
     furtherText: `
     <p>
-    In the archive there is no date associated with this picture however due to the lack of statue in the front niche (above the main steps) and the height of the trees it can be estimated at c 1932-1935.
+    In the archive there is no date associated with this picture however due to the lack of statue in the front niche (above the main steps) and the height of the trees it can be estimated at c 1930-1933.
     </p>
     <p>
     The Orchard was a private area in the college grounds for use of the Brothers and was given the name of ‘crows’ garden’ by the boys.  
