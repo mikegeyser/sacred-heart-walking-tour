@@ -1,6 +1,6 @@
 import { PointOfInterest, PointOfInterestElementType } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("5", "Transport", "School transport and its evolution.", -26.173600, 28.075287);
+var poi = new PointOfInterest("5", "Transport", "School transport and its evolution.", -26.173600, 28.075100);
 
 poi.addElement({
     type: PointOfInterestElementType.Image,
