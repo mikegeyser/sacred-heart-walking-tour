@@ -113,3 +113,11 @@ page-point-of-interest {
         text-align: right;
     }
 }
+.audio-container {
+    margin: 45px 0;
+    width: 100%;
+
+    audio {
+        width: 100%;
+    }
+}

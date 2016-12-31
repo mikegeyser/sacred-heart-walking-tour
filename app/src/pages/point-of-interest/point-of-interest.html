@@ -18,6 +18,12 @@
         <iframe width="854" height="480" [src]="selected.url | safe" frameborder="0" allowfullscreen></iframe>
       </div>
 
+      <div class="audio-container" *ngIf="selected.type == 3">
+        <audio [src]="selected.url" controls preload>
+          The audio cannot be loaded.
+        </audio>
+      </div>
+
       <figcaption>{{selected.reference}}</figcaption>
     </figure>
 
