@@ -2,7 +2,7 @@
 <widget id="com.ionicframework.sacredheartwalkingtour916194" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>Sacred Heart Walking Tour</name>
   <description>A tour through the history of the Sacred heart school, based on the research of Caroline Kamana.</description>
-  <author email="mikegeyser@gmail.com" href="https://github.com/mikegeyser">Mike Geyser and Caroline Kamana</author>
+  <author email="mikegeyser@gmail.com" href="https://twitter.com/mikegeyser">Mike Geyser and Caroline Kamana</author>
   <content src="index.html"/>
   <access origin="*"/>
   <allow-intent href="http://*/*"/>
