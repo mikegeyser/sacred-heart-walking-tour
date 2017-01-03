@@ -70,7 +70,7 @@ poi.addElement({
     </p> 
     `,
     url: "api.soundcloud.com/tracks/300063964",
-    reference: "Image: C Kamana"
+    reference: "(Image: Wits University, Historical Papers Archive)(Audio: C Kamana)"
 });
 
 poi.addElement({
@@ -85,7 +85,7 @@ poi.addElement({
     </p> 
     `,
     url: "api.soundcloud.com/tracks/300050756",
-    reference: "Image: C Kamana"
+    reference: "Image and Audio: C Kamana"
 });
 
 poi.addElement({
@@ -121,7 +121,7 @@ poi.addElement({
     </p>
     `,
     url: "assets/images/points-of-interest/32.20.jpg",
-    reference: "Image: James-Brent Styan"
+    reference: "Image: Bea Roberts"
 });
 
 export var ThirtyTwo = poi;
