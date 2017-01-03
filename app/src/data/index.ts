@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 import { One } from './1';
 import { Two } from './2';
 import { Three } from './3';
+import { Four } from './4';
 import { Five } from './5';
 import { Nine } from './9';
 import { Ten } from './10';
@@ -38,6 +39,7 @@ export function getPointOfInterest(id: string) {
 addPointOfInterest(One);
 addPointOfInterest(Two);
 addPointOfInterest(Three);
+addPointOfInterest(Four);
 addPointOfInterest(Five);
 addPointOfInterest(Nine);
 addPointOfInterest(Ten);
