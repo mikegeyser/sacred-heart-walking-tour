@@ -77,7 +77,7 @@ poi.addElement({
     </p>
     `,
     reference: "Audio: C Kamana",
-    url: "assets/images/points-of-interest/13.31_Mc_Gurk_Statue_18.11.16.m4a"
+    url: "api.soundcloud.com/tracks/299752519"
 });
 
 poi.addElement({
