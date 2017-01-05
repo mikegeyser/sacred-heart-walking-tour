@@ -26,8 +26,6 @@ import { ThirtySeven } from './37';
 import { ThirtyEight } from './38';
 import { ThirtyNine } from './39';
 
-
-
 var allPointsOfInterest: { [id: string]: PointOfInterest; } = {};
 
 function addPointOfInterest(poi: PointOfInterest) {

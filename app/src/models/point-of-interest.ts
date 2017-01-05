@@ -3,7 +3,7 @@ declare var google;
 export class PointOfInterest {
     elements: PointOfInterestElement[] = [];
     info: string;
-    
+
     constructor(
         public id: string,
         public title: string,
@@ -16,8 +16,8 @@ export class PointOfInterest {
                      <div>${this.description}</div>
                      </button>`;
     }
-    
-    getLatLng(){
+
+    getLatLng() {
         return { lat: this.latitude, lng: this.longitude };
     }
 
@@ -39,17 +39,23 @@ export class PointOfInterest {
         bounds.extend(marker.getPosition());
     }
 
-    addElement(element: PointOfInterestElement){
+    addElement(element: PointOfInterestElement) {
         this.elements.push(element);
+    }
+
+    thumbnail() {
+        if (this.elements.length) {
+            return this.elements[0].url;
+        }
     }
 }
 
 export class PointOfInterestElement {
     text: string;
     furtherText: string;
-    url: string;  
+    url: string;
     type: PointOfInterestElementType = PointOfInterestElementType.Image;
-    reference: string;     
+    reference: string;
 }
 
 export enum PointOfInterestElementType {
