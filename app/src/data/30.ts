@@ -46,7 +46,7 @@ poi.addElement({
     text: "1895 – the gym at Koch Street is built and used not only by pupils at the school. This picture shows some senior boys (in Marist PT uniform) and some other adults training ‘after hours’. ",
     furtherText: `
     <p>
-    There was no gym at the Koch Street l to begin with but enthusiasm for gym training saw one of the first fundraising exercises at the school. Money was raised by the school and contributed to by local businessmen as the idea was that after school hours the new gym would be used by residents of the area. Sir Lionel Philips, Randlord and husband of the foundress of the Johannesburg Art Gallery was one of the largest donors – giving 100 guineas. Frank Fillis, circus master (and at the time considered the most important public entertainer), organised a special fund-raising matinee as a contribution. 
+    There was no gym at the Koch Street school to begin with but enthusiasm for gym training saw one of the first fundraising exercises at the school. Money was raised by the school and contributed to by local businessmen as the idea was that after school hours the new gym would be used by residents of the area. Sir Lionel Philips, Randlord and husband of the foundress of the Johannesburg Art Gallery was one of the largest donors – giving 100 guineas. Frank Fillis, circus master (and at the time considered the most important public entertainer), organised a special fund-raising matinee as a contribution. 
     </p>
     <p>
     When the gym opened in 1895 it was considered a state-of-the-art and luxurious facility. The gymnastic displays continued to be a huge feature on Johannesburg’s early entertainments calendars. The first gymnastics and PT teacher was killed during the South African War and for a time senior boys took over his classes until a replacement, Mr. Barend Vieyra was found. Mr Vieyra was supported by Mr Jack Lelie (a professional sportsman who also taught the girls at Yeoville Convent in the 1920s and 30s). Mr. Vieyra, a Jewish immigrant the Netherlands had arrived in Johannesburg in 1896 became a favoured teacher at the school, remembered for his echoing around the school of ‘von-two-three…von-two-three’ to encourage precision in the repetition of exercises. He was considered to have been one of the greatest early South African gymnasts and contributed much to the development of the sport in the country. Mr. Vierya’s son, Herbert Vieyra, an alumni of Koch Street, became an advocate who was legal advisor to the Regent of Basutoland and latterly became a Judge.  Herbert Vieyra converted to Catholicism (contrary to the wishes of his family) and became a lay member of the Dominican Order in the 1930s. He is particularly remembered for his dedication to the cause of social justice and his contribution to the SACBC (South African Catholic Bishops’ Conference) stance against apartheid in his role as Chair of the Joint Council for Catholic African and Europeans (JCCAE) in the 1950s.
@@ -94,13 +94,17 @@ poi.addElement({
 
 poi.addElement({
     type: PointOfInterestElementType.Image,
-    text: "In 1938 a stage was added to the Hall. This feature used for college productions, also doubled as the setting for the College Bioscope which entertained boarders and staff at the weekends. ",
+    text: "The Pre-Primary perform a “Musical Medley” in 2016. ",
     furtherText: `
     <p>
-    As well as being used for indoor sports training and for events like prize-giving and formal dinners the hall was used for drama and other entertainments, much as it is today (though not for indoor sports since the Macartin Centre was built).  Every Saturday during term time the Hall was turned into a cinema, or bioscope, for the entertainment of the boarders and staff. The 1938 Maristonian records that in that year a ‘Talkie’ machine was added to the bioscope – much to the excitement of everyone since up until then the movies had all been silent. The addition of the stage created more of a cinema-like effect for the showing of films that had been a regular feature at Sacred Heart for years, even at Koch Street in the early days as Brother Frederick had acquired a bioscope for use there. E. Joffe who was a boarder in the 1940s recalls in his memoires that Saturday evenings were, because of the bioscope, a highlight of the week. Films were usually educational in nature, with the odd ‘B’ movie comedy or western being shown. Since the reel needed to be changed during the film there were intervals during the screenings and it was at this time that the tuck shop was at its busiest. Joffe also recalls that the Brothers allowed all the staff at the school to watch the films – something of a rarity in those days since there were no picture houses in town open for black audiences. 
+    The Hall continues to be a multi-functional space. Here Colin Northmore leads an app creating workshop for the grades 8 and 9 in 2016. 
     </p>
+    <figure>
+        <img src="assets/images/points-of-interest/30.39.jpg" />
+        <figcaption>Image: C Kamana</figcaption>
+    </figure>
     `,
-    url: "assets/images/points-of-interest/30.37_39_combined.jpg",
+    url: "assets/images/points-of-interest/30.37.jpg",
     reference: "Image: C Kamana"
 });
 
