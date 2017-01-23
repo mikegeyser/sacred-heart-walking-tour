@@ -1,0 +1,15 @@
+---
+  id: 3
+  type: 1
+  text: "The view from the window of the room where Eric Molobi was given refuge at Sacred Heart College in 1988. "
+  url: assets/images/points-of-interest/32.08.jpg
+  reference: "Image: C Kamana"
+---
+> “[Eric Molobi] was to play a variety of prominent roles in the struggle in the ensuing decade, perhaps, most prominently, in visiting Dr Mandela in Pollsmoor Prison to discuss the negotiations linked to the suspension of the armed struggle.
+> 
+> With the renewal of the state of emergency in 1988, Eric was pursued by the security police, whom he evaded for many months in a place of refuge supplied on the College premises. He would masquerade by day decked out in a peaked cap and the other paraphernalia of a chauffer’s uniform. He was finally picked up when the security police followed Fatima Meer to Durban airport where she had gone to meet the disguised Eric. Martha, his wife was employed by the college as a receptionist, a position she subsequently held for twenty years, until a year after Eric’s death in 2007\. She soon became the resident mother figure. Many students over the years have had recourse to Martha for succour and advice. Martha is still a serving member on our board of trustees of the outreach programme to rural communities. “
+> 
+> <footer>Br Neil McGurk, 2015</footer>
+
+During the late 1970s and 1980s Sacred Heart College was undergoing a period of transformation. Not only did the school begin to admit pupils other than white boys by first becoming an Open school and then Co-Educational (the latter was not only done to consolidate three schools but also as part of a conscious move to destabilise the male-centric nature of the school and imbalances of power that were reflected in the apartheid regime (the disbanding of the Cadets and the de-structuring of the Prefect System were examples of this) that the college were moving away from. Then Principal Brother Neil McGurk and Brother Jude Pieterse (then Secretary General of SACBC and Chairperson of the SA Catholic Schools Association) were not only influential in the transformation of the school but also in the nation’s forthcoming socio-political transformations, particularly in the area of educational reforms. Both men were integral to negotiations with the Government, specifically in talks with the then Administrator of the Transvaal, Sybrand Van Niekerk and the Minister of National Education, Piet Koornhoff. These talks revealed the divisions beginning to appear within the apartheid regime surrounding principles of inclusion in education, with the Brothers offering Catholic principles of inclusivity as a basis for educational reform supported by international opinion regarding segregation in South Africa and concluding with discussions of how moving against the Open Schools would further damage international relations in the wake of Soweto, the death of Steve Biko and the cultural boycott.
+        

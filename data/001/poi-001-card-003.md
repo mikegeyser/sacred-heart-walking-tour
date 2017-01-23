@@ -1,0 +1,11 @@
+---
+  id: 3
+  type: 1
+  text: "A timetable from 1885 (St Aloysius School, Cape Town). On the left hand side is the timetable for the Brothers (including 4 set prayer sessions) and on the right for school pupils (including three kinds of Maths class in the day – arithmetic, euclid (geometry) and algebra)."
+  url: assets/images/points-of-interest/01.77c.jpg
+  reference: "Image: Marist Archive"
+---
+In April 1867, five Marist Brothers arrived in South Africa (at Simon’s Bay) after 62 days at sea on gunship ‘L’Ephigenie’. They had answered the invitation by the Bishop of the Cape of Good Hope (Western Division), Thomas Grimley, relayed via the Pope Pius XI directly to the Superior General of Marist Brothers to come and teach. These Brothers (two from France, one each from Belgium, Ireland and England) set up two schools that year in Hatfield Street, Cape Town. St. Aloysius’ School (financed by the colonial government) opened with ninety -our pupils and St. Joseph’s Academy (fee paying) with nine pupils, the first Marist schools outside of Europe. Within a year the pupil rolls increased to over 150 and over 30 respectively and continued to grow. Bishops in other dioceses in South Africa, emboldened by the success began to ask for Marist Brothers.
+
+Though twenty Marist schools and training missions opened in South Africa following the arrival of the first Brothers in 1867, only 5 remain today in 2017\. Reasons surrounding language/religion and the socio-political structure of South Africa particularly during the years between 1940-1990, the effects of the first and second world wars (many Brothers conscripted in these) and the sourcing of Brothers elsewhere internationally are cited by the Marist institute as reasons for this. Furthermore, issues surrounding funding for the schools, influences of social teachings from Vatican II which led to clashes between teachings of Catholicism and the apartheid government as well as the Marist principles of inclusion and modesty versus some sentiments within South African society to the opposite can be seen as contributory to this.
+        

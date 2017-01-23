@@ -1,0 +1,15 @@
+---
+  id: 4
+  type: 3
+  text: "Brother Neil McGurk discusses Eric Molobi and the socio-political situation within which Sacred Heart College sat in the 1980s. "
+  url: api.soundcloud.com/tracks/300063964
+  reference: "(Image: Wits University, Historical Papers Archive)(Audio: C Kamana)"
+---
+> “Two of the first group of students admitted into the primary school subsequently became well-known business personalities in South Africa. Simphwe Tshabalala is currently the CEO of Standard Bank, Southern Africa. Molefe Kgomo, the son of Dr Jubilee Kgomo, who with Dr Motlana was in charge of Letsedi Clinic in Soweto at the time, is now a director of a large steel construction business. Dr Kgomo subsequently become a long-serving member of the Governing Body of the College. With the opening of the 1978 academic year the presence of an increasing number of black students in our schools was noted. This encouraged more applications and admissions. It soon became an issue for the media. The provincial and national authorities also had to respond. There were immediate threats of closure from the Administrator of the Transvaal, at the time, Sybrand van Niekerk.”
+> 
+> <footer>Br Neil McGurk, 2015</footer>
+
+In 1986 and 1987 Sacred Heart was the scene of talks between college students and those from the townships around the subject of schooling. In 1988, the Molobis had chosen Sacred Heart as the school for their children to attend – during that year Molobi had no contact with them except to watch them going to and from school through his refuge’s window and before he was again arrested, detained and then placed under effective house-arrest on his release. By 1989 leaders from Sacred Heart College were included in the Five Freedoms Forum Delegation to meet with ANC leadership in Lusaka; as well as discussion of suspension of armed struggle and broader issues the enrolment the ANC’s leader’s children and grandchildren in school was arranged, assuming an imminent return from exile. Then, and into the early 1990s the Sacred Heart teaching community, in conjunction with the Brothers, attended to local (and by default, national) issues surrounding the rapidly changing socio-economic demographic of central Johannesburg and were instrumental in the setting up of Model D schools - ensuring educational provision for black pupils and continued employment for teachers from the white community as well as training for teachers from the black community.
+
+In the subsequent years the College (and its satellite at Yeoville Convent which served as an overflow to the main school following a pique in student numbers and as the site for the junior primary) was the choice of school for the children and grandchildren of the returning exiles in the 1990s. These included the Mandela, Ramaphosa, Ramogopa, Manganyi, Slovo, Letsebe, Motshega, Sisulu and Manthata families but there were many others.
+        

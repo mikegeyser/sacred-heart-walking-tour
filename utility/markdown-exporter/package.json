@@ -1,0 +1,16 @@
+{
+  "name": "markdown-exporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "meta-marked": "^0.4.2",
+    "number-to-words": "^1.2.3",
+    "to-markdown": "^3.0.3"
+  }
+}

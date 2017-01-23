@@ -5,6 +5,7 @@ import { CloudSettings, CloudModule } from '@ionic/cloud-angular';
 import { ConnectivityService } from '../providers/connectivity-service';
 import { IonicImageViewerModule } from 'ionic-img-viewer';
 import { SafePipe } from '../pipes/safe';
+import { HttpModule }      from '@angular/http';
 
 // All pages (sucks)
 import { AboutPage } from '../pages/about/about';
@@ -16,7 +17,7 @@ import { ExplorePage } from '../pages/explore/explore';
 
 const cloudSettings: CloudSettings = {
   'core': {
-    'app_id': '8AF22537'
+    'app_id': '7a63e725'
   }
 };
 
@@ -35,7 +36,8 @@ const cloudSettings: CloudSettings = {
   imports: [
     IonicModule.forRoot(MyApp),
     CloudModule.forRoot(cloudSettings),
-    IonicImageViewerModule
+    IonicImageViewerModule,
+    HttpModule
   ],
   bootstrap: [IonicApp],
   entryComponents: [

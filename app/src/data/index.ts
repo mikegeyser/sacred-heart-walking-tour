@@ -1,4 +1,7 @@
 import { PointOfInterest } from '../models/point-of-interest';
+import { Injectable } from '@angular/core';
+// import { Http } from '@angular/http';
+import * as marked from 'meta-marked';
 
 import { One } from './1';
 import { Two } from './2';
@@ -63,3 +66,19 @@ addPointOfInterest(ThirtySix);
 addPointOfInterest(ThirtySeven);
 addPointOfInterest(ThirtyEight);
 addPointOfInterest(ThirtyNine);
+
+
+// @Injectable()
+// export class PoiLoader {
+
+//     constructor(private http: Http) {
+//         this.http.get('assets/data/001/poi-001-card-001.md').toPromise().then((response) => {
+//             let blah = marked(response.text());
+//             console.log(blah);
+//         });
+//     }
+
+//     getAll(){
+        
+//     }
+// }
