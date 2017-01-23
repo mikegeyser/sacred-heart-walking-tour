@@ -1,8 +1,11 @@
 import * as fs from 'fs';
 import * as marked from 'meta-marked';
 import * as converter from 'number-to-words';
+import * as path from 'path';
 
-let dir = '../../data';
+
+let dir = path.join(__dirname, '../../data');
+
 fs.readdir(dir, (err, directories) => {
     for (let poi_number of directories) {
 
@@ -43,7 +46,8 @@ poi.addElement({
 
             content += `export var ${poi_number_as_words} = poi;`;
 
-            fs.writeFile(`../../app/src/data/${poi_number}.ts`, content, (err) => {
+            
+            fs.writeFile(path.join(__dirname, `../../app/src/data/${poi_number}.ts`), content, (err) => {
                 if (err) {
                     console.log(err);
                 }

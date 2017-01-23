@@ -4,8 +4,9 @@
   "homepage": "http://ionicframework.com/",
   "private": true,
   "scripts": {
-    "ionic:build": "ionic-app-scripts build",
-    "ionic:serve": "ionic-app-scripts serve"
+    "generate-data": "node ../utility/markdown-exporter/generate",
+    "ionic:build": "generate-data & ionic-app-scripts build",
+    "ionic:serve": "npm run generate-data & ionic-app-scripts serve"
   },
   "dependencies": {
     "@angular/common": "2.1.1",

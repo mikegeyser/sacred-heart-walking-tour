@@ -2,7 +2,8 @@
 const fs = require("fs");
 const marked = require("meta-marked");
 const converter = require("number-to-words");
-let dir = '../../data';
+const path = require("path");
+let dir = path.join(__dirname, '../../data');
 fs.readdir(dir, (err, directories) => {
     for (let poi_number of directories) {
         fs.readFile(dir + `\\${poi_number}\\poi-${poi_number}.md`, 'utf8', (err, data) => {
@@ -34,7 +35,7 @@ poi.addElement({
                 content += card_content;
             }
             content += `export var ${poi_number_as_words} = poi;`;
-            fs.writeFile(`../../app/src/data/${poi_number}.ts`, content, (err) => {
+            fs.writeFile(path.join(__dirname, `../../app/src/data/${poi_number}.ts`), content, (err) => {
                 if (err) {
                     console.log(err);
                 }
