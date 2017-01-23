@@ -1,4 +1,7 @@
 language: node_js
 node_js:
   - "6.9"
+install:
+  - npm install -g ionic
+
 script: cd app & ionic upload -e ionic_cloud_username -p ionic_cloud_password
