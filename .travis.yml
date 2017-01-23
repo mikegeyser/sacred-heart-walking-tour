@@ -4,4 +4,4 @@ node_js:
 install:
   - npm install -g ionic
 
-script: cd app & ionic upload -e ionic_cloud_username -p ionic_cloud_password
+script: cd app && ionic upload -e ionic_cloud_username -p ionic_cloud_password
