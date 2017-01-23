@@ -1,5 +1,6 @@
 "use strict";
 const fs = require("fs");
+const fse = require("fs-extra");
 const marked = require("meta-marked");
 const converter = require("number-to-words");
 const path = require("path");
@@ -42,5 +43,11 @@ poi.addElement({
             });
         });
     }
+});
+let source_image_directory = path.join(__dirname, '../../images/points-of-interest');
+let target_image_directory = path.join(__dirname, '../../app/src/assets/images/points-of-interest');
+fse.copy(source_image_directory, target_image_directory, (err) => {
+    if (err)
+        console.log(err);
 });
 //# sourceMappingURL=generate.js.map
