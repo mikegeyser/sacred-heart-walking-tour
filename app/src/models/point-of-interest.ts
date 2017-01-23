@@ -11,7 +11,7 @@ export class PointOfInterest {
         public latitude: number,
         public longitude: number
     ) {
-        this.info = `<button class="pin-btn" ion-button onclick="mapNavigate(${this.id})">
+        this.info = `<button class="pin-btn" ion-button onclick="mapNavigate('${this.id}')">
                      <strong>${this.id} - ${this.title}</strong>
                      <div>${this.description}</div>
                      </button>`;
