@@ -10,14 +10,14 @@ fs.readdir(dir, (err, directories) => {
             // console.log(poi);
             let poi_number_as_words = converter.toWords(poi_number).replace(/[/s|-]/g, '');
             let content = `
-import { PointOfInterest, PointOfInterestElementType } from '../models/point-of-interest';
+import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("${poi_number}", "${poi.meta.title}", "${poi.meta.description}", ${poi.meta.latitude}, ${poi.meta.longitude});
 
 `;
             for (let card_filename of poi.meta.cards) {
                 let card_data = fs.readFileSync(`${dir}\\${poi_number}\\${card_filename}`, 'utf8');
-                console.log(card_data);
+                // console.log(card_data);
                 let card = marked(card_data);
                 let card_content = `
 poi.addElement({
@@ -34,7 +34,7 @@ poi.addElement({
                 content += card_content;
             }
             content += `export var ${poi_number_as_words} = poi;`;
-            fs.writeFile(`out/${poi_number}.ts`, content, (err) => {
+            fs.writeFile(`../../app/src/data/${poi_number}.ts`, content, (err) => {
                 if (err) {
                     console.log(err);
                 }
