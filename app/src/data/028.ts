@@ -30,6 +30,18 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
+    text: "‘Oh brother! It’s girls, girls and more girls!’ Rand Daily Mail 12.01.1980",
+    furtherText: `
+    <p>This article from the Rand Daily Mail gives some of the student perspectives on the merging of the three schools. Not only did learners arrive from the girls’ schools but many of the Sisters and their lay-staff came too Sacred Heart at that time as well.        </p>
+
+    `,
+    url: "assets/images/points-of-interest/28.82b.jpg",
+    reference: "Image: Marist Archive"
+});
+
+
+poi.addElement({
+    type: 1,
     text: "The farm in Kensington that belonged to the Ursuline Sisters and where St. Angela’s Convent was established in 1914. ",
     furtherText: `
     <p>The Ursuline Order or Sisters was founded by St Angela de Merici who gathered together a group of women called to teach girls in the 1500s which was way before formal education of girls was accepted as the norm. At first the women continued to live with their own families but, as their mission became more focused on structured education and the provision of schools it was decided that they would begin to live together in religious communities where teaching could be done along side communal prayer. The first was established at Brescia in Italy and Angela Merici chose St Ursula as patron saint for her order it was before an image of St Ursula in the church of San Francesco in her home town Brescia that she prayed. Angela was deeply influenced by the legends surrounding Princess Ursula, a young woman whose faith in God was stronger than death and was martyred in the 3rd Century along with a group of faithful virgins.</p>

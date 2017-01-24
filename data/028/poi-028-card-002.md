@@ -1,11 +1,8 @@
 ---
   id: 2
   type: 1
-  text: "The farm in Kensington that belonged to the Ursuline Sisters and where St. Angela’s Convent was established in 1914. "
-  url: assets/images/points-of-interest/28.80.jpg
+  text: ‘Oh brother! It’s girls, girls and more girls!’ Rand Daily Mail 12.01.1980
+  url: assets/images/points-of-interest/28.82b.jpg
   reference: "Image: Marist Archive"
 ---
-The Ursuline Order or Sisters was founded by St Angela de Merici who gathered together a group of women called to teach girls in the 1500s which was way before formal education of girls was accepted as the norm. At first the women continued to live with their own families but, as their mission became more focused on structured education and the provision of schools it was decided that they would begin to live together in religious communities where teaching could be done along side communal prayer. The first was established at Brescia in Italy and Angela Merici chose St Ursula as patron saint for her order it was before an image of St Ursula in the church of San Francesco in her home town Brescia that she prayed. Angela was deeply influenced by the legends surrounding Princess Ursula, a young woman whose faith in God was stronger than death and was martyred in the 3rd Century along with a group of faithful virgins.
-
-A group of Ursuline Sisters, made up of Dutch and British Sisters arrived in South Africa in 1895 settling in Barberton but only a few years later this town collapsed as a mining centre whilst Johannesburg continued to flourish. By 1889 the Ursuline Sisters had come to Johannesburg and took over a school in Braamfontein that had been first established by the Holy Family Sisters – an early joint mission between the two congregations that were to reunite within Sacred Heart College one hundred years later. The Braamfontein school closed in 1907 and the Sisters transferred to Krugersdorp (later moving to Roodeport and selling their site to the La Salle Brothers) and not long after their school was established in Krugersdorp they also turned their farm land in the Bezuidenhout Valley, Kensington into the Convent School of St. Angela’s, which existed from 1914 until its merger with Sacred Heart in 1980\. A further Ursuline school was established in Bryanston in the 1960s, Brescia House, which still exists today.
-        
+This article from the Rand Daily Mail gives some of the student perspectives on the merging of the three schools. Not only did learners arrive from the girls’ schools but many of the Sisters and their lay-staff came too Sacred Heart at that time as well.        

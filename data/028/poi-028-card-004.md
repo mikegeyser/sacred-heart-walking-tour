@@ -1,9 +1,15 @@
 ---
-  id: 4
+  id: 3
   type: 1
-  text: "1906, Eucharistic procession at End Street Convent with girls from The Holy Family Convent and Boys from Sacred Heart College, Koch Street. "
-  url: assets/images/points-of-interest/28.85.jpg
-  reference: "Image: Marist Archive"
+  text: "Some of the first pupils to be registered at Holy Family Convent, End Street. Picture taken sometime between October 1887 and December 1889. "
+  url: assets/images/points-of-interest/28.25b.jpg
+  reference: "Image: Catholic History Bureau"
 ---
-An example of some of the shared activities between the girls’ and boys’ schools for by 1906 the schools were single sex. However, the Holy Family Convent at Yeoville which merged with Marist Brothers’ College took boys until standard 2 only. From standard 3 most of those boys, including Brother Neil (later Principal of Sacred Heart) attended Marist Obs. Brother Neil and Beverly Fulton Blow, ballet teacher at Sacred Heart College from 1980 -2016, were in the same junior primary classes together at Yeoville Convent. Of course they were not even born when this picture was taken but their shared history traces one strand of the interconnections between the three schools that were later to merge.
+The Holy Family of Bordeaux are a Catholic congregation formed by Pierre-Beinvenu de Noailles in 1820 when three young girls came to the newly ordained priest for spiritual direction and on consultation with his superior established a sisterhood inspired by imitation of the the Holy Family (Mary, Joseph and Jesus) and devotion to the three-in-one Christian concept of the God as a Trinity (Father, Son and Holy Spirit). The Sisterhood was to go onto have several branches each with a special focus, some on nursing, others on teaching and others in Christian mission.
+
+Holy Family Sisters were invited to Johannesburg by Fr Monginoux O.M.I (who had also called the Marist Brothers to the city) and arrived in 1887\. They set up a convent school at End Street (at the junction of Fox and Smal Streets) in Doornfontein. End Street was so named because at that time, in the 1880s, End Street formed the far eastern boundary of the city – the East End so to speak of Johannesburg, with Fordsburg being the furthest settlement to the West. The district of Doornfontein was entirely residential at the time.
+
+Boys who had registered at the Holy Family Convent were some of the first pupils to move over to the newly established boys ‘school, Marist Brothers College at Koch Street in 1889\. It is possible that some of the boys in this picture were amongst those first boys to attend Koch Street.
+
+The Holy Family Sisters, from their beginnings in Johannesburg in the 1880s, flourished and set up several convent schools in the city. By the 1960s they had 100 sisters split between convents in Yeoville, Parktown, Coronationville, Kensington and Victory Park and a further 140 sisters in the rest of South Africa. The Holy Family Schools in Parktown and Coronationville still exist today.
         

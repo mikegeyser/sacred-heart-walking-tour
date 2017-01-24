@@ -1,15 +1,11 @@
 ---
-  id: 3
+  id: 2
   type: 1
-  text: "Some of the first pupils to be registered at Holy Family Convent, End Street. Picture taken sometime between October 1887 and December 1889. "
-  url: assets/images/points-of-interest/28.25b.jpg
-  reference: "Image: Catholic History Bureau"
+  text: "The farm in Kensington that belonged to the Ursuline Sisters and where St. Angela’s Convent was established in 1914. "
+  url: assets/images/points-of-interest/28.80.jpg
+  reference: "Image: Marist Archive"
 ---
-The Holy Family of Bordeaux are a Catholic congregation formed by Pierre-Beinvenu de Noailles in 1820 when three young girls came to the newly ordained priest for spiritual direction and on consultation with his superior established a sisterhood inspired by imitation of the the Holy Family (Mary, Joseph and Jesus) and devotion to the three-in-one Christian concept of the God as a Trinity (Father, Son and Holy Spirit). The Sisterhood was to go onto have several branches each with a special focus, some on nursing, others on teaching and others in Christian mission.
+The Ursuline Order or Sisters was founded by St Angela de Merici who gathered together a group of women called to teach girls in the 1500s which was way before formal education of girls was accepted as the norm. At first the women continued to live with their own families but, as their mission became more focused on structured education and the provision of schools it was decided that they would begin to live together in religious communities where teaching could be done along side communal prayer. The first was established at Brescia in Italy and Angela Merici chose St Ursula as patron saint for her order it was before an image of St Ursula in the church of San Francesco in her home town Brescia that she prayed. Angela was deeply influenced by the legends surrounding Princess Ursula, a young woman whose faith in God was stronger than death and was martyred in the 3rd Century along with a group of faithful virgins.
 
-Holy Family Sisters were invited to Johannesburg by Fr Monginoux O.M.I (who had also called the Marist Brothers to the city) and arrived in 1887\. They set up a convent school at End Street (at the junction of Fox and Smal Streets) in Doornfontein. End Street was so named because at that time, in the 1880s, End Street formed the far eastern boundary of the city – the East End so to speak of Johannesburg, with Fordsburg being the furthest settlement to the West. The district of Doornfontein was entirely residential at the time.
-
-Boys who had registered at the Holy Family Convent were some of the first pupils to move over to the newly established boys ‘school, Marist Brothers College at Koch Street in 1889\. It is possible that some of the boys in this picture were amongst those first boys to attend Koch Street.
-
-The Holy Family Sisters, from their beginnings in Johannesburg in the 1880s, flourished and set up several convent schools in the city. By the 1960s they had 100 sisters split between convents in Yeoville, Parktown, Coronationville, Kensington and Victory Park and a further 140 sisters in the rest of South Africa. The Holy Family Schools in Parktown and Coronationville still exist today.
+A group of Ursuline Sisters, made up of Dutch and British Sisters arrived in South Africa in 1895 settling in Barberton but only a few years later this town collapsed as a mining centre whilst Johannesburg continued to flourish. By 1889 the Ursuline Sisters had come to Johannesburg and took over a school in Braamfontein that had been first established by the Holy Family Sisters – an early joint mission between the two congregations that were to reunite within Sacred Heart College one hundred years later. The Braamfontein school closed in 1907 and the Sisters transferred to Krugersdorp (later moving to Roodeport and selling their site to the La Salle Brothers) and not long after their school was established in Krugersdorp they also turned their farm land in the Bezuidenhout Valley, Kensington into the Convent School of St. Angela’s, which existed from 1914 until its merger with Sacred Heart in 1980\. A further Ursuline school was established in Bryanston in the 1960s, Brescia House, which still exists today.
         

@@ -1,9 +1,9 @@
 ---
-  id: 5
+  id: 4
   type: 1
-  text: "Ursuline Girls perform a dramatized Mass in the Hall at Sacred Heart College, Koch Street in 1950. "
-  url: assets/images/points-of-interest/30.03c.jpg
+  text: "1906, Eucharistic procession at End Street Convent with girls from The Holy Family Convent and Boys from Sacred Heart College, Koch Street. "
+  url: assets/images/points-of-interest/28.85.jpg
   reference: "Image: Marist Archive"
 ---
-Another example of the communal activities between learners of the three schools that later merged can be seen here in the performance of Ursuline girls in the hall at Koch Street in 1950\. Not only were the Catholic congregations coming together but this picture shows three yarmulke wearing boys, representative of the high proportion of Jewish pupils at both Sacred Heart Colleges in Koch Street and at Observatory. At least three of the pictured girls went on to join the sisterhood; Maureen Murray at the front right of the picture became Sister Veronica Murray who taught at the Ursuline School in Kensington and later became Headmistress of Brescia House from 1975-1980\.
+An example of some of the shared activities between the girls’ and boys’ schools for by 1906 the schools were single sex. However, the Holy Family Convent at Yeoville which merged with Marist Brothers’ College took boys until standard 2 only. From standard 3 most of those boys, including Brother Neil (later Principal of Sacred Heart) attended Marist Obs. Brother Neil and Beverly Fulton Blow, ballet teacher at Sacred Heart College from 1980 -2016, were in the same junior primary classes together at Yeoville Convent. Of course they were not even born when this picture was taken but their shared history traces one strand of the interconnections between the three schools that were later to merge.
         
