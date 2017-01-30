@@ -46,7 +46,7 @@ poi.addElement({
     type: 1,
     text: "Pool games in the 1940s.",
     furtherText: `
-    <p>A series of nine postcards – early marketing materials – were produced for Sacred Heart College in the 1940s. This one shows some pool games, likely taking place during a swimming gala. Not all pool activities involve swimming lengths. Joffe, a school boy here in the 1940s, wrote in his memoires about slipping unnoticed over the school walls and climbing into the locked pool area with school friends for illicit midnight swims (Joffe 2013:68). In the 1962 Maristonian a boy recounted the tale of a tail in the pool. Another boy, as a prank, had let loose his pet snake in the pool. Thankfully it was retrieved the same day. In the 1980s synchronized swimming was offered as a school sport and today the swimming team still participate in the Midmar Mile, as they have done since the late 1980s.</p>
+    <p>A series of nine postcards – early marketing materials – were produced for the College in the 1940s. This one shows some pool games, likely taking place during a swimming gala. Not all pool activities involve swimming lengths. Joffe, a school boy here in the 1940s, wrote in his memoires about slipping unnoticed over the school walls and climbing into the locked pool area with school friends for illicit midnight swims (Joffe 2013:68). In the 1962 Maristonian a boy recounted the tale of a tail in the pool. Another boy, as a prank, had let loose his pet snake in the pool. Thankfully it was retrieved the same day. In the 1980s synchronized swimming was offered as a school sport and today the swimming team still participate in the Midmar Mile, as they have done since the late 1980s.</p>
 
     `,
     url: "assets/images/points-of-interest/21.21.jpg",
@@ -68,10 +68,10 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
-    text: "In 2010, Sacred Heart College received an award from the National Lottery Distribution Trust Fund (NLDTF) to refurbish the pool area. ",
+    text: "In 2010, the National Lottery Distribution Trust Fund awarded Sacred Heart College a sum for pool refurbishments.",
     furtherText: `
-    <p>The baby pool was added, shades were erected over the spectator stands and the starting blocks were remodeled. A mosaic was added to the bottom of the pool depicting the logo of the Sacred Heart Dolphins, the school swimming team.</p>
-<p>The Inter House Galas (both for High School and Junior) remain one of the most looked forward to annual events for learners – house chants are sung, teams are cheered and costumes are worn. Over time have swimming costumes changed from non-uniform, to red for everyone (not only Valerian House) during the 1980s/1990s and today they are Marist blue and gold topped with house-colour swimming caps. Since the Koch street days, swimming galas were always (as were athletics) accompanied by a fancy dress parade or at the very least outfits themed by house or grade and this dressing up continues, some years more participated in than others, as a tradition today. The same silver plated trophies are awarded today to the winning houses that were used in the 1930s, year by year the winning house names are added to the engraving around the cup. These trophies, are kept with other school awards, in a specially designed cabinet under the watchful eye of Memory who runs the Coffee Shop.</p>
+    <p>In 2010, the baby pool was added, shades erected over the spectator stands and the starting blocks remodeled. The pool bottom was mosaicked with the school’s sports emblem, the ‘Dolphins’ of Sacred Heart College.</p>
+<p>The Inter House Galas remain one of the most looked forward to annual events– house chants are sung, teams are cheered and costumes worn. Over time swimming costumes changed from non-uniform, to red for everyone (not only Valerian House) during the 1980s/1990s to today’s Marist blue and gold topped with house-colour swimming caps. Since the Koch street days, swimming galas were always (as were athletics) accompanied by a fancy-dress parade and this dressing up continues, some years more participated in than others, as a tradition today. The same silver plated trophies awarded today were used in the 1930s, each year winning house names are engraved around the cup. </p>
 
     `,
     url: "assets/images/points-of-interest/21.37a.jpg",

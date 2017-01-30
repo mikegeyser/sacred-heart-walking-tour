@@ -5,5 +5,5 @@
   url: assets/images/points-of-interest/18.13.jpg
   reference: "Image: Marist Archive"
 ---
-null
+
         

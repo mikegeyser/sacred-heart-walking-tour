@@ -1,7 +1,7 @@
 ---
   id: 5
   type: 1
-  text: "Excerpt from G.Nolan’s recollective document “M.B.C Golden Jubilee at Observatory” written in 1974. This document, which reads like a post-dinner speech, was likely written for the Golden Jubilee Dinner celebrating 50 years of Sacred Heart College, Observatory held in The Ballroom of The Carlton Hotel in September 1974. The Ballroom was specially decorated in Blue & Gold for the occasion. G. Nolan was House Captain of O’Leary House in 1928. "
+  text: "Excerpt from G.Nolan’s document “M.B.C Golden Jubilee at Observatory”. This document reads like a post-dinner speech and was likely written for the 1974 Golden Jubilee Dinner. For the occasion, The Carlton Hotel Ballroom was decorated ‘Blue & Gold’. Nolan was O’Leary House Captain in 1928."
   url: assets/images/points-of-interest/03.52_53b_combined.jpg
   reference: "Image: Marist Archive"
 ---

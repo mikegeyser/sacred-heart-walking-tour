@@ -5,5 +5,5 @@
   url: assets/images/points-of-interest/05.22.jpg
   reference: "Image: The Star, Catholic History Bureau"
 ---
-null
+
         

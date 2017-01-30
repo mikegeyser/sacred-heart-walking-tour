@@ -1,7 +1,7 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("032", "The Struggle(s)", "Selected stories about some Sacred Heart’s activists from 1976-2016.", -26.1735, 28.0754);
+var poi = new PointOfInterest("032", "The Struggle(s)", "Selected stories about some Sacred Heart’s activists from 1976-2016.", -26.173831, 28.075469);
 
 
 poi.addElement({

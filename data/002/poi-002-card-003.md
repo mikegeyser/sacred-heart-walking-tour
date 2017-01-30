@@ -1,13 +1,21 @@
 ---
-  id: 3
+  id: 2
   type: 1
-  text: "One of the first photographs taken at the newly established school; boys and Brothers at Koch Street in 1889."
-  url: assets/images/points-of-interest/02.65f.jpg
-  reference: "Image: Marist Archive"
+  text: "Blah "
+  url: assets/images/points-of-interest/01.25b_26b_combined.jpg
+  reference: "Image: Catholic History Bureau"
 ---
-According to records, 27 pupils (7 Catholics, 12 non-Catholics and 8 Jews) arrived to register on the first day, Wednesday 9th October 1889\. The the first school pupil to arrive at the new school was Peter Busschau (in 2017 there are still Busschau’s from the same family at Marist schools). Not long after Busschau’s arrival a wagon load of boys came from the End Street Convent, run by the Holy Family sisters, bringing their desks with them. Within the first two years the school roll was at 300 pupils. In these early days the school was known as Marist Brothers’ College.
+<figure>![]() ![](assets/images/points-of-interest/01.26b.jpg)
 
-The single-storey building in the background was the school house – divided inside with wood and glass panels into three classroom areas. This became the ground floor of the western wing of the Koch street premises as it started to grow. The playground at this stage was open veld for Doornfontein was not yet built up.
+<figcaption>Images: Catholic History Bureau</figcaption>
 
-In this photograph the boy on the tricycle is identified as George Nolan – later to become uncle of Brother Paul, a much beloved member of the Eckstein Street community of Marist Brothers. Another of the boys here, as recorded in the Marist Archives (but not clearly identifiable due to the quality of the image) is Joe Geddes – later to become a teacher at the school and after whom one of the school houses is named.
+</figure>
+
+Brother Nectaire described each of these Brothers to Father Monginoux in a letter written in November 1888.
+
+> “Here are their names: Brother Frederick, Principal, a good little Bourguignon* who has been in the Colony for 10 years already; Brother Albert-Dominic, a courageous Irishman who has been with me here since last March and Brother Euphrase an excellent Belgian who will teach Dutch. Three excellent pious men who will be an asset to you and edifying for your parish.”
+> 
+> <footer>*from the Bourgogne region in France.</footer>
+
+Brother Frederick remained Principal for the first thirteen years of the school’s existence until 1903 when he was appointed Marist Provincial for the newly created administrative Province of South Africa (the first outside of Europe). By his former pupils he was considered as fatherly figure who was famed around the school for carrying a small black bag with him at most times – which contained sweets and sticks – that he dove into to appropriately reward or rebuke deserving pupils. Brother Frederick lived until three weeks before his 100th birthday in 1946\. Brother Albert- Dominic died after an illness in 1894 and Brother Euphrase was killed during a cyclone in 1912.
         

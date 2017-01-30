@@ -1,12 +1,11 @@
 ---
   id: 7
   type: 1
-  text: "Brother Martin Xavier in c.1990. "
-  url: assets/images/points-of-interest/31.86.bmp
+  text: "Brother Jordan was Principal of the College in the 1950s and he is pictured here in 1975 three years before his death."
+  url: assets/images/points-of-interest/31.87.jpg
   reference: "Image: Marist Archive"
 ---
-Born Ian Anthony Whiteford, in 1936 (in Johannesburg), Brother Martin was a learner at St Joseph’s College in Rondebosch from 1945-1953 where his family moved after the end of the Second World War. Marist Archivist for over 20 years until shortly before his death in 2013, he meticulously ordered and assembled the Archival material kept in the room at Observatory. In the latter years of this work Brother Martin had begun to digitalize many of the photographs and documentation kept in the archive and, in addition, he amassed biographies for almost every Brother appointed to and in South Africa since 1867. 
+Brother Jordan was born Michael Mengele in Bavaria (Germany) and aged 13 entered the Marist Juniorate at Grugliasco in Italy. As a young boy he would have heard the same bell tolling that is rung by the Grade 1s and Grade 12s to mark their entry into and exit from the College; for The Marist Bell was brought from Italy at the request of Brother Jordan to be installed in the newly built Memorial Chapel in 1956. 
 
-Brother Martin taught Religious Education, Geography, the Cadets and some sports at Sacred Heart College from the 1970s until the mid 1980s. He was also responsible for retreats and pastoral care for both learners and staff at each of the schools he was involved with for later he moved to St. Henry’s, Durban and then into the Archivist role.
-
+Brother Jordan, came to South Africa in 1937, teaching at all but one of the Marist schools and serving as a Provincial Councillor and Superior in his time. During his years as Principal of the College, Brother Jordan researched the history of the Marist Brothers and Holy Family Sisters from their beginnings and later their presence in South Africa (until the 1950s). The former piece of research is kept in the Marist Archive and has been used as background to many a piece in the Maristonian and College yearbooks. 
 

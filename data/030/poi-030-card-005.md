@@ -1,9 +1,9 @@
 ---
   id: 5
   type: 1
-  text: "1937 prize-giving in The Hall. "
-  url: assets/images/points-of-interest/30.23.jpg
+  text: "The Hall at Obs in c1928. "
+  url: assets/images/points-of-interest/30.04a.jpg
   reference: "Image: Marist Archive"
 ---
-The school hall was not only used for gym and PT but for formal occasions such as prize-giving as in the occasion shown here. Only very senior boys and staff were allowed to sit on chairs. At Koch Street a new gym was built in 1935 for by then the original one was 40 years old and no longer big enough and the equipment outdated. At Observatory, the 1926 gym was modified several times. In 1938 a stage was added (hence the table just visible on the floor in this image), in 1945 a lighting rig was added to the ceiling and between the 1950s and 1990s further improvements were made which included modifications to the stage dressing rooms, sound and lighting facilities.
-        
+The Hall was built at the same time as the main school building at Observatory and was ready for the opening of the school in 1926. This photograph was taken in the very early days before the installation of the World War One memorial which was installed by 1930 to the left-hand side of the door in the centre of the back wall. Note the gymnastics apparatus that was fixed into the ceiling. The original ceiling, pressed metal panelling painted in white can also be seen. The boys here are wearing shorts with their gymnastic kit which was an addition to the uniform for the junior boys.
+           

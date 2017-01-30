@@ -1,11 +1,11 @@
 ---
   id: 4
   type: 1
-  text: "1932 – a letter sent from New Zealand was delivered to ‘Obs’ addressed only to ‘Biggest School, Transvaal, South Africa’! "
-  url: assets/images/points-of-interest/03.116.jpg
+  text: "The College pictured in 1927. In the archives this picture is labeled as “Obs in the veld”. Its location on the then outskirts of town was met with some resentment for many felt that the new site was too far out of town to be easily accessed."
+  url: assets/images/points-of-interest/03.24b.jpg
   reference: "Image: Marist Archive"
 ---
-The additional text which reads ‘Marist Bros. Observatory, Joburg’ was added by the Post Office who had identified Obs as the ‘biggest school’ in the Transvaal – by 1932 Johannesburg was already by far the largest city in South Africa. That Obs was recognised as the ‘Biggest School’ in the city speaks volumes about its then reputation. This reputation initially extended from that of its mother school in Koch Street but in very little time Obs was to become the Marist ‘monument’ that it remains today.
+The first few years at Obs were years of expansion –  in terms of both buildings and pupil numbers. In this image you can just make out the Hall building to the right of the main building. Another feature of the college which don’t exist today are the open upper walkways which lead from the northern and southern ends of the main building towards the central facade. Later these were covered over and used to extend the interior space on the upper level. One of the first ‘extras’ was the swimming pool added in 1930. The school opened as a school for boys – white boys – with some Chinese pupils being admitted in the 1930s. Obs, like Sacred Heart at Koch Street, also offered boarding facilities. The number of pupils grew so quickly that a new wing was added in 1931 which added several classrooms, Chaplain’s quarters, a library, a sanatorium and a second dormitory. This is the building that today houses the Marist Provincial Offices and a number of classrooms, situated parallel to the Hall. 
 
-By the mid 1930s the school numbers were close to 400 and a new classroom block was added (now part of the junior primary quad) and further sporting facilities added. The school was full to capacity and Koch Street was by now again oversubscribed, particularly for both schools in the boarding departments. By the early 1940s Obs had over 600 pupils and more primary aged pupils were admitted to the school (meaning that Koch Street was not the only preparatory school, though it continued to take the very youngest Marist pupils). The Marist Brothers sought to acquire another site and in 1941 St. David’s Inanda was opened.
+At the time of opening there were 12 teaching Brothers assisted by several specialist lay-teachers including alumnus Mr. W. Singleton who until then taught at Koch Street. Sources record that “the boys were full of admiration for the well – ventilated classrooms, the hall, the tennis-courts and the wide open spaces.”
         

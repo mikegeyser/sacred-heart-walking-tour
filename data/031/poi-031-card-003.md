@@ -9,4 +9,3 @@ In those early days of Johannesburg explosions related to mining were not infreq
 
 In the 1930 Maristonian, Koch Street alumnus C.H.Holden recalled the 1896 blast;
 > “It was just about 3.20 in the afternoon of the 19th February – Ash Wednesday – that, while Brother Kieran was taking class, the windows were suddenly blown in. Of course we were all for dashing out to see what it meant but Brother Kieran would not let us go until closing time… I arrived home to find the roof of our house lifted some inches of the wall. This was however a trifle compared to the desolation nearer the scene of the explosion.”
-

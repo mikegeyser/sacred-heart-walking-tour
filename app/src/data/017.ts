@@ -58,6 +58,7 @@ poi.addElement({
     text: "Sanatorium for boarders in the 1940s.",
     furtherText: `
     <p>There were ten beds available for sick boarders in the Sanatorium who needed to be separated from the rest of the boys in case they spread infectious diseases or simply needed rest away from the noise of the dormitories. Matron had her own rooms nearby too; in addition to the Sanatorium and Infirmary she had her own private suite allowing her to stay over if boarders required night time nursing.</p>
+<p>Today the school nurses’ rooms are located in the lower ground floor under the Primary School reception office and the former Sanatorium (and senior dormitories) were readapted for classroom and office use.        </p>
 
     `,
     url: "assets/images/points-of-interest/04.12.jpg",
@@ -80,11 +81,10 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
-    text: "The Epaulette worn by School Nurse Peta-Anne Munnik in 2017.",
+    text: "The Epaulette worn by School Nurse Peta-Anne Munnik.",
     furtherText: `
     <p>Under the 1978 Nurses Act the epaulettes and badges worn by a registered and practicing nurse are protected. By law they must be worn whilst on duty (with a few specified exceptions. Nurse Munnik’s maroon epaulette denotes that she is a Registered General Nurse and the bars underneath signify particular capacities in the following areas, community nursing (yellow), psychiatrics (black) and midwifery (green). The lamp within the blue enameled edged badge, the Badge of the South African Nursing Council, alludes to Florence Nightingale ‘the lady with the lamp’ considered as the creator of modern nursing.</p>
 <p>As well as being fully informed of and able to attend to the special medical needs of the learners and staff (for example any existing conditions or allergies that need specific ministrations) Nurse Munnik, staff since 2010, organizes staff training for First Aid as part of the Health and Safety Committee and assists support staff to get access to health care.</p>
-<p>Nurse Munnik’s rooms are located in the lower ground floor under the Primary School reception office. In the 1960s these rooms were workshops but with noise from machinery disturbing classes above these were moved to the new science block from 1973/4 and repurposed as nursing rooms from that time. Around this time boarding at the school finished and the previous senior dormitories and matron’s quarters were readapted to classrooms and offices.</p>
 
     `,
     url: "assets/images/points-of-interest/17.11.jpg",

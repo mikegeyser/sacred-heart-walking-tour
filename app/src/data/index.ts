@@ -8,9 +8,11 @@ import { two } from './002';
 import { three } from './003';
 import { four } from './004';
 import { five } from './005';
+import { six } from './006';
 import { seven } from './007';
 import { nine } from './009';
 import { ten } from './010';
+import { eleven } from './011';
 import { thirteen } from './013';
 import { sixteen } from './016';
 import { seventeen } from './017';
@@ -19,6 +21,7 @@ import { twenty } from './020';
 import { twentyone } from './021';
 import { twentytwo } from './022';
 import { twentythree } from './023';
+import { twentyfour } from './024';
 import { twentysix } from './026';
 import { twentyeight } from './028';
 import { twentynine } from './029';
@@ -29,6 +32,7 @@ import { thirtysix } from './036';
 import { thirtyseven } from './037';
 import { thirtyeight } from './038';
 import { thirtynine } from './039';
+import { forty } from './040';
 
 var allPointsOfInterest: { [id: string]: PointOfInterest; } = {};
 
@@ -47,9 +51,11 @@ addPointOfInterest(two);
 addPointOfInterest(three);
 addPointOfInterest(four);
 addPointOfInterest(five);
+addPointOfInterest(six);
 addPointOfInterest(seven);
 addPointOfInterest(nine);
 addPointOfInterest(ten);
+addPointOfInterest(eleven);
 addPointOfInterest(thirteen);
 addPointOfInterest(sixteen);
 addPointOfInterest(seventeen);
@@ -58,6 +64,7 @@ addPointOfInterest(twenty);
 addPointOfInterest(twentyone);
 addPointOfInterest(twentytwo);
 addPointOfInterest(twentythree);
+addPointOfInterest(twentyfour);
 addPointOfInterest(twentysix);
 addPointOfInterest(twentyeight);
 addPointOfInterest(twentynine);
@@ -68,6 +75,7 @@ addPointOfInterest(thirtysix);
 addPointOfInterest(thirtyseven);
 addPointOfInterest(thirtyeight);
 addPointOfInterest(thirtynine);
+addPointOfInterest(forty);
 
 
 // @Injectable()

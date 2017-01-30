@@ -1,9 +1,12 @@
 ---
   id: 4
   type: 1
-  text: "The Hall at Obs in c1928. "
-  url: assets/images/points-of-interest/30.04a.jpg
+  text: "Mr Vieyra pictured with a Koch Street Fencing team."
+  url: assets/images/points-of-interest/27.29.jpg
   reference: "Image: Marist Archive"
 ---
-The Hall was built at the same time as the main school building at Observatory and was ready for the opening of the school in 1926\. This photograph was taken in the very early days before the installation of the World War One memorial which was installed by 1930 to the left hand side of the door in the centre of the back wall. Note the gymnastics apparatus that was fixed into the ceiling. The original ceiling, pressed metal panelling painted in white can also be seen. The boys here are wearing shorts with their gymnastic kit which was an addition to the uniform for the junior boys.
+Mr. Vieyra, a Jewish immigrant from the Netherlands who arrived in Johannesburg in 1896 became a favoured teacher at the school, remembered for his echoing around the school of ‘von-two-three…von-two-three’ to encourage precision in the repetition of exercises. He was considered to have been one of the greatest early South African gymnasts and contributed much to the development of the sport in the country. 
+
+Mr. Vierya’s son, Herbert Vieyra, a Koch Street alumnus, became an advocate who was legal advisor to the Regent of Basutoland and latterly became a Judge.  Herbert Vieyra converted to Catholicism (contrary to the wishes of his family) and became a lay member of the Dominican Order in the 1930s. He is particularly remembered for his dedication to the cause of social justice and his contribution to the SACBC (South African Catholic Bishops’ Conference) stance against apartheid in his role as Chair of the Joint Council for Catholic African and Europeans (JCCAE) in the 1950s.
+
         

@@ -1,11 +1,8 @@
 ---
   id: 6
   type: 1
-  text: "Brother Jordan was Principal of the College in the 1950s and he is pictured here in 1975 three years before his death."
-  url: assets/images/points-of-interest/31.87.jpg
+  text: "In 2000, the Grade 7s visited Sterkfontein Caves and were fortunate to find Professor Tobias, Professor Ron Clarke and Dr Ali Bacher on site. Here they are pictured together."
+  url: assets/images/points-of-interest/26.09.jpg
   reference: "Image: Marist Archive"
 ---
-Brother Jordan was born Michael Mengele in Bavaria (Germany) and aged 13 entered the Marist Juniorate at Grugliasco in Italy. As a young boy he would have heard the same bell tolling that is rung by the Grade 1s and Grade 12s to mark their entry into and exit from the College; for The Marist Bell was brought from Italy at the request of Brother Jordan to be installed in the newly built Memorial Chapel in 1956. 
-
-Brother Jordan, came to South Africa in 1937, teaching at all but one of the Marist schools and serving as a Provincial Councillor and Superior in his time. During his years as Principal of the College, Brother Jordan researched the history of the Marist Brothers and Holy Family Sisters from their beginnings and later their presence in South Africa (until the 1950s). The former piece of research is kept in the Marist Archive and has been used as background to many a piece in the Maristonian and College yearbooks. 
-
+During their impromptu meeting Professor Tobias told the Grade 7s about the Marist connection to the caves. Guglielmo Martinaglia, an Italian immigrant to Johannesburg, he assumed had become associated with the Brothers through his Catholic faith (he is buried in the Roman Catholic cemetery in Burgershoop, Krugersdorp, only a few miles from the Sterkfontein Caves). It is possible that his son had been enrolled at Koch Street though no record of a boy by that surname exists in the annals. Perhaps the visit reminded Professor Tobias to return the photo of the Brothers visiting the caves as he’d had it by then in his possession for several years!

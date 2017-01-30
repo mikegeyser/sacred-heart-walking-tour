@@ -61,7 +61,7 @@ poi.addElement({
 <p>Brother Frederick remained Principal for the first thirteen years of the school’s existence until 1903 when he was appointed Marist Provincial for the newly created administrative Province of South Africa (the first outside of Europe). By his former pupils he was considered as fatherly figure who was famed around the school for carrying a small black bag with him at most times – which contained sweets and sticks – that he dove into to appropriately reward or rebuke deserving pupils. Brother Frederick lived until three weeks before his 100th birthday in 1946. Brother Albert- Dominic died after an illness in 1894 and Brother Euphrase was killed during a cyclone in 1912.</p>
 
     `,
-    url: "assets/images/points-of-interest/01.25b.jpg",
+    url: "assets/images/points-of-interest/01.25b_26b_combined.jpg",
     reference: "Image: Catholic History Bureau"
 });
 
