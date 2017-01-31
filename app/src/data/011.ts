@@ -35,7 +35,7 @@ poi.addElement({
     <p>The image of the tower was taken before the Main Quadrangle was renovated in the late 1990s. The piazza of the quadrangle was liable to flooding in heavy rains; the after effects of this can be seen in the lower right hand corner of the image. </p>
 
     `,
-    url: "assets/images/points-of-interest/34.24b.jpg",
+    url: "assets/images/points-of-interest/35.24b.jpg",
     reference: "Image: Marist Archive"
 });
 

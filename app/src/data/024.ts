@@ -58,7 +58,7 @@ poi.addElement({
     type: 1,
     text: "Front of invitation to the opening of the Science Block in 1973. “Ernie’s Lab” was the Science room at Koch Street.",
     furtherText: `
-    <figure><img src="assets/images/points-of-interest/12.12b.jpg" alt="">
+    <figure><img src="assets/images/points-of-interest/24.12b.jpg" alt="">
   <figcaption>Back of Invitation to Science Block opening. (Image: Marist Archive)</figcaption>
 </figure>
 

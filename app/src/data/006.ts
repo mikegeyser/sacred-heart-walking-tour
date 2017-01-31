@@ -77,12 +77,15 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
-    text: "The gates in c.1935. Note that there was no signage over the gates in the early days of the College. ",
+    text: "The College gates as they appear in 2017. The lettering for the signage was prepared by Frank Hollingworth (who has taught High School Science since the late 1970s) in December 1979 because the College the reverted to the use of its religious name ‘Sacred Heart College’ when it became Co-Educational in 1980. ",
     furtherText: `
-    <p>Joseph Letebele (member staff since 1961) shows where he put his initials “J.L. ‘79” into the wet concrete support at the right hand (on exit) base of the gates during the renovations. Look carefully and you can still see this initialling today. </p>
+    <p>Frank Hollingworth recounts how he created these:</p>
+<blockquote>
+<p>&quot;Brother Neil gave the staff tasks to get us ready for the big day. Mine was to change the &#39;Marist Brothers College&#39; sign above the front gate to &#39;Sacred Heart College&#39;. I was able to use many of the existing letters for this purpose, but had to make C, D, E and A.  I was at a bit of a loss as to how to do this, then had the idea of using the lead pipes which were still sticking out of the wall in the old boarders&#39; boot room (the present-day girls’ toilets next to the IT laboratory). I melted this lead and poured in into moulds which I&#39;d made out of wood, then erected scaffolding under the gate and placed all the letters in the iron frame to spell out the new name. I&#39;ve often looked at the sign will some pride, even though the &#39;D&#39; is a little crooked and I might have made a better job of the &#39;A&#39;. Nevertheless, it is my small &#39;footprint&#39; which will endure for some years to come I hope!&quot;</p>
+</blockquote>
 
     `,
-    url: "assets/images/points-of-interest/06.06.jpg",
+    url: "assets/images/points-of-interest/06.25.jpg",
     reference: "Image: C Kamana"
 });
 

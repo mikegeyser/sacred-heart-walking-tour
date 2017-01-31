@@ -5,7 +5,7 @@
   url: assets/images/points-of-interest/24.11b.jpg
   reference: "Image: Marist Archive"
 ---
-<figure>![](assets/images/points-of-interest/12.12b.jpg)
+<figure>![](assets/images/points-of-interest/24.12b.jpg)
   <figcaption>Back of Invitation to Science Block opening. (Image: Marist Archive)</figcaption>
 </figure>
 

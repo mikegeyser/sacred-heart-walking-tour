@@ -1,7 +1,7 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("029", "WW1 Memorial", "Marist pupils from Koch Street who served in WW.", -26.1732, 28.075287);
+var poi = new PointOfInterest("029", "WW1 Memorial", "Marist pupils from Koch Street who served in WW1.", -26.1732, 28.075287);
 
 
 poi.addElement({

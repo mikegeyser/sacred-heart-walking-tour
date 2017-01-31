@@ -1,7 +1,4 @@
 import { PointOfInterest } from '../models/point-of-interest';
-import { Injectable } from '@angular/core';
-// import { Http } from '@angular/http';
-import * as marked from 'meta-marked';
 
 import { one } from './001';
 import { two } from './002';
@@ -10,24 +7,34 @@ import { four } from './004';
 import { five } from './005';
 import { six } from './006';
 import { seven } from './007';
+import { eight } from './008';
 import { nine } from './009';
 import { ten } from './010';
 import { eleven } from './011';
+// import { twelve } from './012';
 import { thirteen } from './013';
+// import { fourteen } from './014';
+import { fifteen } from './015';
 import { sixteen } from './016';
 import { seventeen } from './017';
 import { eighteen } from './018';
+import { nineteen } from './019';
 import { twenty } from './020';
 import { twentyone } from './021';
 import { twentytwo } from './022';
 import { twentythree } from './023';
 import { twentyfour } from './024';
+import { twentyfive } from './025';
 import { twentysix } from './026';
+import { twentyseven } from './027';
 import { twentyeight } from './028';
 import { twentynine } from './029';
 import { thirty } from './030';
 import { thirtyone } from './031';
 import { thirtytwo } from './032';
+import { thirtythree } from './033';
+// import { thirtyfour } from './034';
+import { thirtyfive } from './035';
 import { thirtysix } from './036';
 import { thirtyseven } from './037';
 import { thirtyeight } from './038';
@@ -53,42 +60,36 @@ addPointOfInterest(four);
 addPointOfInterest(five);
 addPointOfInterest(six);
 addPointOfInterest(seven);
+addPointOfInterest(eight);
 addPointOfInterest(nine);
 addPointOfInterest(ten);
 addPointOfInterest(eleven);
+// addPointOfInterest(twelve);
 addPointOfInterest(thirteen);
+// addPointOfInterest(fourteen);
+addPointOfInterest(fifteen);
 addPointOfInterest(sixteen);
 addPointOfInterest(seventeen);
 addPointOfInterest(eighteen);
+addPointOfInterest(nineteen);
 addPointOfInterest(twenty);
 addPointOfInterest(twentyone);
 addPointOfInterest(twentytwo);
 addPointOfInterest(twentythree);
 addPointOfInterest(twentyfour);
+addPointOfInterest(twentyfive);
 addPointOfInterest(twentysix);
+addPointOfInterest(twentyseven);
 addPointOfInterest(twentyeight);
 addPointOfInterest(twentynine);
 addPointOfInterest(thirty);
 addPointOfInterest(thirtyone);
 addPointOfInterest(thirtytwo);
+addPointOfInterest(thirtythree);
+// addPointOfInterest(thirtyfour);
+addPointOfInterest(thirtyfive);
 addPointOfInterest(thirtysix);
 addPointOfInterest(thirtyseven);
 addPointOfInterest(thirtyeight);
 addPointOfInterest(thirtynine);
 addPointOfInterest(forty);
-
-
-// @Injectable()
-// export class PoiLoader {
-
-//     constructor(private http: Http) {
-//         this.http.get('assets/data/001/poi-001-card-001.md').toPromise().then((response) => {
-//             let blah = marked(response.text());
-//             console.log(blah);
-//         });
-//     }
-
-//     getAll(){
-        
-//     }
-// }

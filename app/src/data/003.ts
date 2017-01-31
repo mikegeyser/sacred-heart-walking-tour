@@ -107,7 +107,7 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
-    text: "Colin Northmore, current Principal of Sacred Heart College (since 2003). ",
+    text: "Colin Northmore, Principal of Sacred Heart College today. ",
     furtherText: `
     <p>In 2017, Sacred Heart College serves approx. 1,200 learners from Pre-Primary to Matric plus 200 who attend the Three2Six school. The school provides a nurturing and dynamic learning environment supported by Marist educational principles; a representative and diverse microcosm of the positive possibilities of South African society. The school is proud of its heritage and whilst protective of its positive contributions, continues to innovate, leaving behind elements better bygone (as evidenced by its ‘changing face’). Colin Northmore prefaced the 2010 yearbook with this summary of the unique character of the college:</p>
 <blockquote>

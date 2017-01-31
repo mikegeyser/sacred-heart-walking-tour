@@ -1,7 +1,7 @@
 ---
   id: 8
   type: 1
-  text: "Colin Northmore, current Principal of Sacred Heart College (since 2003). "
+  text: "Colin Northmore, Principal of Sacred Heart College today. "
   url: assets/images/points-of-interest/03.99.jpg
   reference: "Image: Sacred Heart College"
 ---
