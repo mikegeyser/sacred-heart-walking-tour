@@ -1,36 +1,60 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("001", "Brothers", "Beginnings in France, South Africa and now.", -26.173777, 28.075287);
+var poi = new PointOfInterest("001", "Marist Brothers", "Beginnings in France, South Africa and now.", -26.173891, 28.075287);
 
 
 poi.addElement({
     type: 1,
-    text: "The early life of Marcellin Champagnat and its setting in south-east- central France (now the department of Auvergne-Rhône- Alpes).",
+    text: "Marcellin Joseph Benedict Champagnat was born on 20th May 1789 in south-east-central France.",
     furtherText: `
-    <p>Circled on the map are places of interest that relate to Champagnat, founder of the Marist Brothers. Marcellin Joseph Benedict Champagnat was born on 20th May 1789 in Le Rosey, a hamlet of the village Marlhes. The ninth of ten children, he spent his early years working on his family’s farm after having vowed not to return to school after just one day. Champagnat witnessed cruelty to, and humiliation of, the pupils and this experience, along with the influence of the deep faith of his mother and aunt shaped the way that his life was to develop.</p>
-<p>Despite having had no formal schooling, Champagnat willed to study to become a priest and from the age of 15 (after re-sitting the entrance exam) entered a seminary to train for the priesthood. At the age of 26 he was ordained (22nd July 1816). The day after ordination, Champagnat and some other newly ordained priests went to Fourvière, to the shrine of Mary, and pledged their fidelity to her. This communal allegiance took the form of a newly created society (to be made up of priests, sisters and lay people) called The Society of Mary.</p>
-<p>At age 27, in 1816, he was appointed curate of the village of La Valla and soon after visited a sick boy, Jean –Baptiste Montagne, in the remote and poor village of Les Palais. The boy died and Marcellin was troubled that he did without having had any education – spiritual or otherwise. Thereon, Champagnat vowed to form a brotherhood of teachers to help children who were on the margins of society. This he founded on 2nd January 1817 in La Valla, as Les Petits Frères de Marie (The Little Brothers of Mary) or Marist Brothers . In 1823 Champagnat was walking in the mountains when he was trapped by heavy falling snow near Graix. He survived and was grateful to Mary, having sought her protection during the incident.</p>
-<p>By 1825 the Marist Brotherhood had grown such that new premises was needed and Notre Dame de L’Hermitage was opened near St Chamond. This was designed and built by Champagnat (skilled in metal and wood work trained by his farming father) aided by twenty Brothers and some local artisans.</p>
+    <p>Born in <strong>Le Rosey, Marlhes</strong>, the ninth of ten children, Marcellin Champagnat spent his early years working on his family’s farm as he’d vowed not to return to school after his first day. There, Champagnat had witnessed cruelty to, and humiliation of, the pupils. This experience and the deep religious faith of his mother and aunt shaped his life’s path, inspiring his religious vocation and his drive for compassionate education. Despite no formal early schooling, Champagnat willed to study to become a priest and aged 15 entered a seminary (after twice sitting the entrance exams). He was ordained, aged 26, on 22nd July 1816. The next day Champagnat and some other newly ordained priests went to <strong>Fourvière</strong> *, to the shrine of Mary, to pledge their fidelity to her. Together they created a group (to be made up of priests, sisters and lay people) called The Society of Mary with the intention of carrying out their ordained life dedicated to following the example of Mary and to emulate the loving relationship between her and Jesus. </p>
+<p>*words in bold (on this slide and next correspond to the red circled places on the map above)</p>
 
     `,
     url: "assets/images/points-of-interest/01.115b.jpg",
+    reference: "Image: Marist Archive / annotated by C Kamana"
+});
+
+
+poi.addElement({
+    type: 1,
+    text: "Notre Dame de L’Hermitage in 1836.",
+    furtherText: `
+    <p>Aged 27 and Curate of the village of <strong>La Valla*</strong>, Marcellin Champagnat visited a sick boy, Jean –Baptiste Montagne, in the remote village of <strong>Les Palais</strong>. The boy died and Champagnat was troubled that he did so without having had any education, spiritual or otherwise. For Champagnat, this experience was a message from God. Thereon, Champagnat vowed to form a brotherhood of teachers to lovingly educate children at the margins of society. On 2nd January 1817 in <strong>La Valla</strong> Champagnat founded Les Petits Frères de Marie (The Little Brothers of Mary or Marist Brothers). In 1823, trapped by heavy falling snow in the mountains near <strong>Graix</strong>, Champagnat prayed to Mary asking for protection and to her he attributed his survival. Growing quickly, (from three to nearly 30 Brothers in just over five years) the Marist Brotherhood needed new premises and <strong>Notre Dame De L&#39;Hermitage</strong> opened near St Chamond in 1825. Champagnat, trained in metal and woodwork by his father while working on the family farm, designed and built L’Hermitage aided by twenty Brothers and local artisans.</p>
+<p>The image on this slide is by Thomas Gauthron. Gauthron, an artist, from the area of St.Etienne (the largest town near L’Hermitage) was known for his print making, specialising in religious subjects. </p>
+<blockquote>
+<footer>*words in bold signify places on map shown previously.</footer>    </blockquote>
+
+    `,
+    url: "assets/images/points-of-interest/01.117b.jpg",
     reference: "Image: Marist Archive"
 });
 
 
 poi.addElement({
     type: 1,
-    text: "The Marist Brothers after Champagnat’s death in 1840.",
+    text: "One of the Ordinands with whom Champagnat (top left) pledged to Mary at Fourvière was Fr Jean-Claude Colin (bottom left), who formed a group of priests with a missionary purpose, Les Pères Maristes (Marist Fathers). Colin invited nuns Jeanne-Marie Chavoin (top right) to begin the Sisters of the Congregation of Mary and Marie Françoise Perroto (bottom right), the Marist Missionary Sisters.",
     furtherText: `
-    <p>One of the ordinands with whom Champagnat pledged to Mary in 1816 was Fr Jean-Claude Colin. Within the Society of Mary, set up in 1816 at Fouvière Colin had set about forming a group of priests with a missionary purpose, Les Pères Maristes (Marist Fathers). Shortly after the Fouvière pledge, Colin also set about inviting Jeanne-Marie Chavoin (a nun) to begin the Sisters of the Congregation of Mary. These three groups (Marist Fathers, Marist Brothers and Marist Sisters) became the first three of four parts of the Society of Mary. The Society of Mary was officially approved by Rome in 1834 with these three branches and In 1836 the Lay Marists were also officially accepted by Rome as the fourth part of the Society of Mary.</p>
-<p>Though sharing the same devotion to Mary as the way to faithful practice, each section of the society fulfilled a particularly unique purpose. For example, the Marist Fathers were to focus on missionary work. The Marist Brothers, had their particular calling within education.</p>
-<p>In 1863, over twenty years after Champagnat’s death, the Marist Brothers were given autonomous institutional status as the Fratres Maristae a Scholis (FMS) or Marist Brothers of the Schools meaning the Brothers could concentrate on education rather than teaching in conjunction with ministering.</p>
-<p>This badge is the international crest of the Marist Brothers of the Schools. The intertwined AM monogram (seen on many of the Marist school blazers, though no longer on Sacred Heart’s) stands for Ad Mariam, a shortened form of Ad Jesum per Mariam (to Jesus through Mary), the Marist motto. The twelve stars and crown above the monogram are taken from the symbolism in the book of Revelation (21:1) which the Church accounts as the coronation of Mary and a reference to the twelve tribes of Israel / twelve disciples (themselves representative of all peoples and therefore symbolic of the international Marist congregation). The three violets are symbolic also – they represent the virtues of humility, simplicity and modesty that Champagnat espoused – and just as the actual violet is tiny in size but has a strong, beautiful and lingering fragrance; these virtues are a huge powerhouse for good despite their unimposing fronts. Currently there are Marist Brothers and schools in 80 countries worldwide.</p>
+    <p>Marcellin Champagnat regarded Jean-Claude Colin as the first Marist as he was the lead founder of the Society of Mary. Though even during Champagnat’s lifetime, the Marist Brothers (and of course today a much wider audience) regard Champagnat as such. With the Marist Brothers, the Fathers and Sisters became the first three parts of the Society of Mary, officially approved by Rome in 1834. In 1836 the Lay Marists were officialised by Rome as the fourth branch of the Society of Mary.</p>
+<p>In 1863 the Marist Brothers were given autonomous institutional status as the Fratres Maristae a Scholis (FMS) or Marist Brothers of the Schools. Now the Brothers could concentrate on education rather than teaching in conjunction with ministering. Each section of the society fulfilled a particularly unique purpose. The Marist Fathers focus on missionary work. The Marist Brothers have their particular calling within education, following in the footsteps of the order of Brothers that Marcellin Champagnat started in 1817 at La Valla. </p>
+
+    `,
+    url: "assets/images/points-of-interest/01.112.jpg",
+    reference: "Image: The Society of Mary; Marists in the US"
+});
+
+
+poi.addElement({
+    type: 1,
+    text: "This badge is the international crest of the FMS (the Marist Brothers).",
+    furtherText: `
+    <p>The intertwined AM monogram in the centre of this crest (seen on many of the Marist school blazers, though no longer on Sacred Heart’s) stands for Ad Mariam, a shortened form of Ad Jesum per Mariam (to Jesus through Mary), the Marist motto.  The twelve stars and crown are taken from the symbolism in the book of Revelation (21:1) which Catholics interpret as signifying the coronation of Mary and referencing the twelve tribes of Israel / twelve disciples (themselves representative of all peoples like the international Marist congregation). </p>
+<p>The three violets represent the virtues of humility, simplicity and modesty that Champagnat espoused; just as the actual violet is tiny in size but has a strong, beautiful and lingering fragrance these virtues are huge powerhouses for good despite their outward quietness. Currently there are Marist Brothers and schools in 80 countries worldwide.</p>
 
     `,
     url: "assets/images/points-of-interest/01.109.jpg",
-    reference: "Image: http://www.champagnat.org/000.php?p=166"
+    reference: "Image: Institute of the Marist Brothers (FMS)"
 });
 
 
@@ -38,8 +62,7 @@ poi.addElement({
     type: 1,
     text: "A timetable from 1885 (St Aloysius School, Cape Town). On the left hand side is the timetable for the Brothers (including 4 set prayer sessions) and on the right for school pupils (including three kinds of Maths class in the day – arithmetic, euclid (geometry) and algebra).",
     furtherText: `
-    <p>In April 1867, five Marist Brothers arrived in South Africa (at Simon’s Bay) after 62 days at sea on gunship ‘L’Ephigenie’. They had answered the invitation by the Bishop of the Cape of Good Hope (Western Division), Thomas Grimley, relayed via the Pope Pius XI directly to the Superior General of Marist Brothers to come and teach. These Brothers (two from France, one each from Belgium, Ireland and England) set up two schools that year in Hatfield Street, Cape Town. St. Aloysius’ School (financed by the colonial government) opened with ninety -our pupils and St. Joseph’s Academy (fee paying) with nine pupils, the first Marist schools outside of Europe. Within a year the pupil rolls increased to over 150 and over 30 respectively and continued to grow. Bishops in other dioceses in South Africa, emboldened by the success began to ask for Marist Brothers.</p>
-<p>Though twenty Marist schools and training missions opened in South Africa following the arrival of the first Brothers in 1867, only 5 remain today in 2017. Reasons surrounding language/religion and the socio-political structure of South Africa particularly during the years between 1940-1990, the effects of the first and second world wars (many Brothers conscripted in these) and the sourcing of Brothers elsewhere internationally are cited by the Marist institute as reasons for this. Furthermore, issues surrounding funding for the schools, influences of social teachings from Vatican II which led to clashes between teachings of Catholicism and the apartheid government as well as the Marist principles of inclusion and modesty versus some sentiments within South African society to the opposite can be seen as contributory to this.</p>
+    <p>Thomas Grimley, Bishop of the Cape of Good Hope (Western Division), asked Pope Pius XI to send teaching Brothers to start a school for Catholic children in his diocese and, in turn, the Pope asked the Superior General of Marist Brothers to help. In April 1867, five Marist Brothers arrived in South Africa (at Simon’s Bay) after 62 days at sea on gunship ‘L’Ephigenie’.  These Brothers (two from France, one each from Belgium, Ireland and England) set up two schools that year in Cape Town. St. Aloysius’ School (financed by the colonial government) opened with ninety-four pupils and St. Joseph’s Academy (fee paying) with nine pupils, the first Marist schools outside of Europe were set up side by side in Hatfield Street. Bishops in other South African dioceses emboldened by the schools&#39; success began to ask for Marist Brothers. </p>
 
     `,
     url: "assets/images/points-of-interest/01.77c.jpg",
@@ -48,24 +71,11 @@ poi.addElement({
 
 
 poi.addElement({
-    type: 1,
-    text: "Brother Norbert Mwila, Marist Provincial of Southern Africa since August 2016.",
-    furtherText: `
-    <p>Prior to 1908 the Marists in South Africa were bound by administration in Europe however, from then South Africa functioned as its own administrative province. In 1974, the Province of South Africa was reconfigured to become the Province of Southern Africa and covered 6 countries of Marist presence on the African continent (Malawi, Mozambique, Zambia, Zimbabwe and Angola). There are three other Marist Provinces on the African continent and one district; there are 24 Provinces and 5 districts worldwide (the difference depends on the size of the country/number of Brothers).</p>
-<p>Br Jude Pieterse, alumni of St Joseph’s Rondebosch in the 1950s, was appointed the first Provincial of Southern Africa in 1974. Each Provincial serves a three-year term after having been voted for by the Brothers of that Province and appointed by the Superior General in Rome. Br Joseph Walton was Provincial for two terms until 2016 and was an alumni of the now closed Marist school at Walmer, Port Elizabeth and served as Principal of Sacred Heart’s primary school between 1991-2000. Br Joseph is replaced by Br Norbert Mwila, who started his relationship with the Marist Congregation as a postulant in 1991 (a trainee Marist Brother) in Zambia after leaving high school.</p>
-<p>The building infront of which this POI is located is the Marist Provincial office for Southern Africa. Some of the space used by the Marist Provincial offices was at one-time part of the dormitories and the Sanatorium when boarders were still admitted to Sacred Heart, prior to 1974.</p>
-
-    `,
-    url: "assets/images/points-of-interest/01.130.jpg",
-    reference: "Image: http://champagnat.fms.it/img/caricate/small/news_3892.jpg"
-});
-
-
-poi.addElement({
     type: 2,
     text: "Marist Schools South Africa.",
     furtherText: `
-    <p>A film produced in 2014 charting the early beginnings of the Marist Brotherhood and the development of the five existing Marist schools in South Africa, six including the Three2Six education project. The film explores the unique pedagogy of the Marists and the particular ethos of their schools today. A further Marist school in Johannesburg is planned to open in the near future.</p>
+    <p>A film produced in 2014 charting the early beginnings of the Marist Brotherhood and the development of the five existing Marist schools in South Africa, six including the Three2Six education project. The film explores the unique pedagogy of the Marists and the particular ethos of their schools today. A further, seventh, Marist school in Johannesburg is planned to open in the near future.</p>
+<p>Though twenty Marist schools and training missions opened in South Africa following the arrival of the first Brothers, only 5 remain in 2017. Reasons surrounding language/religion and the socio-political structure of South Africa, clashes between the influences of Catholic social teachings following Vatican II and the apartheid government (particularly during the years 1940-1990), the effects of the first and second world wars (many Brothers were conscripted) and the sourcing of Brothers elsewhere internationally and issues of funding are cited by the Marist institute as contributing factors. </p>
 
     `,
     url: "https://www.youtube.com/embed/FQmzPYckhb4?start=16&end=182",
@@ -75,14 +85,26 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
+    text: "Brother Norbert Mwila, Marist Provincial of Southern Africa since August 2016.",
+    furtherText: `
+    <p>Prior to 1908 the Marists in South Africa were bound by administration in Europe however, from then South Africa functioned as its own administrative province. In 1974, the Province of South Africa was reconfigured to become the Province of Southern Africa and covered six countries of Marist presence on the African continent (Malawi, Mozambique, Zambia, Zimbabwe and Angola). There are three other Marist Provinces in Africa and one district; there are 24 Provinces and 5 districts worldwide (the difference depends on the size of the country/number of Brothers). Each Provincial serves a three-year term after having been voted for by the Province’s Brothers and appointed by the Superior General in Rome. Br Norbert Mwila, current Provincial, started his relationship with the Marist congregation as a postulant in 1991 (a trainee Marist Brother) in Zambia after leaving high school and made his final vows in 2000.  As Provincial, Brother Norbert is responsible for overseeing the running of the Southern African Province (including its schools and other missions) supported by a Council made up of elected Brothers from the six countries of the Province reporting directly to the Marist Superior General in Rome (currently Brother Emili Turú). The head office of the Province of Southern Africa is located here on the Sacred Heart College campus. </p>
+
+    `,
+    url: "assets/images/points-of-interest/01.130.jpg",
+    reference: "Image: Institute of the Marist Brothers (FMS)"
+});
+
+
+poi.addElement({
+    type: 1,
     text: "Marist Brothers Bicentennial year 2017.",
     furtherText: `
     <p>2017 is a significant year for the Marist Brothers. 2017 marks 200 years since the founding of the Marist Brothers by Marcellin Champagnat and the 150th anniversary of the Marists in South Africa. In the lead up to their Bicentenary year, the Marists have spent three years focusing on the preparations. 2014/15 was the Montagne year (so named for the dying youth that inspired Champagnat to activate his calling to educational work). In 2014/15 the focus was on contemplation around the Marist mission of providing education to those, particularly youth, on the margins of society. 2015/16 was designated the Fouvière year, a reference to the location of where Champagnat and other newly ordained colleagues pledged to start the Society of Mary, in front of a statue of Madonna and child. This focus on Mary honours her openness to the acceptance of God in life and her role model as mother and nurturer. 2016/17, the La Valla year (named for the village where Champagnat started his first school and training of teaching Brothers) is dedicated to a focus on spirituality and mindfulness.</p>
-<p>This logo incorporates the three violets of the Marist logo (see card 2).</p>
+<p>This logo incorporates the three violets of the Marist logo (see slide 2).</p>
 
     `,
     url: "assets/images/points-of-interest/01.129.png",
-    reference: "Image: http://www.champagnat.org/500.php?a=1"
+    reference: "Image: Institute of the Marist Brothers (FMS)"
 });
 
 export var one = poi;

@@ -1,17 +1,8 @@
 ---
   id: 2
   type: 1
-  text: "Brother Joseph Walton, former Principal of the Primary School and former Marist Provincial at the Pre-Primary with some of the learners in c1996-7. "
-  url: assets/images/points-of-interest/07.32.jpg
+  text: "Two conical stone pillars with inset plaques mark the entrance to the Pre-Primary. "
+  url: assets/images/points-of-interest/07.07.jpg
   reference: "Image: Sacred Heart College"
 ---
-The Pre-Primary building was designed in the 1990s to resemble 1920s main buildings of the College and at the same time reflect and incorporate features (such as the indigenous trees) of the triangular shaped part of the Orchard that it was to be built in. The Pre-Primary was built to accommodate 250 children in 9 classrooms, with extra spaces such as a library, staff offices, a large multi-functional foyer and an aftercare facility. The buildings and landscaped play areas were designed to connect the pre-schoolers with their Orchard setting; pens for farmyard animals were also included in the colonnaded verandahs along with aviaries and a vegetable patch were also provided.
-
-<figure>![](assets/images/points-of-interest/07.03b.jpg)
-
-<figcaption>Image: Marian Green</figcaption>
-
-</figure>
-
-Some of the first Pre-Primary residents included sheep, pigs and ducks that mingled with the children in the specially enclosed play area.
-        
+Colin Northmore, Head of College, recounts an anecdote about the two pillars which could be said to represent the opposing views of The Surveyor and The Architect for the Pre-Primary building project. There was a disagreement over whether The Orchard land that was set aside for the new buildings was over landfill or a ridge of quartz. Of course this would have made a difference to the depth of the foundations that were to be laid and to the final design and structure of the building. They threw their hats on the ground during ‘discussions’ and, it turned out, this was the ideal place at which to test their theories by digging exploratory holes. The two pillars not only conveniently hold the plaques that mark the beginnings of the Pre-Primary but the middle ground that was found between their two plans and the start of the two men working together with a shared vision. Of course the pillars also mark the physical entry point into the Pre-Primary Foyer.

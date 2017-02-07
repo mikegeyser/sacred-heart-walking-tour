@@ -5,11 +5,11 @@
   url: assets/images/points-of-interest/09.01a.jpg
   reference: "Image: Marist Archive"
 ---
-In the archive there is no date associated with this picture however due to the lack of statue in the front niche (above the main steps) and the height of the trees it can be estimated at c 1930-1933.
+In the archive there is no date associated with this picture; however, due to the absence of a statue in the front niche (above the main steps) and the height of the trees it can be estimated at c.1930-1931.
 
-The Orchard was a private area in the college grounds for use of the Brothers and was given the name of ‘crows’ garden’ by the boys.
+The Orchard was a private area in the College grounds for use of the Brothers and was given the name of ‘crows’ garden’ by the boys.
 
-Edward Joffe, matric c. 1948, in his book Before Mandela’s Rainbow recalled:
+Edward Joffe, matric c. 1948, in his book, Before Mandela’s Rainbow, recalled:
 
 > “Facing the College’s main buildings across the driveway stood an orchard the size of a soccer field, entry to which was absolutely forbidden. Few foolhardy lads had ever courted disaster by entering that sanctuary where the Brothers meditated, enjoyed a quiet drag, or simply escaped to take respite from their charges”
 > 

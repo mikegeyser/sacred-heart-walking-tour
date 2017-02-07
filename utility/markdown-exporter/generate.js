@@ -8,6 +8,7 @@ let dir = path.join(__dirname, '../../data');
 fs.readdir(dir, (err, directories) => {
     for (let poi_number of directories) {
         fs.readFile(dir + `\\${poi_number}\\poi-${poi_number}.md`, 'utf8', (err, data) => {
+            console.log(`Processing POI ${poi_number}.`);
             let poi = marked(data);
             // consolBe.log(poi);
             let poi_number_as_words = converter.toWords(poi_number).replace(/[\s|-]/g, '');
@@ -18,6 +19,7 @@ var poi = new PointOfInterest("${poi_number}", "${poi.meta.title}", "${poi.meta.
 
 `;
             for (let card_filename of poi.meta.cards) {
+                console.log(`   ${card_filename}.`);
                 let card_data = fs.readFileSync(`${dir}\\${poi_number}\\${card_filename}`, 'utf8');
                 // console.log(card_data);
                 let card = marked(card_data);

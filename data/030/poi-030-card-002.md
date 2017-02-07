@@ -5,11 +5,11 @@
   url: assets/images/points-of-interest/30.09.jpg
   reference: "Image: Rory Birkby Photography / Marist Archive"
 ---
-PT is the acronym for physical training, fitness drills using gymnastic techniques.  Today PE, physical education, more holistically incorporates fitness skills and techniques for a variety of sports. The boys used clubs to develop strength in the arms and tone muscles in the whole body.  The sports uniform worn at Koch Street and Observatory in the early days was long pants for the seniors, a thick clasped belt and leather ankle shoes. 
+PT is the acronym for physical training, or fitness drills using gymnastic techniques. Today PE, physical education, is a more holistic subject, incorporating fitness skills and techniques for a variety of different sports. The boys shown above are using clubs to develop strength in their arms, using a variety of motions, and to tone muscles in the whole body. The boys wear the uniform that was compulsorary for sports at Koch Street and Observatory in the early days – long trousers for the seniors, a thick clasped belt and leather ankle shoes. 
 
-<figure>![](assets/images/points-of-interest/30.10.jpg)
+<figure>![](assets/images/points-of-interest/30.07b.jpg)
 
-<figcaption>PT for Junior boys at Koch Street, undated. (Image: Rory Birkby Photography / Marist Archive)</figcaption>
+<figcaption>PT at Koch Street, 1898. (Image: Marist Archive)</figcaption>
 
 </figure>
         

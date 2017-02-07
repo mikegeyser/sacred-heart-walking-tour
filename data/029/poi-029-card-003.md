@@ -7,5 +7,5 @@
 ---
 The motto was that of the Union of South Africa, post 1910, and referred to the strength perceived to have been created when combining the Boer Republics (Transvaal and Orange Free State) with the two British Colonies (Cape and Natal) and signified the union of Afrikaans and English speaking South Africans in a common South African identity. The nickname “Springboks” stayed with South African servicemen and women throughout the First and Second World Wars. Today it is a nickname more readily associated with South African sports teams.
 
-The South African Infantry Brigade was formed of four battalions. Soldiers from the then Transvaal, hence Marist boys from Sacred Heart College in Koch Street, would have formed part of either the 3rd regiment or 4th regiments.
+The South African Infantry Brigade was formed of four battalions. Soldiers from the then Transvaal, hence Marist boys from Sacred Heart College in Koch Street, would have formed part of either the 3rd or 4th regiments.
         

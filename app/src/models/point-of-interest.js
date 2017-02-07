@@ -1,18 +1,21 @@
-var PointOfInterest = (function () {
-    function PointOfInterest(id, title, description, latitude, longitude) {
-        if (description === void 0) { description = ""; }
+"use strict";
+class PointOfInterest {
+    constructor(id, title, description = "", latitude, longitude) {
         this.id = id;
         this.title = title;
         this.description = description;
         this.latitude = latitude;
         this.longitude = longitude;
         this.elements = [];
-        this.info = "<button class=\"pin-btn\" ion-button onclick=\"mapNavigate('" + this.id + "')\">\n                     <strong>" + this.id + " - " + this.title + "</strong>\n                     <div>" + this.description + "</div>\n                     </button>";
+        this.info = `<button class="pin-btn" ion-button onclick="mapNavigate('${this.id}')">
+                     <strong>${this.id} - ${this.title}</strong>
+                     <div>${this.description}</div>
+                     </button>`;
     }
-    PointOfInterest.prototype.getLatLng = function () {
+    getLatLng() {
         return { lat: this.latitude, lng: this.longitude };
-    };
-    PointOfInterest.prototype.createMarker = function (map, bounds) {
+    }
+    createMarker(map, bounds) {
         var marker = new google.maps.Marker({
             position: this.getLatLng(),
             title: this.title,
@@ -25,29 +28,27 @@ var PointOfInterest = (function () {
             infowindow.open(map, marker);
         });
         bounds.extend(marker.getPosition());
-    };
-    PointOfInterest.prototype.addElement = function (element) {
+    }
+    addElement(element) {
         this.elements.push(element);
-    };
-    PointOfInterest.prototype.thumbnail = function () {
+    }
+    thumbnail() {
         if (this.elements.length) {
             return this.elements[0].url;
         }
-    };
-    return PointOfInterest;
-}());
-export { PointOfInterest };
-var PointOfInterestElement = (function () {
-    function PointOfInterestElement() {
+    }
+}
+exports.PointOfInterest = PointOfInterest;
+class PointOfInterestElement {
+    constructor() {
         this.type = PointOfInterestElementType.Image;
     }
-    return PointOfInterestElement;
-}());
-export { PointOfInterestElement };
-export var PointOfInterestElementType;
+}
+exports.PointOfInterestElement = PointOfInterestElement;
+var PointOfInterestElementType;
 (function (PointOfInterestElementType) {
     PointOfInterestElementType[PointOfInterestElementType["Image"] = 1] = "Image";
     PointOfInterestElementType[PointOfInterestElementType["Video"] = 2] = "Video";
     PointOfInterestElementType[PointOfInterestElementType["Audio"] = 3] = "Audio";
-})(PointOfInterestElementType || (PointOfInterestElementType = {}));
+})(PointOfInterestElementType = exports.PointOfInterestElementType || (exports.PointOfInterestElementType = {}));
 //# sourceMappingURL=point-of-interest.js.map

@@ -1,7 +1,7 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("028", "Co-Education and Sacred Heart", "Marists, Holy Family Sisters and Ursuline Sisters combine in Sacred Heart College.", -26.1731, 28.0754);
+var poi = new PointOfInterest("028", "Co-Education and Sacred Heart", "Marists, Holy Family Sisters and Ursuline Sisters combine in Sacred Heart College.", -26.173112, 28.07586);
 
 
 poi.addElement({

@@ -5,5 +5,5 @@
   url: assets/images/points-of-interest/05.14.jpg
   reference: "Image: Marist Archive"
 ---
-It is no longer permissible for learners to bring their own cars or other vehicles (other than bicycles) to college. Reasons of health and safety, as well as the logistics of parking and insurances play a part.
+It is no longer permissible for learners to bring their own cars or other vehicles (other than bicycles) to College for reasons of health and safety, as well as the logistics of parking and insurances.
         

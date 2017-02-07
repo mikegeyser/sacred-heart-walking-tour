@@ -1,14 +1,8 @@
 ---
   id: 5
   type: 1
-  text: "Captain G.H Roy’s sword and scabbard, kept by Sacred Heart College today."
-  url: assets/images/points-of-interest/19.65a.jpg
-  reference: "Image: C Kamana"
+  text: "Major General F. Theron (front row, centre) inspecting The Marist Cadet Corps at ‘Obs’, 1931. The tall structure behind the trees is the tower above the tunnel that runs between the Main Quad and The Memorial Chapel."
+  url: assets/images/points-of-interest/19.48.jpg
+  reference: "Image: Rand Daily Mail / Museum Africa"
 ---
-
-The late Captain Roy’s sword was presented to the College Cadet Corps by his sister Edith Pooley in 1935 along with other memorabilia kept by Captain Roy such as photo albums of cadet camps, badges and some documents. The sword, embossed with an inscription that reads ‘Marist Bros Cadet Corps’, is still in the possession of the school. The sword made of solid silver, wood and leather is about 105 cm in length and has an intricately carved handle depicting the monogram of King Edward VII (dating the sword to the early 1900s), the monarch who reorganised the British Forces after the Anglo-Boer War, including the company to which the Marist Cadet Corps was affiliated. The blade (81cm) is still protected by its original leather scabbard. 
-
-<figure>![](assets/images/points-of-interest/19.29b.jpg)
-  <figcaption>Mrs Pooley donating her late brother, Captain G. H. Roy’s, sword to the school in 1935 (image: Marist Archive) </figcaption>
-</figure>
-
+Such was the standing of the Marist Cadet Corps that it was regularly invited to perform in official state duties. In 1931 General F. Theron came to inspect the Cadets at Observatory, a photo of which appeared in the Rand Daily Mail. In this photograph is Staff Sergent Belcher (2nd right in back row), who matriculated in 1924 from Koch Street and continued to help the Marist community, with the Cadets (at Observatory) and coaching cricket (at Koch Street) and it was he who donated this image to Museum Africa.  In 1947 school cadet corps lined Louis Botha Avenue (then the main road in and out of Johannesburg) to stand to attention in honour of King George VI and Queen Elizabeth (and the Princesses, one now Queen Elizabeth II) whose Rolls Royce drove past en route to Pretoria.

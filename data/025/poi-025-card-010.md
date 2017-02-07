@@ -3,7 +3,7 @@
   type: 1
   text: "Micky Lill, Sports teacher at Sacred Heart College from 1977-2000 and after whom the Fitness Centre is named, scores a hat-trick for Premier League Wolverhampton Wanderers against West Bromwich Albion in 1958."
   url: assets/images/points-of-interest/25.25.jpg
-  reference: "Image: C Kamana"
+  reference: "Image: Marist Archive"
 ---
 War cries had their origins in military ‘war cries’ – in the 1880s British soldiers were noted 
 for having imitated the Usuthu war cries of the Zulu soldiers which declarations of war towards their opponents. Cultures all over the world and throughout history are renowned for this pre-empt to battle – from Nordic Vikings to Japanese Samurai. Shouting in a loosely musical form, like yelling is often a warning of strength or dominance or even a precursor to physical violence. It’s not unique to humans; think of the lion’s roar! 

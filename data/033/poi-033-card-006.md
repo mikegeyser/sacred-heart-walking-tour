@@ -1,11 +1,9 @@
 ---
   id: 6
   type: 1
-  text: "Wolf Hillman and G.M Newton (on right) receiving relief-fund gifts at Sacred Heart College in 1932."
-  url: assets/images/points-of-interest/33.36b.jpg
-  reference: "Image: Museum Africa"
+  text: "Three2Six Dolphins and Mvelaphanda Primary play a soccer match during the Three2Six Sports Challenge in June 2016."
+  url: assets/images/points-of-interest/33.54.jpg
+  reference: "Image: Benjamin Buegja"
 ---
-This photograph, from the archive of Museum Africa, shows Sacred Heart College pupils handing over gifts that had been collected for a relief-fund in 1932. In 1932 there was world wide economic depression and South Africa was not excepted from suffering the effects of this. It is not certain for which disaster relief fund these gifts were donated though Wolf Hillman and G.M Newton were Rotary Club members at the time and perhaps managers of their relief fund. A connection between the Rotary Club and Sacred Heart College remains to this day in joint efforts for charitable works.
-
-What is clear though is the continuity of the generosity of the Sacred Heart College Community. 
+Three2Six learners from Grades 5 and 6 took part in a Sports Challenge that included coaching in soccer and netball followed by matches one Saturday in June 2016. This event, sponsored by Kaya FM and hosted by Sacred Heart College, was designed to not only provide a focus for sports training that has increasingly become a regular fixture for the Three2Six learners when time at weekends and during holidays allows but to teach the fundamentals of working as a team. That the refugee children were playing against a team from the township of Tembisa was intentional; in order to enhance relations between the refugee communities that the Three2Six children come from and those of South Africans living in Johannesburg and bring contact between communities that have historically undergone xenophobic clashes. Dolphins is the sports emblem for all Sacred Heart College teams, not least the newly established Three2Six sports teams.
 

@@ -9,7 +9,7 @@ The Champagnat statue, which is life-size, was unveiled and blessed by Fr Barry 
 
 <figure>![](assets/images/points-of-interest/16.37.jpg)
 
-<figcaption>1980 Maristonian, p80</figcaption>
+<figcaption>1980 Sacred Heart College Yearbook, p80</figcaption>
 
 </figure>
         

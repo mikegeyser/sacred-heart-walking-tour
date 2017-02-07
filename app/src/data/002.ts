@@ -1,16 +1,14 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("002", "Koch Street", "The first Sacred Heart College in Johannesburg.", -26.173777, 28.0751);
+var poi = new PointOfInterest("002", "Koch Street", "The first Sacred Heart College in Johannesburg.", -26.173581, 28.075099);
 
 
 poi.addElement({
     type: 1,
-    text: "“Hip Hip Hurrah! Deo Gratias [Thanks be to God]” in response to news that Marist Brothers could soon arrive to begin setting up a school in Johannesburg. Letter from Br Nectaire, Principal of Marist Uitenhage College, to Fr De Lacy O.M.I. (and Apostolic Delegate) in August 1889",
+    text: "“Hip Hip Hurrah! Deo Gratias [Thanks be to God]” in response to news that Marist Brothers could soon proceed to Johannesburg. A Letter from Br Nectaire, Principal of Marist Uitenhage College, to Fr De Lacy O.M.I., Apostolic Delegate, written in August 1889.",
     furtherText: `
-    <p>The first Catholic Mass was said in Ferreira’s camp in February 1887, ten years after the first Catholics (Oblate priests from the O.M.I missionary congregation) arrived in the then Transvaal at Pretoria in 1878. Shortly after the first Catholic Mass was said it was decided a school for Catholic children was needed. The Holy Family sent six Sisters who set up a Convent school in October 1887, the first official school set up in Johannesburg. It was such a success that expansion was needed, specifically a school for boys. The O.M.I priests, not teachers themselves, wrote to the Marist Brothers asking them to extend their missions already established elsewhere in South Africa and to consider the Transvaal.</p>
-<p>The archive of the Catholic History Bureau (in Victory Park) keeps a series of letters between the Marists (written by Br Nectaire in Uitenhage) and two of the O.M.I priests, then based in Pretoria and Johannesburg (Father Monginoux and Father De Lacy). The letters discuss the possibility of bringing the Marist Brothers to the then Transvaal relaying responses from the Marist General House in France around initial concerns. The Marist Superiors were worried about ‘faithless, lawless and dirty’ Johannesburg fearing that the town would ‘vanish in the dust’ like early American pioneer towns within a few years, preferring to start in the by then more established Pretoria. Brother Nectaire convinced them otherwise and eventually arrangements were made to send Brothers from Europe specifically for two schools to be opened in Johannesburg and Pretoria. The latter didn’t happen since missions in Natal and Kimberley appropriated the Brothers sent for Pretoria. The letters (to Father De Lacy) were written in English and (to Father Monginoux) in French. Later letters in the collection discuss the specifics of the Marist mission to Johannesburg and the setting up of the school (its physical make up and visions for educational practice).</p>
-<p>The selected letter is a reply to a letter from Father de Lacy who had assured Br Nectaire that land and permits to set up a school by the soon to arrive Marists had been secured and that building had begun. The reference to ‘your Brothers’ is particular to the three Brothers ‘earmarked’ to go to Johannesburg; two who had in 1889 only recently arrived from Europe and one who had been teaching already in South Africa. There had been many delays around getting them to Johannesburg (to do with security concerns, financing and demands from other Marist missions in South Africa) and, according to Brother Nectaire, the three Brothers had begun to lose hope that they might ever reach their destination.</p>
+    <p>A series of letters between Br Nectaire (in Uitenhage) and two of the O.M.I priests, then based in Pretoria and Johannesburg (Father Monginoux and Father De Lacy) discuss the possibility of bringing the Marist Brothers to the then Transvaal. Marist Superiors in France were worried about ‘faithless, lawless and dirty’ Johannesburg and feared that the town would ‘vanish in the dust’ like early American pioneer towns. Brother Nectaire convinced his Superiors otherwise and arrangements were made to send Brothers from Europe for schools to be opened in Johannesburg and Pretoria. The letters (to Father De Lacy) were written in English and (to Father Monginoux) in French. Some letters discuss the specifics of the Marist mission to Johannesburg and their visions for educational practice. Marist missions in Natal and Kimberley appropriated the Brothers sent for Pretoria.</p>
 
     `,
     url: "assets/images/points-of-interest/01.38c.jpg",
@@ -22,19 +20,8 @@ poi.addElement({
     type: 1,
     text: "October 1889, the Brothers who first came to Johannesburg to set up the Marist Brothers College at Koch Street.  Brother Albert Dominic (left), Brother Frederick, Principal (center) and Brother Euphrase (right). ",
     furtherText: `
-    <figure><img src="assets/images/points-of-interest/01.25b.jpg" alt=""> <img src="assets/images/points-of-interest/01.26b.jpg" alt="">
-
-<figcaption>Images: Catholic History Bureau</figcaption>
-
-</figure>
-
-<p>Brother Nectaire described each of these Brothers to Father Monginoux in a letter written in November 1888.</p>
-<blockquote>
-<p>“Here are their names: Brother Frederick, Principal, a good little Bourguignon* who has been in the Colony for 10 years already; Brother Albert-Dominic, a courageous Irishman who has been with me here since last March and Brother Euphrase an excellent Belgian who will teach Dutch. Three excellent pious men who will be an asset to you and edifying for your parish.”</p>
-<footer>*from the Bourgogne region in France.</footer>
-
-</blockquote>
-<p>Brother Frederick remained Principal for the first thirteen years of the school’s existence until 1903 when he was appointed Marist Provincial for the newly created administrative Province of South Africa (the first outside of Europe). By his former pupils he was considered as fatherly figure who was famed around the school for carrying a small black bag with him at most times – which contained sweets and sticks – that he dove into to appropriately reward or rebuke deserving pupils. Brother Frederick lived until three weeks before his 100th birthday in 1946. Brother Albert- Dominic died after an illness in 1894 and Brother Euphrase was killed during a cyclone in 1912.</p>
+    <p>Johannesburg’s first Catholic Mass was said in Ferreira’s camp in February 1887, ten years after the first Catholics (Oblate priests from the O.M.I missionary congregation) arrived in the then Transvaal in 1878. It was decided a school for Catholic children was needed and The Holy Family sent six Sisters to set up a Convent school in October 1887, Johannesburg’s first school. It was such a success that expansion was needed, specifically a school for boys. The O.M.I priests, not teachers themselves, wrote to the Marist Brothers asking them to extend their missions already established elsewhere in South Africa to the Transvaal. </p>
+<p>There had been many delays around getting the Brothers to Johannesburg (around security concerns, financing and demands from other Marist missions in South Africa).  According to Brother Nectaire, the three Brothers had begun to lose hope that they might ever reach their destination. </p>
 
     `,
     url: "assets/images/points-of-interest/02.152.jpg",
@@ -44,21 +31,14 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
-    text: "Blah ",
+    text: "Brother Nectaire had described the three Johannesburg-bound Brothers to Father Monginoux in a letter written in November 1888.",
     furtherText: `
-    <figure><img src="" alt=""> <img src="assets/images/points-of-interest/01.26b.jpg" alt="">
-
-<figcaption>Images: Catholic History Bureau</figcaption>
-
-</figure>
-
-<p>Brother Nectaire described each of these Brothers to Father Monginoux in a letter written in November 1888.</p>
-<blockquote>
+    <blockquote>
 <p>“Here are their names: Brother Frederick, Principal, a good little Bourguignon* who has been in the Colony for 10 years already; Brother Albert-Dominic, a courageous Irishman who has been with me here since last March and Brother Euphrase an excellent Belgian who will teach Dutch. Three excellent pious men who will be an asset to you and edifying for your parish.”</p>
 <footer>*from the Bourgogne region in France.</footer>
 
 </blockquote>
-<p>Brother Frederick remained Principal for the first thirteen years of the school’s existence until 1903 when he was appointed Marist Provincial for the newly created administrative Province of South Africa (the first outside of Europe). By his former pupils he was considered as fatherly figure who was famed around the school for carrying a small black bag with him at most times – which contained sweets and sticks – that he dove into to appropriately reward or rebuke deserving pupils. Brother Frederick lived until three weeks before his 100th birthday in 1946. Brother Albert- Dominic died after an illness in 1894 and Brother Euphrase was killed during a cyclone in 1912.</p>
+<p>Brother Frederick was Principal for the first thirteen years of the school’s existence until 1903 when he was made Marist Provincial for the newly created administrative Province of South Africa (the first outside of Europe). He was seen as a fatherly figure by his pupils, famed around the school for carrying a small black bag with him (containing sweets and sticks) that he dove into to appropriately reward or rebuke deserving pupils. Brother Frederick lived until three weeks before his 100th birthday in 1946, having survived the cyclone that killed Brother Euphrase in Basutoland in 1912, where they had been posted after Koch Street to another Marist mission. Brother Albert-Dominic died after an illness in 1894.</p>
 
     `,
     url: "assets/images/points-of-interest/01.25b_26b_combined.jpg",

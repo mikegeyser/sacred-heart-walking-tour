@@ -1,9 +1,12 @@
 ---
   id: 7
   type: 1
-  text: "Marist Brothers Cadet Corps Military Badge c.8x8cm. Donated to Museum Africa in 1953."
-  url: assets/images/points-of-interest/19.73.jpg
-  reference: "Image: Museum Africa"
+  text: "A Cadet Inspection in the 1950s."
+  url: assets/images/points-of-interest/19.64.jpg
+  reference: "Image: Marist Archive"
 ---
-Until the disbanding of the Cadets there was an Armoury at the school. The Armoury at Obs contained Cadet kit (including uniform, drums, bugles and other band instruments) as well as relics from the South African War and the First and Second World Wars. .303 (which no longer worked) and .22 calibre rifles.  The school shooting range, paid for by the South African military authorities in the 1920s, was situated in the far corner of the school grounds where the cricket nets now are found. When Koch street premises was demolished, used ammunition was found embedded in the walls, left over from when shooting practice took place in the school yard. It would not be impossible to find similar debris buried where cricket balls land in Observatory today. The former Armoury’s cache of weapons has been replaced with a very different kind of battery cluster as today it is used as the Primary School Computer Centre.
+ Tuesdays, afternoons were given over to Cadet training – drills, shooting practice (using live ammunition). The Brothers would change out of their soutanes and into dog-collared military uniforms to assist Sergeants specially employed to run the Cadets. In the Summer months the cricket oval was used as the Cadet training ground, with the ruby fields used in the winter. 
 
+The Cadet Corps was compulsory for all boys aged 13 in accordance with the national Defense Acts until the Cadets was disbanded at the school in the early 1980s. The disbanding of the Cadets was something of a controversial move by the school, and contributed to the numerous confrontations with government officials at the time over issues such as the school’s rejection of the quota system (whereby the number of black students was meant to be limited in order for the school to retain a government subsidy). By the 1980s, the school administration felt that the presence of Cadets contributed to the military culture prevalent within White society at the time which was not in keeping with the inclusive ethos that the school was demonstrably pioneering. With authority structures being widely discredited through the political struggle in the country it was decided that bastions of such traditional thinking were not appropriate to the school’s progressive and inclusive ethos and thus the Cadets and the Prefect system were disbanded. The latter was replaced with a Student Representative Council which involved students as leaders in the school rather than as subject to the whims of individuals and particular power dynamics. 
+
+        

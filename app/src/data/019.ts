@@ -1,7 +1,7 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("019", "Cadets", "From Cadet’s Armoury to Computer Centre", -26.172478, 28.075436);
+var poi = new PointOfInterest("019", "Cadets", "From Cadet’s Armoury to Computer Centre", -26.172482, 28.075433);
 
 
 poi.addElement({
@@ -33,7 +33,7 @@ poi.addElement({
     type: 1,
     text: "An excerpt from the 1905 Koch Street Annual Report.",
     furtherText: `
-    <p>When the Cadet Corps was reformed it was affiliated to the Transvaal Scottish Volunteers and guided by their Captain, George Herbert Roy. In 1906 Captain Roy oversaw the commissioning of several of the Marist Brothers, approved by the then Principal of Koch Street, Brother Callixte. At this time the Koch Street Annual Report to the parent body revealed some of the concerns of the parent body around the Cadet Corps’ existence and this document also relays some of the historical sentiment around the purpose of the Cadets.</p>
+    <p>When the Cadet Corps was reformed it was affiliated to the Transvaal Scottish Volunteers and guided by their Captain, George Herbert Roy, an alumnus of Koch Street. In 1906 Captain Roy oversaw the commissioning of several of the Marist Brothers, approved by the then Principal of Koch Street, Brother Callixte. At this time the Koch Street Annual Report to the parent body revealed some of the concerns of the parent body around the Cadet Corps’ existence and this document also relays some of the historical sentiment around the purpose of the Cadets.</p>
 
     `,
     url: "assets/images/points-of-interest/19.03a1.jpg",
@@ -45,12 +45,11 @@ poi.addElement({
     type: 1,
     text: "1935, The Marist Cadet Corps pictured in The Glade winning the Inter-Platoon Shooting Competition at Observatory. The trophy can be seen today in the Habits' display cabinet. ",
     furtherText: `
-    <p>By the 1930s the Cadet Corps had grown so large that the detachment had three full companies; Infantry Troops (the backbone of the Corps), a Platoon of Signaleers (responsible for military communications) and a Platoon trained in Trench Mortar and Bren Gun deployment (specialising in weaponry). The Cadet Band, now a mixed orchestral marching band, was a regularly anticipated feature of school pageants and until only recently did the College Band, ‘March On,’ leading participants to swimming galas and athletics meetings.</p>
+    <p>By the 1930s the Cadet Corps had grown so large that the detachment had three full companies; Infantry Troops (the backbone of the Corps), a Platoon of Signaleers (responsible for military communications) and a Platoon trained in Trench Mortar and Bren Gun deployment (specialising in weaponry). The Cadet Band, now a mixed orchestral marching band, was a regularly anticipated feature of school pageants and until only recently did the College Band, ‘March On,’ leading participants to sporting events.</p>
 <figure><img src="assets/images/points-of-interest/19.75b.jpg" alt="">
-  <figcaption>The Cadet Corps in 1928 (image: Marist Archive)</figcaption>
+  <figcaption>The Cadet Corps in 1928 (Image: Marist Archive)</figcaption>
 </figure>
 
-<p>Such was the standing of the Marist Cadet Corps that it was regularly invited to perform in official state duties and 1931 General F. Theron came to inspect the Cadets at Observatory, a photo of which appeared in the Rand Daily Mail. In 1947 school cadet corps lined Louis Botha Avenue (then the main road in and out of Johannesburg) to stand to attention in honour of King George VI and Queen Elizabeth (and the Princesses, one now Queen Elizabeth II) whose Rolls Royce drove past en route to Pretoria.</p>
 
     `,
     url: "assets/images/points-of-interest/19.78.jpg",
@@ -60,16 +59,28 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
-    text: "Captain G.H Roy’s sword and scabbard, kept by Sacred Heart College today.",
+    text: "Major General F. Theron (front row, centre) inspecting The Marist Cadet Corps at ‘Obs’, 1931. The tall structure behind the trees is the tower above the tunnel that runs between the Main Quad and The Memorial Chapel.",
     furtherText: `
-    <p>The late Captain Roy’s sword was presented to the College Cadet Corps by his sister Edith Pooley in 1935 along with other memorabilia kept by Captain Roy such as photo albums of cadet camps, badges and some documents. The sword, embossed with an inscription that reads ‘Marist Bros Cadet Corps’, is still in the possession of the school. The sword made of solid silver, wood and leather is about 105 cm in length and has an intricately carved handle depicting the monogram of King Edward VII (dating the sword to the early 1900s), the monarch who reorganised the British Forces after the Anglo-Boer War, including the company to which the Marist Cadet Corps was affiliated. The blade (81cm) is still protected by its original leather scabbard. </p>
-<figure><img src="assets/images/points-of-interest/19.29b.jpg" alt="">
+    <p>Such was the standing of the Marist Cadet Corps that it was regularly invited to perform in official state duties. In 1931 General F. Theron came to inspect the Cadets at Observatory, a photo of which appeared in the Rand Daily Mail. In this photograph is Staff Sergent Belcher (2nd right in back row), who matriculated in 1924 from Koch Street and continued to help the Marist community, with the Cadets (at Observatory) and coaching cricket (at Koch Street) and it was he who donated this image to Museum Africa.  In 1947 school cadet corps lined Louis Botha Avenue (then the main road in and out of Johannesburg) to stand to attention in honour of King George VI and Queen Elizabeth (and the Princesses, one now Queen Elizabeth II) whose Rolls Royce drove past en route to Pretoria.</p>
+
+    `,
+    url: "assets/images/points-of-interest/19.48.jpg",
+    reference: "Image: Rand Daily Mail / Museum Africa"
+});
+
+
+poi.addElement({
+    type: 1,
+    text: "Captain G.H Roy’s sword and scabbard, donated to the College",
+    furtherText: `
+    <p>In 1935 Captain Roy’s sword was presented to the College Cadet Corps by his sister Edith Pooley along with other Cadet memorabilia such as photo albums of cadet camps, badges and documents. The sword, embossed with an inscription that reads ‘Marist Bros Cadet Corps’, is still in the possession of the school. Made of solid silver, wood and leather the sword is about 105 cm in length and has an intricately carved handle depicting the monogram of King Edward VII (dating the sword to the early 1900s). Edward VII re-organised the British Forces after the Anglo-Boer War, including the company to which the Marist Cadet Corps was affiliated. The blade (81cm) is still protected by its original leather scabbard. </p>
+<figure><img src="assets/images/points-of-interest/19.65a.jpg" alt="">
   <figcaption>Mrs Pooley donating her late brother, Captain G. H. Roy’s, sword to the school in 1935 (image: Marist Archive) </figcaption>
 </figure>
 
 
     `,
-    url: "assets/images/points-of-interest/19.65a.jpg",
+    url: "assets/images/points-of-interest/19.29b.jpg",
     reference: "Image: C Kamana"
 });
 

@@ -1,7 +1,7 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("036", "Houses", "The school houses and their namesakes.", -26.1726, 28.07585);
+var poi = new PointOfInterest("036", "Houses", "The school houses and their namesakes.", -26.173358, 28.075663);
 
 
 poi.addElement({

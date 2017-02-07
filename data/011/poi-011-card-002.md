@@ -5,5 +5,5 @@
   url: assets/images/points-of-interest/12.14.jpg
   reference: "Image: Sacred Heart College"
 ---
-Gratitude to the Maintenance and Support staff is shown in a variety of ways by other members of the College community – Thank you Breakfasts and Masses are two examples. The relations between the non-teaching staff and the learners are genuinely reciprocal. The support staff are often included by learners who bring baked goods to share with their peers and teachers on their birthdays. The ground staff are often present at College sports matches and, when they can, assist children in accessing items mistakenly left behind after hours. 
+Gratitude to the Maintenance and Support staff is shown in a variety of ways by members of the College community. Masses are held to celebrate their contribution to the College, and parents host an annual Appreciation Breakfast. The relations between the non-teaching staff and the learners are genuinely reciprocal. The support staff are often included when learners bring baked goods to share with their peers and teachers on their birthdays. The ground staff are often present at College sports matches and, when they can, assist children in accessing items mistakenly left behind after hours. 
 

@@ -1,10 +1,10 @@
 ---
   id: 2
   type: 1
-  text: "The stage area in the Intermediate Quad bordered with a learner created mosaic which lists the five Marist pedagogical pillars. "
-  url: assets/images/points-of-interest/15.02.jpg
+  text: "The circular stained glass window is a memorial to Bebe Mothopeng, alumnus and former trainee teacher at Sacred Heart College."
+  url: assets/images/points-of-interest/15.04.jpg
   reference: "Image: C Kamana"
 ---
-The Integrated Studies Curriculum was a concrete example of the innovative approach to education undertaken at Sacred Heart College. The school is underpinned by and strengthened through values that come directly from the unique application of Marcellin Champagnat’s educational vision and which lie at the core of Marist schools. These values can be understood as five pedagogical (or educational practice) pillars that uphold and inform the educational framework of the school. These five characteristics are named as presence, simplicity, family spirit, love of work and following the way of Mary. 
-	
-Mary, the mother of Jesus, is understood as the perfect model of the Marist educator. Faithful and loving she knew both the joys and the trials of life. In her way, Marist educators seek to lead by example and above all to encourage the personal growth of their learners by establishing relationships with them based on love and humility. The family spirit that is encouraged is evidenced in the relationships built between learners of all ages, supported by their teachers, through whom a strong community is built. This simple, modest attentiveness is something which sets apart the Marist and Sacred Heart Community from others – the nurturing of ‘doing good, quietly’ in a school setting encourages hard work, application and mindfulness.  
+All over the College grounds, in windows, on plaques, in the form of benches, artworks or dedicated spaces there are memorials to those members of the school community who have died. Many more of course are recalled through the memories of those who have attended or still attend the college without a physical marker in the grounds to their earthly existence. Each one, in their own way, made a special contribution to the family spirit of Sacred Heart College. 
+
+This stained-glass window, created by artist Barry Thompson, who produced most of the windows in the Memorial Chapel, commemorates the life of Bebe Mothopeng 1982-2004. Bebe, a member of the Learners Leadership Council, matriculated from the College in 2001.  She was in the third year of her Bachelor of Education degree at UNISA, completing her teaching practice at Sacred Heart College, when she died in 2004 after a short illness. Like many members of her family, Bebe was a musician and had been a member of both the Soweto Youth Orchestra and the Johannesburg Youth Orchestra as a wind instrumentalist and sang as part of the Nightingale Children’s Choir in her youth. 

@@ -5,4 +5,7 @@
   url: assets/images/points-of-interest/08.09b.jpg
   reference: "Image: C Kamana"
 ---
-However, in December 2016, Ntate Sammy said he wasn’t sure if he could retire… ‘as long as these gates are open and I can cycle through them I will want to’ … Indeed, Uncle Sammy can still be found after school with his pushbike and freezer selling his ice creams to learners, parents and staff alike. 
+Usually to be found in The Orchard where the After Care operates, if the weather is bad Uncle Sammy can be found with his ice-cream cart (from which he also sells popcorn, chips and suckers for those not after ice-cream) in one of the quads. 
+
+As well as coming daily during the school week, Uncle Sammy is a fixture at other school sporting or other events such as the Heritage Day Music Festival. 
+

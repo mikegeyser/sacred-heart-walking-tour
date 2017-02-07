@@ -1,7 +1,7 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("040", "Habits", "More than a Coffee Shop", -26.173446, 28.075342);
+var poi = new PointOfInterest("040", "Habits", "More than a Coffee Shop", -26.173426, 28.0753);
 
 
 poi.addElement({
@@ -20,7 +20,7 @@ poi.addElement({
     type: 1,
     text: "1394, The cloistered walkway that leads to the room (visible at the end of the walkway framed by the arch) that was originally the Brothers’ Dining Room and today is Habits Coffee Shop.",
     furtherText: `
-    <p>Until the Brothers’ Residence was constructed in the mid 1980s the Brothers’ resided in rooms upstairs in the main building (today these are the offices and staff room between the top of the foyer staircase and the Old Chapel Theatre). As such they had their own Dining Room in which to eat and retire separately from the Boarders (until the mid 1970s when boarding was phased out) and from the rest of daily school life (until the 1980s). </p>
+    <p>Until the Brothers’ Residence was constructed in the mid 1980s the Brothers’ resided in rooms upstairs in the main building (today these are the offices and staff room between the top of the foyer staircase and the Old Chapel Theatre). As such, the Brothers had their own Dining Room in which to eat separately from the Boarders (until the mid 1970s when boarding was phased out) and to retire together from daily school life (until the construction of the Brothers&#39; Residence). After sports matches on a Saturday the Brothers invited staff (and visiting staff) to have tea in their dining room. </p>
 
     `,
     url: "assets/images/points-of-interest/40.06.jpg",
@@ -30,21 +30,10 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
-    text: "T????? BROTHERS' DINING ROOM AS WAS?????",
+    text: "2017, the interior of Habits Coffee Shop. Habits, was so named to reference the former use of the room as the Brother’s Dining Room (a nod to the distinctive clothing worn by the Marist Brothers) and to connect with the current Coffee Shop ‘feeding one’s caffeine habit’.",
     furtherText: `
-    <p>After matches on a Saturday the Brothers invited staff (and visiting staff) to have tea in their dining room. Beverly Fulton Blow, daughter in law of the last Matron to look after the boarders and ballet teacher for 36 years at Sacred Heart College, recalls joining Matron and the Brothers for tea and cakes most Saturday afternoons in this room. </p>
-
-    `,
-    url: "assets/images/points-of-interest/.jpg",
-    reference: "Image: Marist Archive"
-});
-
-
-poi.addElement({
-    type: 1,
-    text: "The interior of Habit’s Coffee Shop. Habits, was so named to evoke the former use of the room as the Brother’s Dining Room (‘Habits’ is a nod to the distinctive clothing worn by the Marist Brothers, a sign of their consecration and modest manner) and to connect with its current Coffee Shop service of feeding one’s caffeine habit. Each sale in Habits contributes towards the College’s Field of Flowers Bursary Scheme. ",
-    furtherText: `
-    <p>The table and chairs are those which were used by the Brothers in their Dining Room. They were restored and repainted for use in the Coffee Shop by Joseph Letebele of the Workshop. The Trophy Cabinet visible at the back of this image was also made by him. </p>
+    <p>Religious Orders’ distinctive tunic style clothing, habits or soutanes, are worn as an outward sign of spiritual pledges and of their modest lifestyles. The soutanes worn by the Marist Brothers in South Africa are made of a lightweight white fabric, rather than the traditional heavier black version, after a dispensation from the General House allowing this to be worn in countries with a hot climate. The soutane was worn with a white rabat (a long rectangular collar) but today the Brothers rather wear a clerical shirt with a white banded collar. The rabat is a signifier of a profession; for the Marists this signified their teaching mission. The black cord worn around the Brothers’ waists symbolizes being ‘bound’ to God and demonstrates that the Brother has made his first profession (promise) to join the Marists. A Brother who wears a crucifix pinned to the front of his soutane demonstrates that he has made his final profession to the Order. Today in South Africa the Brothers more often than not wear attire other than the soutane which is kept for formal and religious occasions, perhaps just wearing a crucifix or simple Marist cross over a shirt or jersey. </p>
+<p>The table and chairs in Habits were original to the Brothers’ Dining Room, restored and repainted for use in the Coffee Shop by the Workshop’s Joseph Letebele. The Trophy Cabinet visible in this image was also made by him. </p>
 
     `,
     url: "assets/images/points-of-interest/40.11.jpg",
@@ -56,7 +45,7 @@ poi.addElement({
     type: 1,
     text: "Ms Memory Mpharu, who runs Habits Coffee Shop, pictured in 2016. ",
     furtherText: `
-    <p>Memory Mpharu is a mother figure to many a learner, staff member and parent as she welcomes them to the Coffee Shop which is open from 7 until 4 daily. Sweet baked treats are on offer (made by the parent of a former learner) to go with Memory’s selection of hot drinks served with personalised words of wisdom such as ‘be yourself my darling’. Memory co-ordinates a number of other projects such as the sale of second hand text books and assists the PA with organizing their events. </p>
+    <p>Memory Mpharu is a mother figure to many a learner, staff member and parent as she welcomes them to the Coffee Shop which is open from 7 until 4 daily. Sweet baked treats are on offer (made by the parent of a former learner) to go with Memory’s selection of hot drinks served with personalised words of wisdom such as ‘be yourself my darling’. Each sale in Habits contributes towards the College’s Field of Flowers Bursary Scheme. Memory co-ordinates a number of other projects such as the sale of second hand text books and assists the PA with organizing their events. </p>
 
     `,
     url: "assets/images/points-of-interest/40.51.jpg",

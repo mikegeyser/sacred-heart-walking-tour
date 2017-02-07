@@ -1,11 +1,11 @@
 ---
   id: 6
-  type: 1
-  text: "Marist Brothers Bicentennial year 2017."
-  url: assets/images/points-of-interest/01.129.png
-  reference: "Image: http://www.champagnat.org/500.php?a=1"
+  type: 2
+  text: "Marist Schools South Africa."
+  url: https://www.youtube.com/embed/FQmzPYckhb4?start=16&end=182
+  reference: "Marist Brothers Corporate 2014, Video, 4 mins 58 seconds Marist Schools in South Africa"
 ---
-2017 is a significant year for the Marist Brothers. 2017 marks 200 years since the founding of the Marist Brothers by Marcellin Champagnat and the 150th anniversary of the Marists in South Africa. In the lead up to their Bicentenary year, the Marists have spent three years focusing on the preparations. 2014/15 was the Montagne year (so named for the dying youth that inspired Champagnat to activate his calling to educational work). In 2014/15 the focus was on contemplation around the Marist mission of providing education to those, particularly youth, on the margins of society. 2015/16 was designated the Fouvière year, a reference to the location of where Champagnat and other newly ordained colleagues pledged to start the Society of Mary, in front of a statue of Madonna and child. This focus on Mary honours her openness to the acceptance of God in life and her role model as mother and nurturer. 2016/17, the La Valla year (named for the village where Champagnat started his first school and training of teaching Brothers) is dedicated to a focus on spirituality and mindfulness.
+A film produced in 2014 charting the early beginnings of the Marist Brotherhood and the development of the five existing Marist schools in South Africa, six including the Three2Six education project. The film explores the unique pedagogy of the Marists and the particular ethos of their schools today. A further, seventh, Marist school in Johannesburg is planned to open in the near future.
 
-This logo incorporates the three violets of the Marist logo (see card 2).
+Though twenty Marist schools and training missions opened in South Africa following the arrival of the first Brothers, only 5 remain in 2017. Reasons surrounding language/religion and the socio-political structure of South Africa, clashes between the influences of Catholic social teachings following Vatican II and the apartheid government (particularly during the years 1940-1990), the effects of the first and second world wars (many Brothers were conscripted) and the sourcing of Brothers elsewhere internationally and issues of funding are cited by the Marist institute as contributing factors. 
         

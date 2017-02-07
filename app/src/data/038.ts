@@ -1,7 +1,7 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("038", "Main Reception Foyer", "The hallway – a passage through time…", -26.173, 28.075287);
+var poi = new PointOfInterest("038", "Main Reception Foyer", "The hallway – a passage through time…", -26.173202, 28.075423);
 
 
 poi.addElement({

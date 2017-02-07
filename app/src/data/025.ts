@@ -1,7 +1,7 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("025", "Sports 'Now'", "Development of some of today's College sports", -26.172746, 28.076384);
+var poi = new PointOfInterest("025", "Sports 'Now'", "Development of some of today's College sports", -26.172484, 28.076364);
 
 
 poi.addElement({
@@ -21,9 +21,9 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
-    text: "Geddes House begin ‘March On’ at Inter-House Athletics ,2015.",
+    text: "Benedict House ‘March On’. Inter-House Athletics, 2015.",
     furtherText: `
-    <p>The March On tradition continues to this day as part of the Inter-House Athletics meet in September. Athletics has always been one of the major sports at the College with all learners taking part, at whatever level is suited to their ability. Brother Callixte was recognised by the South African Athletics Union for his contribution to the sport in the early 1900s and made a life member due to the way Koch Street produced so many talented athletes – and this was despite having no facilities of their own (when Observatory was built the boys traveled there to use them). Many South African Athletes learnt their early skills on this cinder track (which was sprinkled with sawdust so it could be used after rains) – today the track is grass and the College continues to produce athletes who compete nationally. </p>
+    <p>The &#39;March On&#39; tradition continues to this day as part of the Inter-House Athletics meet in September. Athletics has always been one of the major sports at the College with all learners taking part, at whatever level is suited to their ability. Brother Callixte was recognised by the South African Athletics Union for his contribution to the sport in the early 1900s and made a life member due to the way Koch Street produced so many talented athletes – and this was despite having no facilities of their own (when Observatory was built the boys traveled there to use them). Many South African Athletes learnt their early skills on this cinder track (which was sprinkled with sawdust so it could be used after rains) – today the track is grass and the College continues to produce athletes who compete nationally. </p>
 
     `,
     url: "assets/images/points-of-interest/27.20.jpg",
@@ -47,16 +47,19 @@ poi.addElement({
     type: 2,
     text: "War Cry Wednesday – weekly practice, 2016.",
     furtherText: `
-    <p>The College War Cry goes back at least to the 1940s, if not before. The boys imitated what was prevalent in society at the time and war cries were (and are) not unique to Sacred Heart College. However, each school’s war cry is unique but unfortunately the origins of the wording to Sacred Heart’s are unknown. The school’s official war cry is called ‘Rammy, Rammy, Ramson’:</p>
-<p>Leaders: Rammy, Rammy, Ramson
-Response: Ramson
-Leaders: Rusting Culi Ruli Ra
-Response: Ra Ra Ra
-Leaders: Bulwa Bulwa Wa Wa Wa
-Response: Roger, Roger Rika Ra
-Leaders: Gee Whiz
-Response: Wa Brothers
-Leaders and Responders alternate shouting out letters: O-B-S-E-R-V-A-T-O-R-Y</p>
+    <p>The College War Cry goes back at least to the 1940s, if not before. The boys imitated what was prevalent in society at the time and war cries were (and are) not unique to Sacred Heart College. However, each school’s war cry is individual. Unfortunately the origins of the wording to Sacred Heart’s are unknown. </p>
+<p>The school’s official war cry is called ‘Rammy, Rammy, Ramson’:</p>
+<ol>
+<li>Leaders: Rammy, Rammy, Ramson</li>
+<li>Response: Ramson</li>
+<li>Leaders: Rusting Culi Ruli Ra</li>
+<li>Response: Ra Ra Ra</li>
+<li>Leaders: Bulwa Bulwa Wa Wa Wa </li>
+<li>Response: Roger, Roger Rika Ra</li>
+<li>Leaders: Gee Whiz</li>
+<li>Response: Wa Brothers</li>
+<li>Leaders and Responders alternate shouting out letters: O-B-S-E-R-V-A-T-O-R-Y</li>
+</ol>
 
     `,
     url: "assets/images/points-of-interest/27.01 mp4.mp4",
@@ -117,9 +120,9 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
-    text: "Colin Northmore, Principal of Sacred Heart College today. ",
+    text: "Excerpt from an article in The Star titled 'Rise of Marist Brothers in Johannesburg', published on the eve of Koch Street's 50th anniversary ",
     furtherText: `
-    <p>For fifty years at Sacred Heart College soccer was relegated by rugby to a secondary sport. From the 1980s it regained popularity amongst the boys, perhaps due to its following amongst the newly admitted black students for whom soccer had always been a major game and in 1982 the school officially recognised a senior team who represented the College against other schools in matches. Today there are both girls’ and boys’ Soccer teams. </p>
+    <p>For fifty years at Sacred Heart College, soccer was replaced by rugby as the main sport. The boys also viewed it as a secondary sport. From the 1980s it regained popularity, perhaps due to its following amongst the newly admitted black students for whom soccer had always been a major game and in 1982 the school officially recognised a senior team who represented the College against other schools in matches. Today there are both girls’ and boys’ Soccer teams. </p>
 <p>The 1934 Maristonian noted the move to rugby with the following words::</p>
 <blockquote>
 <p>“King Soccer&#39;s long reign at the College has come to an end, and this may be well termed its obituary notice. Its term of sovereignty has been a long and an honourable one, and has left an indelible mark upon the history of the game in the Transvaal and in South Africa. Some of the most famous players who have represented this country have received their first coaching while at the School, among these perhaps the best known being Jock Ritchie, Freddie Mitchell and the Lowe brothers. Its passing will be regretted by many who almost regard the Marist Brothers&#39; College and Soccer as inseparable, but factors beyond the control of the Brothers have made the change to rugby unavoidable. The latter has, however, been set a standard to reach and a tradition to equal.”</p>
@@ -141,7 +144,7 @@ for having imitated the Usuthu war cries of the Zulu soldiers which declarations
 
     `,
     url: "assets/images/points-of-interest/25.25.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Marist Archive"
 });
 
 
@@ -149,7 +152,7 @@ poi.addElement({
     type: 1,
     text: "Alumnus Chantal Moonsammy, Springbok Gymnast, Commonwealth Games 2006 (aged 14).",
     furtherText: `
-    <p>Sacred Heart College provides a wide range of sports within the school timetable and gives access via extra-curricular coaching to additional sports including gymnastics (through Aerials Rhythmic Gymnastics Club, run by Linda Giuricich at the school for 36 years, and continuing still), ballet (previously through the Beverly Fulton Blow School of Ballet until the retirement of Beverly Fulton Blow until in 2016 after 36 years at the College and today through the Michele Le Roux School of Ballet) and karate (the Kyokushin School with Steve Helm). </p>
+    <p>Sacred Heart College provides a wide range of sports within the school timetable and gives access via extra-curricular coaching to clubs including gymnastics (through Aerials Rhythmic Gymnastics Club, run by Linda Giuricich at the school for 36 years, and continuing still), ballet (previously through the Beverly Fulton Blow School of Ballet until the retirement of Beverly Fulton Blow until in 2016 after 36 years at the College and today through the Michele Le Roux School of Ballet) and karate (the Kyokushin School with Steve Helm). </p>
 <figure><img src="assets/images/points-of-interest/30.16.jpg" alt="">
   <figcaption>Sugar Plum Fairies in the 1974 Production.(Image: Marist Archive)</figcaption>
 </figure>

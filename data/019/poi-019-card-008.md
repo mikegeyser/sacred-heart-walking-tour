@@ -1,13 +1,9 @@
 ---
   id: 8
   type: 1
-  text: "An early Cadet Camp near Nigel, Gauteng in c1905. Note the steam-train in the background."
-  url: assets/images/points-of-interest/19.85.jpg
-  reference: "Image: Marist Archive"
+  text: "Marist Brothers Cadet Corps Military Badge c.8x8cm. Donated to Museum Africa in 1953."
+  url: assets/images/points-of-interest/19.73.jpg
+  reference: "Image: Museum Africa"
 ---
-Cadet Camp was also a regular side feature of the Cadet Corp at the College. Though the Cadets were disbanded, the camp experience was maintained for its team building and independence encouraging activities for learners from Grade 4 onwards. Camp activities today are a little less rigid than in times gone by. 
-
-<figure>![](assets/images/points-of-interest/19.60.jpg)
-  <figcaption>Boys on Cadet Camp in the early 1900s. (Image: Marist Archive) </figcaption>
-</figure>
+Until the disbanding of the Cadets there was an Armoury at the school. The Armoury at Obs contained Cadet kit (including uniform, drums, bugles and other band instruments) as well as relics from the South African War and the First and Second World Wars. .303 (which no longer worked) and .22 calibre rifles.  The school shooting range, paid for by the South African military authorities in the 1920s, was situated in the far corner of the school grounds where the cricket nets now are found. When Koch street premises was demolished, used ammunition was found embedded in the walls, left over from when shooting practice took place in the school yard. It would not be impossible to find similar debris buried where cricket balls land in Observatory today. The former Armoury’s cache of weapons has been replaced with a very different kind of battery cluster as today it is used as the Primary School Computer Centre.
 

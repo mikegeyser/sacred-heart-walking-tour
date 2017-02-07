@@ -1,15 +1,12 @@
 ---
   id: 5
   type: 1
-  text: "Nelson Mandela and Graça Machel visit one of the Pre-Primary classes in 1999."
-  url: assets/images/points-of-interest/07.25.jpg
-  reference: "Image: Sacred Heart College"
+  text: "The Yeoville Campus of Sacred Heart College (in the former Holy Family Convent) was 1.5 km away from the main school at (top right on map) and in operation from 1980 to 1995, home to the Junior Primary until 1992 and the Nursery and Pre-Primary until 1995. From 1995 school site was given over to Yeoville Community School."
+  url: assets/images/points-of-interest/07.33.jpg
+  reference: "Image: Google Maps at http://yeovillecommunityschool.weebly.com "
 ---
-According to Brother Neil McGurk and Brother Joseph Walton, Principals of the College and Primary School respectively, Nelson Mandela often liked to visit the Pre-Primary school in particular for of course during his time in prison he was starved of contact with children, not least his own children and grandchildren who in the 1990s were enrolled at Sacred Heart College.
+Yeoville Community School, first headed by Jackie Stevenson (who came from the staff at Sacred Heart College) began as a school of less than 200 children, doubled again in size once the Sacred Heart nursery/Pre-Primary relocated to Observatory after 1995 and now has a roll of over 1000 learners.
 
-Brother Joseph recollecting in 2016 about some of Mandela’s visits to the school:
+Much of the student body of the new Model C school was formed by children of the returning political exiles who began to come back to South Africa in the early 1990s and were aided through the Batlagae Trust along with children from the existing inner-city area, who until this point were unable to access their local school. Many of the pupils had been denied access to other city schools, often on the grounds of language and educational inadequacies, and the new school saw to it that the bridging of these gaps was achieved, with pupils then able to access other mainstream schools in due course. 
 
-> “I remember him coming here and it’s a silly little story but it shows the man himself, his humour … He was coming to visit the nursery school and I took him across and of course the children didn’t know who he was, just another person coming through and the children kept on saying “good morning Brother Joseph, good morning Brother Joseph, good morning Brother Joseph” and then he [Mandela] said to me “looks like you are more popular... you are more famous than I am!” and he laughed out loud.”
-
-This is in contrast today’s learners at the Pre-Primary for, according to teacher Boitomelo Letho who has taught at the Pre-Primary since the Yeoville days, they are well informed about politics and world affairs, debating amongst themselves around topics as varied as Donald Trump and the Olympics and of course, the legacy of Nelson Mandela. One of her favourite moments as a teacher of the grade 00s came when. whilst leading them her class through the school grounds passing the statue of Jesus with Sacred Heart she overheard a discussion between a few of the 5 year olds. Was this perhaps the resting place of Jesus or Nelson Mandela they debated – for such a spot with this prominent statue as marker could only be, in their minds, a signifier for one of these two equally momentous figures in their schools’ narrative.
-        
+Sacred Heart College through its staff, several of whom moved to work at the new schools in the name of providing experienced staff to a new community initiative, and the Marist Brothers (in negotiations with the Department of Education) were lynchpins in the establishment of quality education in the local environs. Barnato Park High School and Orange Grove Primary were amongst the first Model D schools opened in the early 1990s, established through efforts of the Marist Brothers and their supporters, many of whom were staff and parents of Sacred Heart College.

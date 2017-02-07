@@ -1,7 +1,7 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("016", "St Marcellin Champagnat", "St Marcellin’s story and Sacred Heart College .", -26.1735, 28.075287);
+var poi = new PointOfInterest("016", "St Marcellin Champagnat", "St Marcellin’s story and Sacred Heart College .", -26.172672, 28.075282);
 
 
 poi.addElement({
@@ -83,7 +83,7 @@ poi.addElement({
     <p>The Champagnat statue, which is life-size, was unveiled and blessed by Fr Barry on Champagnat Day (or Founders Day), 6th June 1961. An identical statue is also to be found at the two other Marist schools in Johannesburg, St David’s, Inanda and Marian College, Linmeyer.</p>
 <figure><img src="assets/images/points-of-interest/16.37.jpg" alt="">
 
-<figcaption>1980 Maristonian, p80</figcaption>
+<figcaption>1980 Sacred Heart College Yearbook, p80</figcaption>
 
 </figure>
 

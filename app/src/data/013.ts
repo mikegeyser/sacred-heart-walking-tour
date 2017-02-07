@@ -1,7 +1,7 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("013", "Statue of Jesus", "At the heart of the College.", -26.1735, 28.0751);
+var poi = new PointOfInterest("013", "Statue of Jesus", "At the heart of the College.", -26.173185, 28.075152);
 
 
 poi.addElement({
@@ -24,10 +24,11 @@ poi.addElement({
     type: 1,
     text: "1933, central façade of College building with Statue of Jesus and Sacred Heart in the top niche.",
     furtherText: `
-    <p>The statue was installed in the empty niche in around 1930. The statue of Jesus and Sacred Heart was not painted – it was originally plain white as the statues in the intermediate quad and in the Memorial Chapel plaza are today.</p>
-<p>There is speculation over why the niche was empty for the first few years of the college’s life at Observatory. Perhaps it was originally intended to contain a statue of Marcellin Champagnat since in the early days the College was, briefly, called St Benedict’s in his honour. By the early thirties however, though colloquially referred to as Marist Observatory, the school name was officially Sacred Heart College so it’s likely that the installation of this statue in this niche was part of the physical cementing of this fact.</p>
-<p>This photograph, taken in 2016, shows how the statue of Jesus positioned facing the college entrance steps looks today. However, this has not always been the case. The statue previously stood in two other locations at Sacred Heart College and was moved for particular reasons to be explained now. The fact that the statue is now also painted with colours, unlike most of the other statues around the school (with the exception of the Madonna and Child), is also significant. An event in the late 1980s occurred which led to the statue’s repainting and repositioning (further information about this is found in following slides). This statue of Jesus is an object of much more than symbolism around the name of the College – it is one that physically links Sacred Heart College to its ongoing mission to uphold its community members’ struggle for peace, truth and justice. Without being aware of the particular narrative of the 1980s, teacher Boitumelo Letho, explained that her pupils (in grade 00) are curious about the statue. Several times, when passing the statue on walks around the school with them she has heard snippets of conversations such as these:</p>
-<p>There is speculation over why the niche was empty for the first few years of the college’s life at Observatory. Perhaps it was originally intended to contain a statue of Marcellin Champagnat since in the early days the College was, briefly, called St Benedict’s in his honour. By the early thirties however, though colloquially referred to as Marist Observatory, the school name was officially Sacred Heart College so it’s likely that the installation of this statue in this niche was part of the physical cementing of this fact.</p>
+    <p>The statue was installed in the empty niche in 1932. The statue of Jesus and Sacred Heart was originally plain white (as the statues in the intermediate quad and in the Memorial Chapel plaza are today). </p>
+<blockquote>
+<p>“Only a few days back a beautiful statue of the Sacred-Heart was erected over the entrance of the College. This emblem of the love of God for men is a most befitting image to dominate an institution placed under the patronage and the protection of the Son of God. From its niche it stretches forth its arms in welcome to all those who enter the College.” (The 1932 Principal’s Report)</p>
+</blockquote>
+<p>There is speculation over why the niche was empty for the first few years of the college’s life at Observatory. Perhaps it was originally intended to contain a statue of Marcellin Champagnat since in the early days the College was, briefly, called St Benedict’s in his honour. By the early thirties, though colloquially referred to as Marist Observatory, the school name was officially Sacred Heart College so the installation of this statue in this niche was part of the physical cementing of this fact. Today, in the niche, sits a copy of the statue of Our Lady of Good Hope. The original Our Lady of Good Hope statue came from Marist College, Uitenhage and is kept in the Brother’s residence.</p>
 
     `,
     url: "assets/images/points-of-interest/13.34.jpg",
@@ -51,9 +52,9 @@ poi.addElement({
 
 poi.addElement({
     type: 3,
-    text: "Br Neil’s recollections about the necklacing of the statue of Jesus with Sacred Heart.",
+    text: "Br Neil’s recollections about the necklacing of the statue of Jesus with Sacred Heart one night in June 1987 during the second State of Emergency in the nation.",
     furtherText: `
-    <p>Brother Neil McGurk, Principal of the college for 20 years was responsible for the transformative processes that Sacred Heart College began in the 1970s/80s (first with the admittance of black learners in 1976 and then in 1890 with co-education).</p>
+    <p>Brother Neil McGurk, Principal of the college for 20 years was responsible for the transformative processes that Sacred Heart College began in the 1970s/80s (first with the admittance of black learners in 1976 and then in 1890 with co-education). The College was admitting Chinese learners from the 1930s and Brother Vincent recalls stories of these boys having to hide in cupboards from visiting government school inspectors, such was the nature of the school even prior to the 1970s.</p>
 
     `,
     url: "api.soundcloud.com/tracks/299752519",

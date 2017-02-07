@@ -1,10 +1,8 @@
 ---
   id: 7
   type: 1
-  text: "The school came together to collect donations for the Addo Community in the Eastern Cape, supported by the Marist Brothers, during Sacred Heart Day Mass in 2016."
-  url: assets/images/points-of-interest/33.02.jpg
-  reference: "Image: Sacred Heart College"
+  text: "In 2016, a third branch of the Three2Six opened at Holy Family Convent in Parktown serving learners from grade R upwards."
+  url: assets/images/points-of-interest/33.57.jpg
+  reference: "Image: Benjamin Buegja"
 ---
-As well as supporting the Three2Six Education Project through a number of events, the school community regularly collects for and donates to other causes. Charitable giving is regularly forthcoming, beginning with those in the Pre-Primary who are encouraged to share weekly on Piggy-Money days and through specially organised events such as dressing up days where monetary or other donations are encouraged throughout the whole school that support local and national charities. Recent examples from 2016 include the donation of hundreds of litres of bottled water by pupils in the High School during the droughts and their assistance of the Rotary Club of SA in the Stop Hunger food packing drive. Pupils from the Three2Six, PrePrimary and Primary were also involved in the creation of artwork for the new Nelson Mandela Children’s Hospital which demonstrates another way in which the community gives to its wider setting. 
-
-
+The Three2Six Children’s Refugee Education Project, a Sacred Heart College initiated Marist operates at Sacred Heart College, Observatory Girls Primary and, since 2016, at Holy Family Convent in Parktown. Learners and teachers from the refugee communities (mainly in Hillbrow, Berea, Yeoville and the surrounding areas) use the classrooms and facilities in these premises after regular school hours. But, as explained, the communities of learners are intertwined in many more ways than just by using the same spaces. Three2Six is the sixth Marist school in South Africa today. The logo on the learner’s shirt above (red for the Holy Family location, whereas the shirts of the learners based at Sacred Heart are blue but with the same logo underscored with Sacred Heart College rather than Holy Family College) incorporates the Marist monogram in the African continent and uses the blue and gold colours of the Marist schools. The gold bands, coming from all over Africa on this logo, represent the paths of the migrating children and families joining in Johannesburg, finding refuge in the Marist community.

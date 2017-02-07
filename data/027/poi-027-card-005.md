@@ -1,7 +1,7 @@
 ---
   id: 5
   type: 1
-  text: "1940s; Plane Tree Avenue (the horizontal row of trees in centre of picture) is still very young."
+  text: "1981 1st XV Rugby Team. Jeffrey Ho, front row second from right."
   url: assets/images/points-of-interest/27.31.jpg
   reference: "Image: Marist Archive"
 ---
