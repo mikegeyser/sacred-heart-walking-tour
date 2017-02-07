@@ -60,7 +60,7 @@ poi.addElement({
 <p>In the subsequent years the College (and its satellite at Yeoville Convent which served as an overflow to the main school following a pique in student numbers and as the site for the junior primary) was the choice of school for the children and grandchildren of the returning exiles in the 1990s. These included the Mandela, Ramaphosa, Ramogopa, Manganyi, Slovo, Letsebe, Motshega, Sisulu and Manthata families but there were many others.</p>
 
     `,
-    url: "api.soundcloud.com/tracks/300063964",
+    url: "api.soundcloud.com/tracks/303285575",
     reference: "(Image: Wits University, Historical Papers Archive)(Audio: C Kamana)"
 });
 

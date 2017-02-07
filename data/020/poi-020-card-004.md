@@ -1,7 +1,7 @@
 ---
   id: 4
   type: 1
-  text: "Alumnius Vincent Fritelli, aged 14 in 1955. "
+  text: "Alumnus Vincent Fritelli, aged 14 in 1955. "
   url: assets/images/points-of-interest/20.19.jpg
   reference: "Image: Marist Archive"
 ---

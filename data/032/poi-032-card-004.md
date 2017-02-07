@@ -2,7 +2,7 @@
   id: 4
   type: 3
   text: "Brother Neil McGurk discusses Eric Molobi and the socio-political situation within which Sacred Heart College sat in the 1980s. "
-  url: api.soundcloud.com/tracks/300063964
+  url: api.soundcloud.com/tracks/303285575
   reference: "(Image: Wits University, Historical Papers Archive)(Audio: C Kamana)"
 ---
 > “Two of the first group of students admitted into the primary school subsequently became well-known business personalities in South Africa. Simphwe Tshabalala is currently the CEO of Standard Bank, Southern Africa. Molefe Kgomo, the son of Dr Jubilee Kgomo, who with Dr Motlana was in charge of Letsedi Clinic in Soweto at the time, is now a director of a large steel construction business. Dr Kgomo subsequently become a long-serving member of the Governing Body of the College. With the opening of the 1978 academic year the presence of an increasing number of black students in our schools was noted. This encouraged more applications and admissions. It soon became an issue for the media. The provincial and national authorities also had to respond. There were immediate threats of closure from the Administrator of the Transvaal, at the time, Sybrand van Niekerk.”

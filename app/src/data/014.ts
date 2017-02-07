@@ -74,12 +74,15 @@ poi.addElement({
 
 poi.addElement({
     type: 3,
-    text: "Alumnus Viashin Govender recounts his encounter with Nelson Mandela ",
+    text: "Alumnus Viashin Govender (Matric 2011) recalls his encounter with Madiba and family when he was in Grade 1 at Sacred Heart College. ",
     furtherText: `
-    <p>ABCDEOI:HAOHAEOIFHEI OIFHEIOFHIIOEWHROIA</p>
+    <p>Viashin Govender&#39;s Matric profile in the 2011 Sacred Heart College Yearbook was as follows:</p>
+<p><strong>Nicknames:</strong> Raqatour, Vee, Mr Hundorable, Captain Awesome
+<strong>Extracurricular Activities</strong> Radio VERITAS, Military Peach Trees (Band), Ninja (Part time), various years of basketball, cricket, soccer, hockey, drama, art club and... LAN CLUB!! Achievements: Started SHC LAN Club, Academic blazer, lots of blue certificates, some videos here and there, Inter-house Music (Best Ensemble with Nicole Glover, 2010)
+<strong>Hopes and Ambitions:</strong> To become a Game Designer, Engineer, Film Director, Writer, Entrepreneur, Vigilante, Band Member and Jetsetter. To make a rocking website, the Ironman suit, a game to remember, a South African book that&#39;s not about apartheid or konserwatiewe Afrikaanse mense (a movie likewise) and abetter world (you know how it is), to add to the Laws of Physics, own an island, retire before I&#39;m 30 and be realistic about any future goals that will eventually pop up. Parting Words: And here... we... go</p>
 
     `,
-    url: "api.soundcloud.com/tracks/?",
+    url: "api.soundcloud.com/tracks/306341415",
     reference: "(Image: Sacred Heart College, Audio: C Kamana)"
 });
 

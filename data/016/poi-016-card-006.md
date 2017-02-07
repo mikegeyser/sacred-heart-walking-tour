@@ -1,7 +1,7 @@
 ---
   id: 6
   type: 1
-  text: "The statue of Champagnat, now in the Intermediate quad, was first installed at Sacred Heart College in 1961 on the traffic island opposite the main reception steps."
+  text: "The statue of Champagnat, now in the Intermediate quad, was first installed on the traffic island opposite the main reception steps."
   url: assets/images/points-of-interest/16.27.jpg
   reference: "Image: Marist Archive"
 ---

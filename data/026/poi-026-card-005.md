@@ -1,7 +1,7 @@
 ---
   id: 5
   type: 1
-  text: "The school badge designed for 1980 when the Sacred Heart College became co-educational and amalgamated with two other schools."
+  text: "The Sacred Heart College badge designed for 1980 when the school became co-educational."
   url: assets/images/points-of-interest/36.55.jpg
   reference: "Image: Marist Archive"
 ---

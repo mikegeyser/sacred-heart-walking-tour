@@ -1,7 +1,7 @@
 ---
   id: 3
   type: 1
-  text: "Portrait of Marcellin Champagnat (c70 x 45cm), artist and date unknown, that hangs in the Marist Provincial House at Sacred Heart College. "
+  text: "Portrait of Marcellin Champagnat (c70 x 45cm), a representation of Tito Ridolfi’s portrait, that hangs in the Marist Provincial House at Sacred Heart College."
   url: assets/images/points-of-interest/16.21b.jpg
   reference: "Image: C Kamana"
 ---

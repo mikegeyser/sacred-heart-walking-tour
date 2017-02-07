@@ -43,7 +43,7 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
-    text: "Alumnius Vincent Fritelli, aged 14 in 1955. ",
+    text: "Alumnus Vincent Fritelli, aged 14 in 1955. ",
     furtherText: `
     <p>In addition to class music lessons, many learners take extra lessons in instruments or voice, and are part of musical societies at school. Several alumni, like the pictured Vincent Fritelli, who in the 1955 Maristonian was described as a “prodigy of the violin”, have gone onto become professional musicians. Fritelli was a member of the Johannesburg Symphony Orchestra and conductor of the Johannesburg Concerto Festival, and is now a Professor of Music at the University of Texas, Austin, USA. </p>
 <p>More recent alumni to have achieved internationally acclaimed status in the music world include jazz musicians Vuma Levin (matric 2005), who credits belonging to the Sacred Heart Choir aged 14 as the catalyst for his career as an international award winning guitarist and composer, and Yamikani Mahaka-Phiri (matric 2009), renowned actor-cum-singer who performs on stage in South Africa and overseas. Levin and Mahaka-Phiri, along with South African music legend Sipho ‘Hotstix’ Mabuse, parent and grandparent to current pupils at the school, are some of those currently inspiring a thriving music scene for Sacred Heart learners.</p>

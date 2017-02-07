@@ -6,33 +6,29 @@ var poi = new PointOfInterest("008", "Ntate Sammy", "Selling Ice-Cream at Sacred
 
 poi.addElement({
     type: 1,
-    text: "Excerpt from letter to Alumni Community from Wayne Frank, class of 1993, to let the community know about Ntate Sammy’s upcoming retirement.",
+    text: "c.1963, Ntate (Uncle) Sammy cycling his ice-cream cart to College, pictured at the junction of Eckstein and Innes Streets.",
     furtherText: `
-    <p>However, in December 2016, Ntate Sammy said he wasn’t sure if he could retire… ‘as long as these gates are open and I can cycle through them I will want to’ … Indeed, Uncle Sammy can still be found (in 2017 at least) after school with his pushbike and freezer selling his ice creams to learners, parents and staff alike. In the same conversation Uncle Sammy said “My name isn’t really Uncle Sammy but one of the boys called me that a long time ago and it just stayed so now I am Uncle Sammy.”</p>
+    <figure><img src="assets/images/points-of-interest/08.15b.jpg" alt="">
 
-    `,
-    url: "assets/images/points-of-interest/08.15b.jpg",
-    reference: "Image: Sacred Heart College"
-});
-
-
-poi.addElement({
-    type: 1,
-    text: "Ntate (or Uncle) Sammy cycling his ice-cream cart to school in 1963, pictured at the junction of Eckstein and Innes Streets.",
-    furtherText: `
-    <figure>
-
-<div class="video-container">
-  <iframe width="854" height="480" [src]="'https://www.youtube.com/embed/ughdThYOKok' | safe" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<figcaption>Uncle Sammy talking in 2016 (Video: C Kamana)</figcaption>
+<figcaption>Excerpt from letter to Alumni Community from Wayne Frank, class of 1993, to let the community know about Ntate Sammy’s upcoming retirement. (Image: Sacred Heart College Archive)</figcaption>
 
 </figure>
 
     `,
     url: "assets/images/points-of-interest/08.01.jpg",
     reference: "Image: Marist Archive"
+});
+
+
+poi.addElement({
+    type: 2,
+    text: "Uncle Sammy in 2016.",
+    furtherText: `
+    <p>Uncle Sammy’s retirement is imminent. However, in December 2016, Ntate Sammy said he wasn’t sure if he could retire… ‘as long as these gates are open and I can cycle through them I will want to’ … Indeed, Uncle Sammy can still be found after school with his pushbike and freezer selling his ice creams to learners, parents and staff alike. In the same conversation Uncle Sammy said “My name isn’t really Uncle Sammy but the boys called me that a long time ago and it stayed, so now I am Uncle Sammy.”</p>
+
+    `,
+    url: "https://www.youtube.com/embed/ughdThYOKok",
+    reference: "Video: C Kamana"
 });
 
 
