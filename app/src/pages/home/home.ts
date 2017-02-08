@@ -71,9 +71,54 @@ export class HomePage {
 
       this.map = new google.maps.Map(this.mapElement.nativeElement, mapOptions);
 
+      let selectedMarker;
+      let infowindow;
+      const iconBase = 'assets/images/';
+      const greyIcon = iconBase + 'marker-grey.png';
+      const colourIcon = iconBase + 'marker.png';
+
       for (let key in AllPointsOfInterest) {
-        AllPointsOfInterest[key].createMarker(this.map, this.bounds);
+        let poi = AllPointsOfInterest[key];
+
+        let marker = new google.maps.Marker({
+          position: poi.getLatLng(),
+          title: poi.title,
+          icon: greyIcon,
+          map: this.map
+        });
+
+        let closeSelectedMarker = () => {
+            selectedMarker.setIcon(greyIcon);
+            selectedMarker = null;
+        }
+
+        marker.addListener('click', function () {
+          if (selectedMarker) {
+            closeSelectedMarker();
+          }
+
+          selectedMarker = marker;
+          marker.setIcon(colourIcon);
+
+          if (infowindow) {
+            infowindow.close();
+          }
+
+          infowindow = new google.maps.InfoWindow({
+            content: poi.info
+          });
+
+          infowindow.open(this.map, marker);
+
+          google.maps.event.addListener(infowindow, 'closeclick', function () {
+            closeSelectedMarker();
+          });
+        });
+
+        this.bounds.extend(marker.getPosition());
       }
+
+
 
       this.map.fitBounds(this.bounds);
 
