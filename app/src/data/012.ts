@@ -100,13 +100,13 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
-    text: "Brother Neil, pictured in 2000, giving a speech at a fundraising dinner in which he recalled the transformations that Sacred Heart College had undergone in the preceding decades.",
+    text: "Brother Neil, pictured in 2000, recalling transformations in the identity and direction of Sacred Heart College.",
     furtherText: `
-    <p>Brother Neil, whose uncle Gerald McGurk taught at Sacred Heart College for 43 years and whose uncle Edwin McGurk was Provincial in the late 1950s and early 1960s, began his own journey Marist ‘Obs’ aged 14. After making his first Marist vows and teaching in Australia, Brother Neil began teaching science at Marist ‘Obs’ in 1965. A veritable academic, with reams of published research in topics as diverse education and race, cosmology and nucleic forces, Brother Neil has inspired generations of learners. From 1975 to 1999 he was Director of the College. Sim Tshabalala, now joint CEO of Standard Bank and one of the first black students that Brother Neil admitted to the College said of his former Headmaster:</p>
+    <p>Brother Neil’s uncle Gerald McGurk taught at Sacred Heart College for 43 years and another uncle, Edwin McGurk, was Marist Provincial in the 1950s and 1960s. He began his own journey with Marist ‘Obs’ aged 14 in Standard 9. A veritable academic, with reams of published research in topics as diverse education and race, cosmology and nucleic forces, Brother Neil has inspired generations of learners. Brother Neil began teaching science at Marist ‘Obs’ in 1965 and from 1975 to 1999 was Director of College. Sim Tshabalala, alumnus and joint CEO of Standard Bank, said of his former Headmaster:</p>
 <blockquote>
-<p>“I learned a lot from him and in particular, I gained a love of philosophy and deep desire to help out – at least a little – to make South Africa a better place.” (Tshabalala, 2011)</p>
+<p>“I learned a lot from him and in particular, I gained a love of philosophy and deep desire to help out – at least a little – to make South Africa a better place.”      (Tshabalala, 2011)</p>
 </blockquote>
-<p>Under Br Neil’s leadership, the College defied government decree and opened the school to boys of all races in 1976. In 1980, he was responsible for the change to co-education. Outside of the College’s community, Br Neil has made invaluable contributions to South African society including negotiating educational reform with the pre-1994 Government leading to the remodelling and desegregation of schools, assisting the ANC before and after its unbanning with socio-cultural missions and the integration of the returning exiles in conjunction with the Batlagae trust. Br Neil continues to work tirelessly for social development with Catholic NGOs in the country; one current project ‘The Culture of Learning’ in KZN provides skill training in education and community development.  </p>
+<p>Under Br Neil’s leadership, the College defied government decree and opened the school to boys of all races in 1976. In the 1980s, he was responsible for the move to co-education and the integrated studies curriculum. Outside of the College’s community, Br Neil has made invaluable contributions to society including negotiating educational reform with the pre-1994 Government leading to the remodelling and desegregation of schools, assisting the ANC before and after its unbanning with socio-cultural missions and the integration of the returning exiles in conjunction with the Batlagae trust. Br Neil continues to work tirelessly for social development with Catholic NGOs in the country; one current project ‘The Culture of Learning’ in KZN provides skill training in education and community development.  </p>
 
     `,
     url: "assets/images/points-of-interest/12.52.jpg",
@@ -129,7 +129,7 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
-    text: "The statue of Our Lady of Good Hope that is displayed in the Brothers’ Residence.",
+    text: "The statue of Our Lady of Good Hope in the Brothers’ Residence.",
     furtherText: `
     <p>This statue of Our Lady of Good Hope was made in Europe and sent by Brother Procope, Marist Superior in the 1880s, to the Marist College at Uitenhage, Our Lady of Good Hope College at a cost of £7 and 15 schillings according to the Uitenhage annals of 1890 recorded by Brother Nectaire. When that College closed in the 1950s it was moved to the Brother’s Residence in Walmer, Port Elizabeth where the Brothers in that area continued to live. When Brother Joseph became Principal of the Primary School at Sacred Heart College he arranged for the statue to be moved to Johannesburg for it was no longer displayed in a prominent place in Walmer having developed a fondness for the statue during his days as a learner at the Marist College in Uitenhage.  When Brother Joseph was made Provincial in 2010 he arranged for a copy of the statue to be made and it is this copy that sits in the niche in the College façade today. The niche had been empty for nearly thirty years after the statue of Jesus with the Sacred Heart was moved from that spot in 1979 to coincide with the school reverting to the use of its religious name when it became co-educational in 1980. </p>
 

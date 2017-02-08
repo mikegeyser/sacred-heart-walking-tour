@@ -1,8 +1,8 @@
 ---
   id: 7
-  type: 2
-  text: "Nelson Mandela was inducting Brigitte Mabandla as Deputy Minister of Arts and Culture at Luthuli House in 1995 and the presence of her son Sibusiso, in Sacred Heart College uniform provoked this response from the President."
-  url: https://www.youtube.com/embed/YjAddE3fzaE
-  reference: "Video: Quizzical Pictures / SABC"
+  type: 1
+  text: "Letter written by Nelson Mandela (whilst in Pollsmoor Prison) to Israel Maisels QC (former alumnus) on the occasion of his 80th birthday."
+  url: assets/images/points-of-interest/34.52b.jpg
+  reference: "Image: Wits University Historical Papers Archive"
 ---
-Many of the first democratically elected government in South Africa chose to send their children to Sacred Heart College. Brother Neil and several of the staff in the College flew to Tanzania to help assess and plan for the return of the exiles’ children to South Africa along with their parents. Many of them joined Sacred Heart College. 
+This letter represents the interconnectedness of the extended Sacred Heart College community. At the time of writing, in 1985, Nelson Mandela would not have known that the school that his defense attorney during the Treason Trial in the 1960s attended was to become one so dear to his and his family’s heart. 

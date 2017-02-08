@@ -1,7 +1,7 @@
 ---
   id: 10
   type: 1
-  text: "The statue of Our Lady of Good Hope that is displayed in the Brothers’ Residence."
+  text: "The statue of Our Lady of Good Hope in the Brothers’ Residence."
   url: assets/images/points-of-interest/12.02b.jpg
   reference: "Image: C Kamana"
 ---

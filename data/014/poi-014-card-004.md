@@ -1,7 +1,7 @@
 ---
   id: 4
   type: 3
-  text: " Brother Joseph Walton (Primary School Principal in the 1990s) recalls some of Mandela’s visits to the College. "
+  text: "Brother Joseph Walton (Primary School Principal in the 1990s) recalls some of Mandela’s visits to the College. "
   url: api.soundcloud.com/tracks/305095578
   reference: "(Image: Sacred Heart College, Audio: C Kamana)"
 ---

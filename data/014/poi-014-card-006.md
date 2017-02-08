@@ -1,11 +1,13 @@
 ---
   id: 6
-  type: 1
-  text: "Letter written by Nelson Mandela (whilst in Pollsmoor Prison) to Israel Maisels QC (former alumnus) on the occasion of his 80th birthday."
-  url: assets/images/points-of-interest/34.52b.jpg
-  reference: "Image: Wits University Historical Papers Archive"
+  type: 3
+  text: "Alumnus Viashin Govender (Matric 2011) recalls events during Grade 1 at Sacred Heart College. His 2011 Yearbook profile is below."
+  url: api.soundcloud.com/tracks/306341415
+  reference: "(Image: Sacred Heart College, Audio: C Kamana)"
 ---
-This letter represents the interconnectedness of the extended Sacred Heart College community. At the time of writing, in 1985, Nelson Mandela would not have known that the school that his defense attorney during the Treason Trial in the 1960s attended was to become one so dear to his and his family’s heart. 
-
-
-        
+**Nicknames:** Raqatour, Vee, Mr Hundorable, Captain Awesome
+**Extracurricular Activities:** Radio VERITAS, Military Peach Trees (Band), Ninja (Part time), various years of basketball, cricket, soccer, hockey, drama, art club and... LAN CLUB!! 
+**Achievements:**Started SHC LAN Club, Academic blazer, lots of blue certificates, some videos here and there, Inter-house Music (Best Ensemble with Nicole Glover, 2010)
+**Hopes and Ambitions:** To become a Game Designer, Engineer, Film Director, Writer, Entrepreneur, Vigilante, Band Member and Jetsetter. To make a rocking website, the Ironman suit, a game to remember, a South African book that's not about apartheid or konserwatiewe Afrikaanse mense (a movie likewise) and abetter world (you know how it is), to add to the Laws of Physics, own an island, retire before I'm 30 and be realistic about any future goals that will eventually pop up. 
+**Parting Words:** And here... we... go
+     

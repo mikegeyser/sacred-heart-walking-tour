@@ -9,7 +9,5 @@
 > 
 > <footer>Br Jude Pieterse, Sec. Gen. SACBC 1988</footer>
 
-Wilfred Napier, President of the SACBC, described the attack as “an attempt to destroy the commitment and the spirit of justice, love and truth that inspired the Southern African Bishops’ Conference in its opposition to apartheid”. In part, it was the SACABC’s anti-apartheid vision that had inspired the Marists to open Sacred Heart to all races.  Brother Jude, former Marist Provincial and SACBC Secretary General at the time, relates that further unexploded triggers (including limpet mines) were found to have been planted in the Khanya House.
- The attack on Khanya House was the third similar of incident that year (after attacks on Cosatu House, the Trade Union Headquarters and Khosto House, the hub for the South African Council of Churches and other community activist organisations). The fear of the power of educational and spiritual related missions against the ideals of apartheid regime was palpable. The statue of Jesus with Sacred Heart remains a reminder of the transformative potential of that power. 
-
-        
+It was, in part, the SACBC’s anti-apartheid vision that had inspired the Marists to open Sacred Heart to all races.  Brother Jude, former Marist Provincial and SACBC Secretary General at the time, relates that further unexploded triggers (including limpet mines) were found to have been planted in Khanya House. The attack on Khanya House was the third similar of incident that year (after attacks on Cosatu House, the Trade Union Headquarters and Khosto House, the hub for the South African Council of Churches and other community activist organisations). The fear of the power of educational and spiritual missions against the ideals of apartheid regime was palpable. The statue of Jesus with Sacred Heart remains a reminder of the transformative potential of that power. 
+    

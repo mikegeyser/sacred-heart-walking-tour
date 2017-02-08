@@ -8,8 +8,8 @@ poi.addElement({
     type: 1,
     text: "President Nelson Mandela visiting the College in 1998.",
     furtherText: `
-    <p>Almost everyone connected to Sacred Heart College during the 1990s/2000s has their own recollections of Nelson Mandela’s frequent visits to the College. To include all the stories would be impossible; a few selected for the following slides give some insight into the special relationship that Nelson Mandela, his family and that of Sacred Heart College have had over the years.</p>
-<p>Some of the visits the President made were in an official capacity (for example when he took the lead in fundraising events for bursary schemes, new buildings or renovations), others more personal (parent’s evenings and watching his grandchildren in school productions). Visits were impromptu (such as his attendance at the 2001 Family Fun day on 16th June much to the consternation of his security team), others planned. Even the scheduled events caused a stir for his team; Frank Hollingworth recalled the attendance of Mandela at the Bugsy Malone school production. One scene required cast members to burst into the hall brandishing weapons to the sound of something similar to gun fire. Mandela’s protection team jumped up and prepared to react, much to the amusement of the cast, audience and President who had already assessed that high school students furnished with custard guns were not likely to be a national security threat. </p>
+    <p>Almost everyone connected to Sacred Heart College during the 1990s/2000s has their own recollections of Nelson Mandela’s frequent visits to the College. To include all the stories would be impossible; the following slides give some insight into the special relationship that Nelson Mandela and his family have had with Sacred Heart College over the years.</p>
+<p>Some of the former President’s visits were made in an official capacity (for example when he took the lead in fundraising events for bursary schemes, new buildings or renovations), others more personal (parent’s evenings and watching his grandchildren in school productions). Some visits were impromptu, such as his attendance at the 16th June Family Fun Day (2001), much to the consternation of his security team. Even the scheduled events caused a stir for his team; Frank Hollingworth recalled the attendance of Mandela at the Bugsy Malone school production. One scene required cast members to burst into the hall brandishing weapons to the sound of something similar to gun fire. Mandela’s protection team jumped up and prepared to react, much to the amusement of the cast, audience and President who had already assessed that high school students furnished with custard guns were not likely to be a national security threat. </p>
 
     `,
     url: "assets/images/points-of-interest/14.12.jpg",
@@ -19,14 +19,11 @@ poi.addElement({
 
 poi.addElement({
     type: 3,
-    text: "Brother Neil McGurk describes Nelson Mandela as the ‘Pied Piper’ of College. ",
+    text: "Brother Neil describes the ‘Pied Piper’ of College. ",
     furtherText: `
     <p>Artist Willem Boshoff on Mandela:</p>
 <blockquote>
-<p>“For some years now my children attended the same school as Mr. Mandela&#39;s grandchildren, Sacred Heart College in Observatory, Johannesburg. We regularly see him at school plays and other functions. He surprised all of us with his lack of bitterness after his four neves* sentences and with his astute and accommodating leadership. However, what impressed me most about him is that, in spite of staggering commitments of national and international dimension, in spite of (perhaps it is because of) the many years of life missed while we [sic.] was in jail, he affords his (rather naughty) grandchildren the time and respect one might prudently bestow upon royalty, presidents and the like.”<br>  <a href="http://www.davidkrut.com/bioBoshoff.html">http://www.davidkrut.com/bioBoshoff.html</a> </p>
-<ul>
-<li>“prison slang’ for a jail sentence of more than seven years</li>
-</ul>
+<p>“For some years now my children attended the same school as Mr. Mandela&#39;s grandchildren, Sacred Heart College in Observatory, Johannesburg. We regularly see him at school plays and other functions. He surprised all of us with his lack of bitterness after his four neves<em> sentences and with his astute and accommodating leadership. However, what impressed me most about him is that, in spite of staggering commitments of national and international dimension, in spite of (perhaps it is because of) the many years of life missed while we [sic.] was in jail, he affords his (rather naughty) grandchildren the time and respect one might prudently bestow upon royalty, presidents and the like.”<br>  <a href="http://www.davidkrut.com/bioBoshoff.html">http://www.davidkrut.com/bioBoshoff.html</a>  </em>&#39;prison slang’ for a jail sentence of more than seven years</p>
 </blockquote>
 
     `,
@@ -37,18 +34,9 @@ poi.addElement({
 
 poi.addElement({
     type: 3,
-    text: "2002, Nelson Mandela and his grandsons view the eclipse. From left is Zuko Dlamini, Mbuso Mandela, Andile Mandela. Perhaps one of these blazers the one referred to by Terry Sawyer, College Bursar, in the attached audio clip? ",
+    text: "2002, Nelson Mandela and his grandsons view the eclipse. From the left are Zuko Dlamini, Mbuso Mandela, Andile Mandela. ",
     furtherText: `
-    <figure>
-
-<div class="video-container">
-  <iframe width="854" height="480" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/305107759&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>&quot; frameborder=&quot;0&quot; allowfullscreen&gt;</iframe>
-</div>
-
-<figcaption>Terry Sawyer, College Bursar, recounts one of his favourite Nelson Mandela related stories (Image: Sacred Heart College, Audio: C Kamana)</figcaption>
-
-</figure>
-
+    <p>Perhaps one of these blazers was the one that featured in the tale recounted by Terry Sawyer, College Bursar since 2001, in the attached audio clip?</p>
 
     `,
     url: "api.soundcloud.com/tracks/305106787",
@@ -58,7 +46,7 @@ poi.addElement({
 
 poi.addElement({
     type: 3,
-    text: " Brother Joseph Walton (Primary School Principal in the 1990s) recalls some of Mandela’s visits to the College. ",
+    text: "Brother Joseph Walton (Primary School Principal in the 1990s) recalls some of Mandela’s visits to the College. ",
     furtherText: `
     <figure><img src="assets/images/points-of-interest/14.19.jpg" alt="">
 
@@ -73,13 +61,30 @@ poi.addElement({
 
 
 poi.addElement({
-    type: 3,
-    text: "Alumnus Viashin Govender (Matric 2011) recalls his encounter with Madiba and family when he was in Grade 1 at Sacred Heart College. ",
+    type: 1,
+    text: "Brother Joseph (pictured left) taking Nelson Mandela around the Primary School in 1998. ",
     furtherText: `
-    <p>Viashin Govender&#39;s Matric profile in the 2011 Sacred Heart College Yearbook was as follows:</p>
-<p><strong>Nicknames:</strong> Raqatour, Vee, Mr Hundorable, Captain Awesome
-<strong>Extracurricular Activities</strong> Radio VERITAS, Military Peach Trees (Band), Ninja (Part time), various years of basketball, cricket, soccer, hockey, drama, art club and... LAN CLUB!! Achievements: Started SHC LAN Club, Academic blazer, lots of blue certificates, some videos here and there, Inter-house Music (Best Ensemble with Nicole Glover, 2010)
-<strong>Hopes and Ambitions:</strong> To become a Game Designer, Engineer, Film Director, Writer, Entrepreneur, Vigilante, Band Member and Jetsetter. To make a rocking website, the Ironman suit, a game to remember, a South African book that&#39;s not about apartheid or konserwatiewe Afrikaanse mense (a movie likewise) and abetter world (you know how it is), to add to the Laws of Physics, own an island, retire before I&#39;m 30 and be realistic about any future goals that will eventually pop up. Parting Words: And here... we... go</p>
+    <figure><img src="assets/images/points-of-interest/14.19.jpg" alt="">
+
+<figcaption>Brother Joseph’s signed copy of Nelson Mandela’s ‘Long Walk to Freedom’, kept in the Marist Archive. Nelson Mandela presented signed copies of his autobiography to the various sections of the College. (Image: C Kamana)</figcaption>
+
+</figure>
+
+    `,
+    url: "assets/images/points-of-interest/14.11b.jpg",
+    reference: "Image: Sacred Heart College"
+});
+
+
+poi.addElement({
+    type: 3,
+    text: "Alumnus Viashin Govender (Matric 2011) recalls events during Grade 1 at Sacred Heart College. His 2011 Yearbook profile is below.",
+    furtherText: `
+    <p><strong>Nicknames:</strong> Raqatour, Vee, Mr Hundorable, Captain Awesome
+<strong>Extracurricular Activities:</strong> Radio VERITAS, Military Peach Trees (Band), Ninja (Part time), various years of basketball, cricket, soccer, hockey, drama, art club and... LAN CLUB!! 
+<strong>Achievements:</strong>Started SHC LAN Club, Academic blazer, lots of blue certificates, some videos here and there, Inter-house Music (Best Ensemble with Nicole Glover, 2010)
+<strong>Hopes and Ambitions:</strong> To become a Game Designer, Engineer, Film Director, Writer, Entrepreneur, Vigilante, Band Member and Jetsetter. To make a rocking website, the Ironman suit, a game to remember, a South African book that&#39;s not about apartheid or konserwatiewe Afrikaanse mense (a movie likewise) and abetter world (you know how it is), to add to the Laws of Physics, own an island, retire before I&#39;m 30 and be realistic about any future goals that will eventually pop up. 
+<strong>Parting Words:</strong> And here... we... go</p>
 
     `,
     url: "api.soundcloud.com/tracks/306341415",
