@@ -55,13 +55,16 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
-    text: "In 1984 some pupils came to school with their own cars or on motorbikes.",
+    text: "Parking at Sacred Heart College in 1963. Photograph taken by then matric, Howard Thomas.",
     furtherText: `
-    <p>It is no longer permissible for learners to bring their own cars or other vehicles (other than bicycles) to College for reasons of health and safety, as well as the logistics of parking and insurances.</p>
+    <p>The image below shows some learners in 1984 who came to school with their own cars or on motorbikes. It is no longer permissible for learners to bring their own cars or other vehicles (other than bicycles) to College for reasons of health and safety, as well as the logistics of parking and insurances. </p>
+<figure><img src="assets/images/points-of-interest/05.14.jpg" alt="">
+  <figcaption>Image: Marist Archive</figcaption>
+</figure>
 
     `,
-    url: "assets/images/points-of-interest/05.14.jpg",
-    reference: "Image: Marist Archive"
+    url: "assets/images/points-of-interest/05.24.jpg",
+    reference: "Image: Howard Thomas"
 });
 
 

@@ -7,6 +7,6 @@
 ---
 <figure>![](assets/images/points-of-interest/14.11b.jpg)
 
-<figcaption> Brother Joseph (pictured left) with Mandela, meeting a Primary school learner in 1988. (Image: Sacred Heart College)</figcaption>
+<figcaption> Brother Joseph (pictured left) with Mandela, meeting a Primary school learner in 1998. (Image: Sacred Heart College)</figcaption>
 
 </figure>

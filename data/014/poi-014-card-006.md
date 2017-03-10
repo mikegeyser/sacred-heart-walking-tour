@@ -5,4 +5,4 @@
   url: api.soundcloud.com/tracks/306341415
   reference: "(Image and Audio: V Govender)"
 ---
-Viashin Govender matriculated in 2011 and went on to study Engineering and Game Design (Bachelors of Engineering Science in Digital Arts) at Wits University. He is currently completing Honours in the same field. Viashin’s mother, Thiru, was a maths teacher and later Deputy Principal, at Sacred Heart College for twenty years.
+Viashin Govender matriculated in 2011 and went on to study Engineering and Game Design (Bachelors of Engineering Science in Digital Arts) at Wits University. He is currently completing Honours in the same field. Viashin’s mother, Thiru, was a maths teacher and later Deputy Principal, at Sacred Heart College for seventeen years.

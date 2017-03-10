@@ -25,7 +25,7 @@ export class HomePage {
   constructor(public nav: NavController, private _ngZone: NgZone, private popoverCtrl: PopoverController) {
     this.loadGoogleMaps(_ngZone);
   }
-  
+
   help(event) {
     let popover = this.popoverCtrl.create(HelpPage);
     popover.present({
@@ -88,7 +88,7 @@ export class HomePage {
       let infowindow;
       const iconBase = 'assets/images/';
       const greyIcon = iconBase + 'marker-2-grey.png';
-      const colourIcon = iconBase + 'marker-2.png';
+      const colourIcon = iconBase + 'marker-yellow.png';
 
       for (let key in AllPointsOfInterest) {
         let poi = AllPointsOfInterest[key];
@@ -96,7 +96,7 @@ export class HomePage {
         let marker = new google.maps.Marker({
           position: poi.getLatLng(),
           title: poi.title,
-          //          icon: greyIcon,
+          icon: colourIcon,
           map: this.map
         });
 

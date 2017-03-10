@@ -20,9 +20,9 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
-    text: "House badges worn in learners’ lapels before WW2.",
+    text: "House badges used to be worn on learners’ lapels.",
     furtherText: `
-    <p>These enamel and metal badges (measuring approx. 1.5 x 2 cm) were worn on the left hand lapel of the blazer. Pictures can be found in the Maristonian of learners wearing these badges between the years of c.1928-1942. It is likely that post WW2, when finances were tight, that these were phased out, for this reason. This collection of badges was donated to Museum Africa in 1951. </p>
+    <p>These enamel and metal badges (c. 1.5 x 2 cm) were worn on the blazer’s left hand lapel. Pictures in the Maristonian show learners wearing these between the years of c.1928-1942. Post WW2, when finances were tight, the badges were phased out, though they were reintroduced for a period of time between the 1950s and ‘70s. This collection was donated to Museum Africa in 1951. </p>
 <p>The Marist AM monogram is centred in the badge, with the house name written in the scroll below the monogram. The coloured background is specific to each house. Above the monogram is a single star; alluding to Mary, the Marist’s guiding star like the star of Bethlehem for the Magi (in Biblical texts). The “J” below the monogram signifies either Johannesburg or Junior Marist (categorised as pupils in standards 1 to 5, equivalent of grades 2-6 today). It is most likely Johannesburg as, prior to 1933 (when the Brothers’ Council first allowed the different Marist schools in South Africa to wear different blazers), Marist uniforms between schools were distinguished only by a metal badge, similar to the above, with a letter denoting the school, for example: MBR for Marist Brothers Rondebosch and MBD for Marist Brothers Durban. </p>
 
     `,
@@ -75,7 +75,7 @@ poi.addElement({
     text: "Bust of Brother Valerian kept in the Marist Archive.",
     furtherText: `
     <p>The 75th Anniversary issue of the Maristonian said that “the energy of Brother Valerian underlies every phase of the early history of the school”. Br Valerian, for whom the red house is named, arrived at Koch Street in 1890. The Valerian Prize, also named for him, is awarded for academic excellence to a Junior Matric (grade 11 today). Br Valerian, who was not being able to “disassociate purely scholastic work from physical training”, taught the senior classes as well as gym, athletics and the Cadets. He once took his class to hear the first phonograph in Johannesburg, at the time a huge novelty, and produced the first Maristonian in 1908. </p>
-<p>In 1894, only three pupils in the then Transvaal, all Marist learners, were sitting Matric. Br Valerian supervised the boys’ examinations in Bloemfontein. An illuminated manuscript of thanks to Br Valerian from their parents is kept in the Marist archive. Morris Alexander, one of the first pupils in 1889, writing in the 1941 Maristonian, credits Br Valerian for his valuable assistance in getting him through his matric in 1900. In that year the exam papers were brought by military escort from Cape Town. This bust was presented by Old Boys in 1916 as a token of gratitude, dedicated to the memory of Br Valerian, who died in 1914.</p>
+<p>In 1894, only three pupils in the then Transvaal Republic, all Marist learners, were sitting Matric. Br Valerian supervised the boys’ examinations in Bloemfontein. An illuminated manuscript of thanks to Br Valerian from their parents is kept in the Marist archive. Morris Alexander, one of the first pupils in 1889, writing in the 1941 Maristonian, credits Br Valerian for his valuable assistance in getting him through his matric in 1900. In that year the exam papers were brought by military escort from Cape Town. This bust was presented by Old Boys in 1916 as a token of gratitude, dedicated to the memory of Br Valerian, who died in 1914.</p>
 
     `,
     url: "assets/images/points-of-interest/36.16.jpg",

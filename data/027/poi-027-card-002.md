@@ -1,7 +1,7 @@
 ---
   id: 2
   type: 1
-  text: "1958, Boxing at Sacred Heart College"
+  text: "1958, Boxing at Sacred Heart College."
   url: assets/images/points-of-interest/25.23.jpg
   reference: "Image: Marist Archive"
 ---

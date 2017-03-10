@@ -65,7 +65,7 @@ poi.addElement({
     furtherText: `
     <figure><img src="assets/images/points-of-interest/14.11b.jpg" alt="">
 
-<figcaption> Brother Joseph (pictured left) with Mandela, meeting a Primary school learner in 1988. (Image: Sacred Heart College)</figcaption>
+<figcaption> Brother Joseph (pictured left) with Mandela, meeting a Primary school learner in 1998. (Image: Sacred Heart College)</figcaption>
 
 </figure>
 
@@ -79,7 +79,7 @@ poi.addElement({
     type: 3,
     text: "Viashin Govender (Matric 2011) recalls an incident during Grade 1. Pictured above with his parents, sibling and Mandela as described in his audio.",
     furtherText: `
-    <p>Viashin Govender matriculated in 2011 and went on to study Engineering and Game Design (Bachelors of Engineering Science in Digital Arts) at Wits University. He is currently completing Honours in the same field. Viashin’s mother, Thiru, was a maths teacher and later Deputy Principal, at Sacred Heart College for twenty years.</p>
+    <p>Viashin Govender matriculated in 2011 and went on to study Engineering and Game Design (Bachelors of Engineering Science in Digital Arts) at Wits University. He is currently completing Honours in the same field. Viashin’s mother, Thiru, was a maths teacher and later Deputy Principal, at Sacred Heart College for seventeen years.</p>
 
     `,
     url: "api.soundcloud.com/tracks/306341415",
