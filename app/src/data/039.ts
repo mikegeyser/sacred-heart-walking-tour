@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("039", "Old Chapel Theatre", "Original Chapel - first floor (NW corner) of main building", -26.17295, 28.075356);
 
+poi.themes = ["Champagnat","Grounds and Buildings","Traditions and Innovations"];
 
 poi.addElement({
     type: 1,

@@ -9,7 +9,8 @@ import { HttpModule }      from '@angular/http';
 
 // All pages (sucks)
 import { AboutPage } from '../pages/about/about';
-import { ContactPage } from '../pages/contact/contact';
+import { ThemesPage } from '../pages/themes/themes';
+import { ThemePage } from '../pages/theme/theme';
 import { HomePage } from '../pages/home/home';
 import { TabsPage } from '../pages/tabs/tabs';
 import { PointOfInterestPage } from '../pages/point-of-interest/point-of-interest';
@@ -25,10 +26,10 @@ const cloudSettings: CloudSettings = {
   declarations: [
     MyApp,
     AboutPage,
-    ContactPage,
+    ThemesPage,
+    ThemePage,
     HomePage,
     TabsPage,
-    // PrePrimaryPage,
     PointOfInterestPage,
     ExplorePage,
     SafePipe
@@ -43,10 +44,10 @@ const cloudSettings: CloudSettings = {
   entryComponents: [
     MyApp,
     AboutPage,
-    ContactPage,
+    ThemesPage,
+    ThemePage,
     HomePage,
     TabsPage,
-    // PrePrimaryPage,
     PointOfInterestPage,
     ExplorePage
   ],

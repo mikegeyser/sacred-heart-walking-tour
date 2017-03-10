@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("022", "The Macartin Centre", "Indoor sports and community space.", -26.172722, 28.075867);
 
+poi.themes = ["Koch Street","Alumni","Grounds and Buildings","Traditions and Innovations"];
 
 poi.addElement({
     type: 1,

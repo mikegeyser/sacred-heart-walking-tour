@@ -93,3 +93,29 @@ addPointOfInterest(thirtyseven);
 addPointOfInterest(thirtyeight);
 addPointOfInterest(thirtynine);
 addPointOfInterest(forty);
+
+let themeMap = {};
+
+for (let key in AllPointsOfInterest) {
+    let poi = AllPointsOfInterest[key];
+
+    for (let theme of poi.themes) {
+        if (!themeMap[theme])
+            themeMap[theme] = [];
+        themeMap[theme].push(poi);
+    }
+}
+
+let themes = [];
+for (let name in themeMap) {
+    themes.push({
+        theme: name,
+        pois: themeMap[name]
+    });
+}
+
+export var Themes = themes;
+
+export function getPoiForTheme(theme) {
+    return themeMap[theme] || [];
+};

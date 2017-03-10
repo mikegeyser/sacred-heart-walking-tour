@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("007", "Pre-Primary School", "The Orchard, Yeoville and the Pre-School.", -26.173514, 28.074774);
 
+poi.themes = ["Koch Street","Brothers today at Sacred Heart","Ethos","College Characters","Alumni","Grounds and Buildings","Learning","Traditions and Innovations","Socio-Political Context","Stories"];
 
 poi.addElement({
     type: 1,

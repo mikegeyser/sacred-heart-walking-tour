@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("030", "The Hall", "A concourse for the body and mind.", -26.173687, 28.075672);
 
+poi.themes = ["Koch Street","Alumni","Grounds and Buildings","Learning","Traditions and Innovations"];
 
 poi.addElement({
     type: 1,

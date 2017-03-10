@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("017", "School Nurses", "Hospitals, Matrons and Nurses.", -26.172887, 28.075342);
 
+poi.themes = ["Koch Street","Ethos","College Characters","Alumni","Grounds and Buildings","Traditions and Innovations","Socio-Political Context"];
 
 poi.addElement({
     type: 1,

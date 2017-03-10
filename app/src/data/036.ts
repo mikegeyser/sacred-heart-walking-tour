@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("036", "Houses", "The school houses and their namesakes.", -26.173358, 28.075663);
 
+poi.themes = ["Marist Brothers' History","Koch Street","Champagnat","Alumni"];
 
 poi.addElement({
     type: 1,

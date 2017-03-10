@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("038", "Main Reception Foyer", "The hallway – a passage through time…", -26.173202, 28.075423);
 
+poi.themes = ["Marist Brothers' History","Champagnat","Grounds and Buildings","Learning","Traditions and Innovations"];
 
 poi.addElement({
     type: 1,

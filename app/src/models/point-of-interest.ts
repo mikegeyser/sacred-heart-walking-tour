@@ -3,6 +3,7 @@ declare var google;
 export class PointOfInterest {
     elements: PointOfInterestElement[] = [];
     info: string;
+    themes: string[];
     
     constructor(
         public id: string,

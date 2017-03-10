@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("011", "The Workshop", "Furnishing the College with history", -26.173035, 28.074214);
 
+poi.themes = ["Brothers today at Sacred Heart","Ethos","College Characters","Alumni","Grounds and Buildings","Traditions and Innovations","Stories"];
 
 poi.addElement({
     type: 1,

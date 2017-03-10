@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("040", "Habits", "More than a Coffee Shop", -26.173426, 28.0753);
 
+poi.themes = ["Marist Brothers' History","Koch Street","Brothers today at Sacred Heart","College Characters","Alumni","Grounds and Buildings","Traditions and Innovations"];
 
 poi.addElement({
     type: 1,

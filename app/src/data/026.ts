@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("026", "Uniform", "School uniform and badges over the last 128 years.", -26.172251, 28.076247);
 
+poi.themes = ["Koch Street","Characters","Alumni","Traditions and Innovations"];
 
 poi.addElement({
     type: 1,

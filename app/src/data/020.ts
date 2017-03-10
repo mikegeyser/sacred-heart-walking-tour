@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("020", "Music", "Musical traditions then and now.", -26.172438, 28.075738);
 
+poi.themes = ["Koch Street","Alumni","Grounds and Buildings","Learning","Traditions and Innovations"];
 
 poi.addElement({
     type: 1,

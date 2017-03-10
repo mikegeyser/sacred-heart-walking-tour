@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("029", "WW1 Memorial", "Marist pupils from Koch Street who served in WW1.", -26.173556, 28.075651);
 
+poi.themes = ["Koch Street","Alumni","Grounds and Buildings","Socio-Political Context","Stories"];
 
 poi.addElement({
     type: 1,

@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("031", "The Marist Archive", "A room at the hub of the College’s collective memories.", -26.173796, 28.075463);
 
+poi.themes = ["Marist Brothers' History","Koch Street","Alumni","Traditions and Innovations","Stories"];
 
 poi.addElement({
     type: 1,

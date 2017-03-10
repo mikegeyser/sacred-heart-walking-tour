@@ -1,0 +1,16 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Themes</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <ion-list>
+    <button ion-item *ngFor="let theme of themes" (click)="showPoi(theme)">
+      <h2>{{theme.theme}}</h2>
+    </button>
+  </ion-list>
+</ion-content>

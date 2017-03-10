@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("019", "Cadets", "From Cadets' Armoury to Computer Centre", -26.172482, 28.075433);
 
+poi.themes = ["Koch Street","Brothers today at Sacred Heart","Alumni","Grounds and Buildings","Traditions and Innovations","Socio-Political Context"];
 
 poi.addElement({
     type: 1,

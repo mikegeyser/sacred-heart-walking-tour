@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("014", "Mandela", "Grandparent, Pied Piper, Mediator and President", -26.172918, 28.075211);
 
+poi.themes = ["Brothers today at Sacred Heart","Ethos","College Characters","Alumni","Socio-Political Context","Stories"];
 
 poi.addElement({
     type: 1,

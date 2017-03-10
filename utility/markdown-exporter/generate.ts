@@ -16,20 +16,23 @@ fs.readdir(dir, (err, directories) => {
             // consolBe.log(poi);
             let poi_number_as_words = converter.toWords(poi_number).replace(/[\s|-]/g, '');
 
+            let themes = JSON.stringify(poi.meta.themes);
+
             let content = `
 import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("${poi_number}", "${poi.meta.title}", "${poi.meta.description}", ${poi.meta.latitude}, ${poi.meta.longitude});
 
+poi.themes = ${themes};
 `;
 
             for (let card_filename of poi.meta.cards) {
                 console.log(`   ${card_filename}.`);
                 let card_data = fs.readFileSync(`${dir}\\${poi_number}\\${card_filename}`, 'utf8');
                 // console.log(card_data);
-                
+
                 let card = marked(card_data);
-                
+
                 let card_content = `
 poi.addElement({
     type: ${card.meta.type},
@@ -48,7 +51,7 @@ poi.addElement({
 
             content += `export var ${poi_number_as_words} = poi;`;
 
-            
+
             fs.writeFile(path.join(__dirname, `../../app/src/data/${poi_number}.ts`), content, (err) => {
                 if (err) {
                     console.log(err);

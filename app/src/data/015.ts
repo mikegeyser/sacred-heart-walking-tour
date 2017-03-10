@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("015", "The Intermediate Quad", "The Senior Primary block", -26.172795, 28.075211);
 
+poi.themes = ["Brothers today at Sacred Heart","Ethos","Alumni","Grounds and Buildings","Learning","Traditions and Innovations","Socio-Political Context"];
 
 poi.addElement({
     type: 1,

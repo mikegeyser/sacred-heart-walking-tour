@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("037", "Library / Media Centre", "This was formerly the boarders’ dining room.", -26.173316, 28.075436);
 
+poi.themes = ["Alumni","Grounds and Buildings","Learning","Traditions and Innovations","Socio-Political Context","Stories"];
 
 poi.addElement({
     type: 1,

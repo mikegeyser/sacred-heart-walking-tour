@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("006", "The College Gates", "The main point of access, then and now.", -26.173987, 28.074998);
 
+poi.themes = ["Koch Street","College Characters","Alumni","Grounds and Buildings","Stories"];
 
 poi.addElement({
     type: 1,

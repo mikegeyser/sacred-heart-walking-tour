@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("032", "The Struggle(s)", "Selected stories about some Sacred Heart’s activists from 1976-2016.", -26.173857, 28.075487);
 
+poi.themes = ["Brothers today at Sacred Heart","Ethos","Alumni","Grounds and Buildings","Learning","Traditions and Innovations","Socio-Political Context","Stories"];
 
 poi.addElement({
     type: 1,

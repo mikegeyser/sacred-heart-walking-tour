@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("016", "St Marcellin Champagnat", "St Marcellin’s story and Sacred Heart College .", -26.172672, 28.075282);
 
+poi.themes = ["Marist Brothers' History","Ethos","Champagnat","Grounds and Buildings"];
 
 poi.addElement({
     type: 1,

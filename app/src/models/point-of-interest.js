@@ -15,20 +15,6 @@ class PointOfInterest {
     getLatLng() {
         return { lat: this.latitude, lng: this.longitude };
     }
-    createMarker(map, bounds) {
-        var marker = new google.maps.Marker({
-            position: this.getLatLng(),
-            title: this.title,
-            map: map
-        });
-        var infowindow = new google.maps.InfoWindow({
-            content: this.info
-        });
-        marker.addListener('click', function () {
-            infowindow.open(map, marker);
-        });
-        bounds.extend(marker.getPosition());
-    }
     addElement(element) {
         this.elements.push(element);
     }

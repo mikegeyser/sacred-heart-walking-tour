@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("024", "The Science Block", "Our Lady of Observatory and the Science Block", -26.173412, 28.076001);
 
+poi.themes = ["Koch Street","Brothers today at Sacred Heart","College Characters","Alumni","Grounds and Buildings","Learning","Stories"];
 
 poi.addElement({
     type: 1,

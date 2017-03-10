@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("027", "Sports 'Then'", "Some of the sports no longer played at the College", -26.17333, 28.076271);
 
+poi.themes = ["Koch Street","Alumni","Grounds and Buildings","Traditions and Innovations","Socio-Political Context"];
 
 poi.addElement({
     type: 1,

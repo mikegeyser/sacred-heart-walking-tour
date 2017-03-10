@@ -1,0 +1,25 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Theme: {{theme.theme}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-list>
+    <button ion-item *ngFor="let poi of theme.pois" (click)="navigate(poi)">
+      <ion-thumbnail item-left>
+        <img [src]="poi.thumbnail()" />
+      </ion-thumbnail>
+      <h2>{{poi.id}} - {{poi.title}}</h2>
+      <p>
+        {{poi.description}}
+      </p>
+      <p>
+        <i>({{poi.latitude}}, {{poi.longitude}})</i>
+      </p>
+    </button>
+  </ion-list>
+  <br />
+  <br />
+  <br />
+</ion-content>

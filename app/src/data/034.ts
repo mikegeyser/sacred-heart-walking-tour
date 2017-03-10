@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("034", "Alumni", "A selection of Alumni's stories", -26.173062, 28.075674);
 
+poi.themes = ["Koch Street","College Characters","Alumni","Socio-Political Context","Stories"];
 
 poi.addElement({
     type: 1,

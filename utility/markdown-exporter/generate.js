@@ -12,11 +12,13 @@ fs.readdir(dir, (err, directories) => {
             let poi = marked(data);
             // consolBe.log(poi);
             let poi_number_as_words = converter.toWords(poi_number).replace(/[\s|-]/g, '');
+            let themes = JSON.stringify(poi.meta.themes);
             let content = `
 import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("${poi_number}", "${poi.meta.title}", "${poi.meta.description}", ${poi.meta.latitude}, ${poi.meta.longitude});
 
+poi.themes = ${themes};
 `;
             for (let card_filename of poi.meta.cards) {
                 console.log(`   ${card_filename}.`);

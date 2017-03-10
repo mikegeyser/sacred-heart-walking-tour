@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("012", "The Brothers' Residence", "Built in 1984 to provide more suitable rooming.", -26.172998, 28.074698);
 
+poi.themes = ["Marist Brothers' History","Koch Street","Brothers today at Sacred Heart","Ethos","College Characters","Alumni","Grounds and Buildings","Learning","Socio-Political Context"];
 
 poi.addElement({
     type: 1,

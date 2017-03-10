@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("005", "Transport", "School transport and its evolution.", -26.173848, 28.07519);
 
+poi.themes = ["Koch Street","College Characters","Alumni","Grounds and Buildings","Stories"];
 
 poi.addElement({
     type: 1,

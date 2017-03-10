@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("021", "The Swimming Pool", "An unusual shaped pool.", -26.17258, 28.075828);
 
+poi.themes = ["Koch Street","Alumni","Grounds and Buildings","Traditions and Innovations","Stories"];
 
 poi.addElement({
     type: 1,

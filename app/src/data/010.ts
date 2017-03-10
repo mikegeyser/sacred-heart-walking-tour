@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("010", "Grotto", "The statue of Madonna and Child .", -26.173161, 28.074369);
 
+poi.themes = ["Marist Brothers' History","Brothers today at Sacred Heart","Ethos","Champagnat","Grounds and Buildings"];
 
 poi.addElement({
     type: 1,

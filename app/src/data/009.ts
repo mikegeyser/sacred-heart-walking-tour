@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("009", "The Orchard", "From private garden to community space", -26.173355, 28.074312);
 
+poi.themes = ["Koch Street","Brothers today at Sacred Heart","Alumni","Grounds and Buildings"];
 
 poi.addElement({
     type: 1,

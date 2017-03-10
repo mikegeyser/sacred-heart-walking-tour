@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("003", "Observatory", "From Marist ‘Obs’ to Sacred Heart College of today .", -26.173221, 28.075289);
 
+poi.themes = ["Koch Street","Brothers today at Sacred Heart","Ethos","College Characters","Alumni","Grounds and Buildings","Learning","Traditions and Innovations","Socio-Political Context"];
 
 poi.addElement({
     type: 1,

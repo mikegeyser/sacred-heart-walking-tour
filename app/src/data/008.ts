@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("008", "Ntate Sammy", "Selling Ice-Cream at Sacred Heart College since 1963", -26.173422, 28.074565);
 
+poi.themes = ["Brothers today at Sacred Heart","College Characters","Alumni","Grounds and Buildings","Stories"];
 
 poi.addElement({
     type: 1,

@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("033", "The Three2Six Education Project", "A bridging program for refugee children", -26.171979, 28.076848);
 
+poi.themes = ["Marist Brothers' History","Ethos","Champagnat","Grounds and Buildings","Learning","Traditions and Innovations","Socio-Political Context","Stories"];
 
 poi.addElement({
     type: 1,

@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("004", "The Boarders", "Boarding was offered until the mid 1970s.", -26.173664, 28.075313);
 
+poi.themes = ["Koch Street","Alumni","Grounds and Buildings","Traditions and Innovations","Stories"];
 
 poi.addElement({
     type: 1,

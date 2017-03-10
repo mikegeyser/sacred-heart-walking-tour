@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("035", "The Main Quadrangle", "Fountain of school life", -26.173225, 28.075564);
 
+poi.themes = ["Brothers today at Sacred Heart","College Characters","Alumni","Grounds and Buildings","Traditions and Innovations","Stories"];
 
 poi.addElement({
     type: 1,

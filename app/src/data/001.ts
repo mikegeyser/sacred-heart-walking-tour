@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("001", "Marist Brothers", "Beginnings in France, South Africa and now.", -26.173891, 28.075287);
 
+poi.themes = ["Marist Brothers' History","Ethos","Champagnat"];
 
 poi.addElement({
     type: 1,

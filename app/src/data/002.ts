@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("002", "Koch Street", "The first Sacred Heart College in Johannesburg.", -26.173581, 28.075099);
 
+poi.themes = ["Marist Brothers' History","Koch Street","Alumni"];
 
 poi.addElement({
     type: 1,

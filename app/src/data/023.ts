@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("023", "The Memorial Chapel", "The ‘new’ College Chapel completed in 1956.", -26.173131, 28.076051);
 
+poi.themes = ["Marist Brothers' History","Brothers today at Sacred Heart","Champagnat","Alumni","Grounds and Buildings"];
 
 poi.addElement({
     type: 1,

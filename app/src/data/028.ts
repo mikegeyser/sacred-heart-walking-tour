@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("028", "Co-Education and Sacred Heart", "Marists, Holy Family Sisters and Ursuline Sisters combine in Sacred Heart College.", -26.173112, 28.07586);
 
+poi.themes = ["Koch Street","Brothers today at Sacred Heart","Ethos","Alumni","Grounds and Buildings","Traditions and Innovations","Socio-Political Context"];
 
 poi.addElement({
     type: 1,

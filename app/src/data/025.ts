@@ -3,6 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("025", "Sports 'Now'", "Development of some of today's College sports", -26.172484, 28.076364);
 
+poi.themes = ["Koch Street","Brothers today at Sacred Heart","Alumni","Grounds and Buildings","Traditions and Innovations"];
 
 poi.addElement({
     type: 1,
