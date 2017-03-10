@@ -13,6 +13,7 @@ import { ThemesPage } from '../pages/themes/themes';
 import { ThemePage } from '../pages/theme/theme';
 import { HomePage } from '../pages/home/home';
 import { TabsPage } from '../pages/tabs/tabs';
+import { HelpPage } from '../pages/help/help';
 import { PointOfInterestPage } from '../pages/point-of-interest/point-of-interest';
 import { ExplorePage } from '../pages/explore/explore';
 
@@ -32,6 +33,7 @@ const cloudSettings: CloudSettings = {
     TabsPage,
     PointOfInterestPage,
     ExplorePage,
+    HelpPage,
     SafePipe
   ],
   imports: [
@@ -49,7 +51,8 @@ const cloudSettings: CloudSettings = {
     HomePage,
     TabsPage,
     PointOfInterestPage,
-    ExplorePage
+    ExplorePage,
+    HelpPage
   ],
   providers: [
     { provide: ErrorHandler, useClass: IonicErrorHandler },

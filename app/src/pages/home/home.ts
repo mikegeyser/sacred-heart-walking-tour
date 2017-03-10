@@ -1,8 +1,9 @@
 import { Component, ElementRef, ViewChild, NgZone } from '@angular/core';
-import { NavController } from 'ionic-angular';
+import { NavController, PopoverController } from 'ionic-angular';
 import { Geolocation } from 'ionic-native';
 import { AllPointsOfInterest, getPointOfInterest } from '../../data/index';
 import { PointOfInterestPage } from '../point-of-interest/point-of-interest';
+import { HelpPage } from '../help/help';
 
 declare var google;
 
@@ -21,9 +22,16 @@ export class HomePage {
   longitude: number = 28.075560;
   zoom: number = 327;
 
-  constructor(public nav: NavController, private _ngZone: NgZone) {
+  constructor(public nav: NavController, private _ngZone: NgZone, private popoverCtrl: PopoverController) {
     this.loadGoogleMaps(_ngZone);
   }
+  
+  help(event) {
+    let popover = this.popoverCtrl.create(HelpPage);
+    popover.present({
+      ev: event
+    });
+  };
 
   loadGoogleMaps(_ngZone: NgZone) {
     if (typeof google == "undefined" || typeof google.maps == "undefined") {
@@ -62,9 +70,14 @@ export class HomePage {
       let center = new google.maps.LatLng(this.latitude, this.longitude);
 
       let mapOptions = {
+        tilt: 0,
         center: center,
         zoom: 327,
-        mapTypeId: google.maps.MapTypeId.HYBRID
+        mapTypeId: google.maps.MapTypeId.HYBRID,
+        scaleControl: false,
+        mapTypeControl: false,
+        streetViewControl: false,
+        rotateControl: false
       }
 
       this.bounds = new google.maps.LatLngBounds();
@@ -74,8 +87,8 @@ export class HomePage {
       let selectedMarker;
       let infowindow;
       const iconBase = 'assets/images/';
-      const greyIcon = iconBase + 'marker-grey.png';
-      const colourIcon = iconBase + 'marker.png';
+      const greyIcon = iconBase + 'marker-2-grey.png';
+      const colourIcon = iconBase + 'marker-2.png';
 
       for (let key in AllPointsOfInterest) {
         let poi = AllPointsOfInterest[key];
@@ -83,13 +96,13 @@ export class HomePage {
         let marker = new google.maps.Marker({
           position: poi.getLatLng(),
           title: poi.title,
-          icon: greyIcon,
+          //          icon: greyIcon,
           map: this.map
         });
 
         let closeSelectedMarker = () => {
-            selectedMarker.setIcon(greyIcon);
-            selectedMarker = null;
+          //selectedMarker.setIcon(greyIcon);
+          selectedMarker = null;
         }
 
         marker.addListener('click', function () {
@@ -98,7 +111,7 @@ export class HomePage {
           }
 
           selectedMarker = marker;
-          marker.setIcon(colourIcon);
+          //marker.setIcon(colourIcon);
 
           if (infowindow) {
             infowindow.close();
