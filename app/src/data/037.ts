@@ -63,7 +63,8 @@ poi.addElement({
 <p>In 1938, in Standard 9 at Yeoville Convent, Marcia and two other girls had parts in the Sacred Heart College production, &#39;Abraham Lincoln&#39; by John Drinkwater. Her Headmistress insisted that the girls were chaperoned to and from rehearsals at the College; records show that 66 boys volunteered their services!</p>
 <p>Dr Marcia Hyam taught at Yeoville Convent 27 years. From 1980 she taught maths at Sacred Heart College, heading the Department for ten years until her retirement and emigration to Australia in 1992. Dr Hyam played the piano and organ at school events and composed the music and lyrics for the school song. The 1992 Sacred Heart College yearbook recalls her incredible drive, her wrangles with College management and dedication to her students as well as her often used catchphrases, including: </p>
 <p>&quot;Just because you are in maths, doesn&#39;t mean you only have to learn mathematics.&quot; 
-&quot;Mommy and Nanny didn&#39;t pack your calculator today.&quot;<br>&quot;Don&#39;t sit and wait for better days. They won&#39;t come. You must make them NOW!&quot; </p>
+&quot;Don&#39;t sit and wait for better days. They won&#39;t come. You must make them NOW!&quot; 
+&quot;Mommy and Nanny didn&#39;t pack your calculator today.&quot;  </p>
 
     `,
     url: "assets/images/points-of-interest/37.22.jpg",

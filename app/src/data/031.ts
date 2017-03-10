@@ -18,14 +18,13 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
-    text: "The Accounts Ledger from the first South African Marist School, St. Joseph’s Academy in Cape Town, kept in the Marist Archive.",
+    text: "The Accounts Ledger from the first South African Marist School, St. Joseph’s Academy in Cape Town.",
     furtherText: `
-    <p>St. Joseph’s Academy (a fee-paying school) was set up in 1867 alongside another Marist School, St Aloysius’ School (financed by the colonial government). At Sacred Heart College the model of a free/fee-paying school running concurrently is seen through the provision of bursaries for some learners and through the Three2Six Education Project for refugee children; it is foundational to the Marist ethos. The example page from the Accounts Ledger of St Joseph’s Academy lists purchases by the Brothers in 1872 as including library books, ink mats, 20lbs of chocolate, 2 pigs and ½ lb of snuff.</p>
+    <p>This example page from the Accounts Ledger of St Joseph’s Academy lists purchases by the Brothers in 1872 as including library books, ink mats, 20lbs of chocolate, 2 pigs and ½ lb of snuff. </p>
+<p>This fee-paying school was set up in 1867 alongside another Marist School, St Aloysius’ School, financed by the Colonial government. St Marcellin’s wish ‘to give special attention to the poor and neglected’ is expressed in this model of free/fee-paying schools running concurrently. At Sacred Heart College the extensive bursary programme in High School and the Three2Six Education Project for refugee children are testimony to this aspect of Marist ethos. </p>
 <figure><img src="assets/images/points-of-interest/31.88.jpg" alt="">
   <figcaption>1909, St. Joseph’s Academy, Cape Town (Image: Institute of the Marist Brothers (FMS))</figcaption>
 </figure>
-
-
 
 
     `,

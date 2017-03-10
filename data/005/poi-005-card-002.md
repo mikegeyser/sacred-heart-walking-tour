@@ -1,7 +1,7 @@
 ---
   id: 2
   type: 1
-  text: "1903 Pupils were provided with stabling for their horses (and a donkey!) at Koch Street."
+  text: "1903. Pupils were provided with stabling for their horses (and a donkey!) at Koch Street."
   url: assets/images/points-of-interest/05.08c.jpg
   reference: "Image: Rand Daily Mail, Marist Archive"
 ---

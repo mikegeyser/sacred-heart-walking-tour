@@ -1,7 +1,7 @@
 ---
   id: 4
   type: 1
-  text: "Number 22 bus (c 1965) stopped right outside the College gates."
+  text: "Number 22 bus (c. 1965) stopped right outside the College gates."
   url: assets/images/points-of-interest/05.19.jpg
   reference: "Image: Sacred Heart College Archive"
 ---

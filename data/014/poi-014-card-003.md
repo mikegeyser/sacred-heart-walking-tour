@@ -1,7 +1,7 @@
 ---
   id: 3
   type: 3
-  text: "2002, Nelson Mandela and his grandsons view the eclipse. From the left are Zuko Dlamini, Mbuso Mandela, Andile Mandela. "
+  text: "2002, Nelson Mandela and his grandsons view the solar eclipse. From the left are Zuko Dlamini, Mbuso Mandela, Andile Mandela. "
   url: api.soundcloud.com/tracks/305106787
   reference: "(Image: Debbie Yazbek / IOL, Audio: C Kamana)"
 ---

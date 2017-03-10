@@ -1,10 +1,9 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
-import { AllPointsOfInterest, getPointOfInterest } from '../../data/index';
+import { AllPointsOfInterest } from '../../data/index';
 import { PointOfInterest } from '../../models/point-of-interest';
 import { PointOfInterestPage } from '../point-of-interest/point-of-interest';
 
-var allPointsOfInterest: { [id: string]: PointOfInterest; } = {};
 @Component({
   selector: 'page-explore',
   templateUrl: 'explore.html'

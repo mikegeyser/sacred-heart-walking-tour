@@ -1,9 +1,8 @@
 ---
   id: 3
   type: 1
-  text: "Portrait of Marcellin Champagnat (c70 x 45cm), a representation of Tito Ridolfi’s portrait, that hangs in the Marist Provincial House at Sacred Heart College."
-  url: assets/images/points-of-interest/16.21b.jpg
-  reference: "Image: C Kamana"
+  text: "1840, Official portrait of Champagnat by A.V.Ravery, that hangs in the Marist Superior’s Chapel in Rome."
+  url: assets/images/points-of-interest/16.42.jpg
+  reference: "Image: Institute of Marist Brothers (FMS)"
 ---
-The Beatification of Champagnat was proclaimed by Pope Pius XII on 29 May 1955 – from then Champagnat was afforded the title of the Venerable (or Blessed) Champagnat. Artist Tito Ridolfi was commissioned to paint an official portrait of Champagnat for this event, but he lost his sight during work on the piece and as it was unfinished, the portrait was never officially released by the Marist Brothers. The Provincial House portrait is very similar to Ridolfi’s portrait, bar the positioning of Champagnat’s hands and the lighter overall colourings used. In the chapel, a portrait painted by Br Dominguez Garcia in 1948 at Sacred Heart, combines the hand positioning of Ridolfi’s portrait with the lighter colourings seen in this painting. To celebrate the 1955 event, pupils from Sacred Heart (both Koch Street and Observatory) and from St David’s attended a special Pontifical Mass at City Hall.
-        
+Ravery’s portrait (20 x 60 cm) is a likeness of Champagnat, since it was painted immediately after Champagnat’s death from cancer on 6th June 1840 (celebrated as Champagnat Day by the Marist communities). Ravery, who had painted several paintings for the Chapel at L’Hermitage, was called to paint the deceased, who had been washed, dressed in his cassock, stole and surplice, and placed with his profession Cross in his right hand on a sofa in his room. Champagnat, who died well before photography was widely accessible and was not painted in life, considered (as many religious people did previously) that sitting for a portrait was a demonstration of pride or of unnecessary luxury, and as such something to be avoided.  All later portraits and representations of Champagnat, including Ridolfi’s and Goyo’s (see the next slides), are artistic interpretations of this painting, and attempt to portray something of the spiritual legacy that Champagnat created. 

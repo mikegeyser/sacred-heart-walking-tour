@@ -1,12 +1,12 @@
 ---
   id: 3
   type: 1
-  text: "Portrait of St Marcellin Benedict Champagnat by Gregorio (Goyo) Dominguez, 1999."
-  url: assets/images/points-of-interest/36.66.jpg
-  reference: "Image: Institute of Marist Brothers (FMS)"
+  text: "1955, Boys from Marist schools at the Beatification Mass of Marcellin Champagnat in Johannesburg City Hall."
+  url: assets/images/points-of-interest/16.28.jpg
+  reference: "Image: Marist Archive"
 ---
-Benedict House is named for the Founder of the Marist Brothers, Marcellin Joseph Benedict Champagnat. Shortly before the College opened, the Chapel was dedicated by Bishop O'Leary to St. Benedict and documents in the Marist Archive suggest that the College originally opened as St. Benedict's to differentiate from Sacred Heart College at Koch Street. The name Sacred Heart College was only officialised by the 1930s, though Marist Brothers Observatory (or ‘Obs’) was used colloquially until the 1980s. This might explain why the house is called Benedict and not Marcellin or Champagnat. Benedict House is the only house which didn’t exist at Koch Street; it replaced Frederick House (Br Frederick was the first Principal). 
+Benedict House is named for the Founder of the Marist Brothers, Marcellin Joseph Benedict Champagnat. Marcellin Champagnat was born in France in 1789 during a time of economic, spiritual and cultural unrest (the time of the French Revolution and its aftermath) and on becoming a priest, dedicated his life’s mission to the foundation of a teaching brotherhood. Marist Brothers first arrived in South Africa in 1967 and established several schools, inspired by the example of their founder, Champagnat. 2017 marks the 150th anniversary of the Brothers’ arrival on the African continent and 200 years since the Marist Brothers started their mission. Champagnat was venerated by the Pope in 1955 and boys from both Sacred Heart Colleges (in Koch Street and at Observatory) and from St.David’s College, Inanda attended a special Mass held at City Hall to honour this. 
 
-Goyo painted this portrait in acrylic on a wood panel measuring 70 x 50cm in 1999. Goyo was a Marist pupil in Spain from the age of 10 and a Brother in his twenties. Though he left the Institution he kept very close relations with his Marist family and in the late 1990s was asked to create a new portrait of Champagnat to be used for the Canonisation of St Marcellin. A large version of this portrait printed on canvas was displayed in St Peter’s Basilica, Rome when Champagnat was canonised in 1999. A print of this portrait can be found, amongst other places around the school, hanging in the main school reception hall. 
+Shortly before the College opened in Observatory, the Chapel was dedicated to St. Benedict by Bishop O'Leary. The College was most likely first named St. Benedict's, to differentiate it from Sacred Heart College at Koch Street. The name Sacred Heart College was only officialised by the 1930s, though Marist Brothers Observatory (or ‘Obs’) was used colloquially until the 1980s. This might explain why the green house is called Benedict, and not Marcellin or Champagnat. Benedict House is the only house that didn’t exist at Koch Street; it replaced Frederick House (Br Frederick was the first Principal). 
 
         

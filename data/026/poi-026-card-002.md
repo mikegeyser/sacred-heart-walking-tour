@@ -1,11 +1,11 @@
 ---
   id: 2
   type: 1
-  text: "Advert from the 1938 Maristonian showing the Old Boys’ and College Uniform."
+  text: "Advert from the 1938 Maristonian."
   url: assets/images/points-of-interest/36.40.jpg
   reference: "Image: Marist Archive"
 ---
-A plain blue blazer with a blue and gold edging was worn at Observatory until the early 1930s.  The striped blazer came in after a 1933 resolution by the Provincial council of South African Marists:
+In 1933, the striped blazer replaced a plain blue blazer with a blue and gold edging after the Provincial Council of South African Marists’ resolution:
 
 > “The uniform of all Marist schools in the country must include a light navy-blue blazer of Venetian cloth with pairs of gold-yellow stripes an eighth inch wide and an eight inch apart, at a distance of 1 ½ inch between each pair.”
 

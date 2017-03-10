@@ -1,7 +1,7 @@
 ---
   id: 1
   type: 1
-  text: "c1904, Marist Pupils listening to a Phonograph. "
+  text: "c.1904, Marist Pupils listening to a Phonograph. "
   url: assets/images/points-of-interest/20.04a.jpg
   reference: "Image: Marist Archive"
 ---

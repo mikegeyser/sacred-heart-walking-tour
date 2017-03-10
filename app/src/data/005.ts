@@ -17,7 +17,7 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
-    text: "1903 Pupils were provided with stabling for their horses (and a donkey!) at Koch Street.",
+    text: "1903. Pupils were provided with stabling for their horses (and a donkey!) at Koch Street.",
     furtherText: `
     <p>In a 1965 article in the Rand Daily Mail, the journalist H. Carruthers (an alumnus of Koch Street), captioned this picture “a bunch of students about to ride home at the end of the day” and noted that stabling for horses was one of the perks students could enjoy, advertised by the school as late as 1903. The 1999 Sacred Heart Yearbook (p66) reprinted this picture with the caption: <em>Transport to school has changed somewhat. But is it as much fun?</em></p>
 
@@ -42,7 +42,7 @@ poi.addElement({
 
 poi.addElement({
     type: 1,
-    text: "Number 22 bus (c 1965) stopped right outside the College gates.",
+    text: "Number 22 bus (c. 1965) stopped right outside the College gates.",
     furtherText: `
     <p>Between the 1960s and 1980s the 22 bus followed a route from Cyrildene, through Observatory and into town via Yeoville. This route connected the Sacred Heart nursery school campus, then in Yeoville (at the Holy Family Convent), and the main school at Observatory. Currently the 421 Metrobus route runs along a similar route. The 22 bus was the choice of transport for many pupils, while others took trams as far as Yeoville and then walked to Eckstein Street. According to maps and other documents in Museum Africa’s archive, a tram route was proposed in 1903 to run up to and stop in Eckstein Street but the line was only constructed as far as Yeoville.</p>
 

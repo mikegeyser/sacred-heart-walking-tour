@@ -1,11 +1,9 @@
 ---
   id: 4
   type: 1
-  text: "Official portrait of Champagnat (20 x 60 cm) by A.V.Ravery, 1840.  The portrait hangs in the Superior’s Chapel at the General House in Rome."
-  url: assets/images/points-of-interest/16.42.jpg
-  reference: "Image: Institute of Marist Brothers (FMS) "
+  text: "A representation of Tito Ridolfi’s portrait of Marcellin Champagnat that hangs in the Marist Provincial House at Sacred Heart College. "
+  url: assets/images/points-of-interest/16.21b.jpg
+  reference: "Image: C Kamana "
 ---
-Ravery’s portrait is a likeness of Champagnat since it was painted immediately after Champagnat’s death from cancer on 6th June 1840 (celebrated as Champagnat Day by the Marist communities). Ravery, who had painted several paintings for the chapel at L’Hermitage, was called to paint the deceased who had been washed, dressed in his cassock, stole and surplice and placed with his profession cross in his right hand on a sofa in his room. Champagnat, who died well before photography was widely accessible and was not painted in life, considered (as many religious people did previously) that sitting for a portrait was a demonstration of pride or of unnecessary luxury and as such something to be avoided. 
-
-All later portraits and representations of Champagnat, including Ridolfi’s and Goyo’s (the latter was commissioned specially for the Canonisation in 1999) are artistic interpretations of this painting and as such attempt to portray something of the spiritual legacy that Champagnat created.
-        
+The Beatification of Champagnat was proclaimed by Pope Pius XII on 29 May 1955; from then Champagnat was afforded the title of the 'Blessed' Marcellin Champagnat. Artist Tito Ridolfi was commissioned to paint an official portrait of Champagnat for this event, but he lost his sight during work on the piece and as it was unfinished, the portrait was never officially released by the Marist Brothers. The Provincial House portrait is very similar to Ridolfi’s portrait, bar the positioning of Champagnat’s hands and the lighter overall colourings used. In the Chapel, a portrait painted in 1948 by Br Dominguez Garcia at Sacred Heart, combines the hand positioning of Ridolfi’s portrait with the lighter colourings seen in this painting. To celebrate the 1955 event, pupils from Sacred Heart (both Koch Street and Observatory) and from St David’s attended a special Pontifical Mass at City Hall. 
+      

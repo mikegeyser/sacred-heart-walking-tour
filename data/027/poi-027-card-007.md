@@ -5,5 +5,5 @@
   url: assets/images/points-of-interest/30.10.jpg
   reference: "Image: Rory Birkby Photography / Marist Archive"
 ---
-Physical Training (and Physical Education today) at Sacred Heart College contributed to the fitness and skill sets of those who entered sporting careers outside of school hours. Many alumni have gone onto represent South Africa in their own particular field. These sports include Judo, Golf, Billiards, Shooting, Body Building, Equestrian Eventing, Weightlifting, Wrestling, Gymnastics and Softball. 
+Physical Training (and Physical Education today) at Sacred Heart College contributed to the fitness and skill sets of those who entered sporting careers outside of school hours. Many alumni have gone on to represent South Africa in their own particular field. These sports include Judo, golf, billiards, shooting, body building, equestrian eventing, weightlifting, wrestling, gymnastics and softball.
 

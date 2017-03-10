@@ -1,15 +1,11 @@
 ---
   id: 6
   type: 1
-  text: "The statue of Champagnat, now in the Intermediate quad, was first installed on the traffic island opposite the main reception steps."
-  url: assets/images/points-of-interest/16.27.jpg
-  reference: "Image: Marist Archive"
+  text: "One of only two original Chalices given to Marcellin Champagnat during his life. "
+  url: assets/images/points-of-interest/16.10.jpg
+  reference: "Image: C Kamana"
 ---
-The Champagnat statue, which is life-size, was unveiled and blessed by Fr Barry on Champagnat Day (or Founders Day), 6th June 1961\. An identical statue is also to be found at the two other Marist schools in Johannesburg, St David’s, Inanda and Marian College, Linmeyer.
+The Chalice of Marcellin Champagnat is gold and silver plated and measures c. 15 x 30 cms.  It is boxed in its original casing along with Champagnat’s patten and engraved with “Calice du Vénérable Père Champagnac [sic]” at the base. Translated: ‘Chalice of the Venerable Father Champagnat’. Champagnat’s Chalice was brought to South Africa by Rev Br Justinian from the General House in Italy around the time of Champagnat’s Beatification in 1955. Rev Br Justin, a former Principal of Obs, was Assistant General of the Marist Brothers at the time, and arranged for its transportation in time for the dedication of the Memorial Chapel in 1956. Br Jude (former Provincial) suggests that Br Justinian was granted this request because South Africa was the first country where the Marists established schools in outside of Europe.
 
-<figure>![](assets/images/points-of-interest/16.37.jpg)
-
-<figcaption>1980 Sacred Heart College Yearbook, p80</figcaption>
-
-</figure>
-        
+This Chalice is mainly used for special occasions at the three Johannesburg Marist schools such as First Holy Communions, Confirmations and at special Masses like those on Champagnat Day in June. On occasion it travels elsewhere in the Province of Southern Africa for similarly significant events. 
+    

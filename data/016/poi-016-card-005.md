@@ -1,11 +1,8 @@
 ---
   id: 5
   type: 1
-  text: "One of only two original chalices given to Marcellin Champagnat during his life. "
-  url: assets/images/points-of-interest/16.10.jpg
+  text: "Portrait of St Marcellin Benedict Champagnat by Gregorio (Goyo) Dominguez, 1999. "
+  url: assets/images/points-of-interest/36.66.jpg
   reference: "Image: C Kamana"
 ---
-The chalice of Marcellin Champagnat is gold and silver plated and measures c. 15 x 30 cms.  It is boxed in its original casing along with Champagnat’s patten and engraved with “Calice du Vénérable Père Champagnac [sic]” at the base. Translated: ‘Chalice of the Venerable Father Champagnat’. Champagnat’s chalice was brought to South Africa by Rev Br Justinian from the General House in Italy around the time of Champagnat’s Beatification in 1955. Rev Br Justin, a former Principal of Obs was Assistant General of the Marist Brothers at the time, and arranged for its transportation in time for the dedication of the Memorial Chapel in 1956. Br Jude (former Provincial) suggests that Br Justinian was granted this request because South Africa was the first country that the Marists established schools in outside of Europe.
-
-This chalice is mainly used for special occasions at the three Johannesburg Marist schools such as First Holy Communions, Confirmations and at special masses like those on Champagnat Day in June, but on occasion, travels elsewhere in the Province of Southern Africa for similarly significant events. 
-    
+In 1999, Goyo painted this portrait in acrylic on a wood panel measuring 70 x 50cm. Goyo was a Marist pupil from the age of 10, and a later a Brother in Spain. Though he left the institution, he has kept close relations with the Marists. Many of his other paintings that feature Champagnat hang in Marist schools in Spain, and he remains a part of the Marist family in faith and friendship. In the late 1990s, Goyo was asked to create a new portrait of Champagnat to be used for the Canonisation of St Marcellin in 1999. Canonisation changed Champagnat’s appellation, and level of recognition by the Vatican, to Saint Marcellin Champagnat. A large version of Goyo's portrait, printed on canvas, was displayed in St Peter’s Basilica, Rome, when Champagnat was canonised in 1999. A print of this portrait can be found, amongst other places around the school, hanging in the main school reception hall. 

@@ -5,9 +5,4 @@
   url: api.soundcloud.com/tracks/305095578
   reference: "(Image: Sacred Heart College, Audio: C Kamana)"
 ---
-<figure>![](assets/images/points-of-interest/14.19.jpg)
-
-<figcaption>Brother Joseph’s signed copy of Nelson Mandela’s ‘Long Walk to Freedom’ that is kept in the Marist Archive. Nelson Mandela also presented signed copies of his autobiography to the various sections of the school. (Image: C Kamana)</figcaption>
-
-</figure>
-        
+The 1999 College Yearbook captioned a photograph of Nelson Mandela visiting a Pre-Primary classroom with his wife Graça Machel, with “A very special grandfather came to visit the nursery school”. The Pre-Primary holds an annual breakfast to celebrate the important role that all the learners’ grandparents, and other senior caregivers, play in the lives of the children. For each child, the attendance of their own grandparent or special visitor is a very meaningful moment in their Pre-Primary career as it demonstrates how their own family is a part of the larger unit of the Sacred Heart College community. Family spirit is a fundamental part of Marist and thus College ethos. 

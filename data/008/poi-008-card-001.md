@@ -8,7 +8,7 @@
 
 <figure>![](assets/images/points-of-interest/08.15b.jpg)
 
-<figcaption>Excerpt from letter to Alumni Community from Wayne Frank, class of 1993, to let the community know about Ntate Sammy’s upcoming retirement. (Image: Sacred Heart College Archive)</figcaption>
+<figcaption>Excerpt from letter to Alumni Community from Wayne Frank, Matric 1993, to let the community know about Ntate Sammy’s upcoming retirement. (Image: Sacred Heart College Archive)</figcaption>
 
 </figure>
         

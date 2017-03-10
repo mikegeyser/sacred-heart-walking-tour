@@ -1,16 +1,16 @@
 ---
   id: 8
   type: 1
-  text: "Simpiwe Tshabalala (2nd left) with Eric Lai (2nd from right) both Head Boy in 1985. After Sacred Heart College (in Benedict house) Tshablalala studied Law at Rhodes University.  Today, Simpiwe Thsabalala is Joint CEO at Standard Bank."
-  url: assets/images/points-of-interest/34.41a.jpg
-  reference: "Image: Sowetan Sunday Mirror"
+  text: "(Right) Letter of reference written in 1924 by Brother Vital, then Marist Provincial Superior (and former Koch Street Principal) describing Maisels as ‘a brilliant, self-reliant and gentlemanly student’. (Left) Isie Maisels’s College testimonial from 1913; 23 of these are kept in the Wits Historical Papers Archive."
+  url: assets/images/points-of-interest/34.101.jpg
+  reference: "Images: Wits University Historical Papers"
 ---
-Simpiwe Tshabalala was one of the first black children to start at Sacred Heart College, in 1978. His presence then at the College, along with that of other black students, angered the provincial and national authorities and threats to close the school were issued by the Administrator of the Transvaal, at the time, Sybrand van Niekerk. 
+Whilst at Koch Street, Maisels lived at 17 Smuts Avenue, Parktown (now part of the Premier Soccer League’s offices, marked with a Blue Plaque denoting its heritage) and played 1st XI cricket and 2nd XI soccer. In his semi-autobiography ‘A Life at Law’, Isie Maisels reflects on his time at College where he started, aged 7. Awarded the Valerian Prize for the top academic achiever in his Junior Matric year, he recounts this happening some twenty-five years later:
+<figure>![](assets/images/points-of-interest/34.38.jpg)
 
-In a speech given in 2011 at the College Sacred Heart, Tshabalala said:
-> “I will never forget how warmly this school welcomed a young boy from Soweto, how caringly I was nurtured while I was here, and how much Sacred Heart has shaped the man I have become… Sacred Heart has always been well known for producing people who are adept at functioning in multicultural and diverse environments. Long may this continue.”  
+<figcaption>Image: Maisels (1998:2) / Marist Archive </figcaption>
 
-<figure>![](assets/images/points-of-interest/34.77.jpg)
-  <figcaption>Simpiwe Tshabalala in 2016 (Image: Simphiwe Mbokazi /IOL. ) </figcaption>
 </figure>
+
+
 

@@ -8,7 +8,7 @@ poi.addElement({
     type: 1,
     text: "1906, Marist boys on a picnic and swimming outing. There was no swimming pool at Koch Street. ",
     furtherText: `
-    <p>In the 1929 Maristonian, Gustavus Hartog (Matric of 1894 – the first year of Matriculants from Koch Street – who later became a politician and retired as a South African Senator) wrote about swimming with his peers from Koch Street in places like Sans Souci (now Parkview) and Orange Grove, where one could still find streams with waterfalls, in the late 1880s/early1890s. Perhaps this photograph was taken at one of those sites.</p>
+    <p>In the 1929 Maristonian, Gustavus Hartog (Matric of 1894 – the first year of Matriculants from Koch Street – who later became a politician and retired as a South African Senator) wrote about swimming with his peers from Koch Street in places like Sans Souci (now Parkview) and Orange Grove, where one could still find streams with waterfalls, in the late 1880s/early1890s. Perhaps this photograph was taken at one of those sites. It is also possible that this photograph was taken at the natural pool under the waterfall in Roodepoort (now the Walter Sisulu Botanical Gardens) or in what is now known Emmarentia Dam for the boys also took excursions by horse and cart to these locations. </p>
 
     `,
     url: "assets/images/points-of-interest/21.45.jpg",
@@ -59,6 +59,7 @@ poi.addElement({
     text: "In 1961 the pool was extended to include metric lengths and its surrounds were upgraded. This photograph was taken from the Old Chapel. ",
     furtherText: `
     <p>Tiered seating was added to accommodate over 1200 spectators. The gate entrance (obscured by the tree in this image) was kept from the original 1930 structure. An L-shaped design was selected for the ‘new’ pool to incorporate the old imperial measure of 25 yards along one ‘arm’ of the L and a measure of 25 meters along the other ‘arm’. Both arms were 15 yards wide. The metric side runs north-to-south and was included to conform to the requirements of Olympic distances. Just a few years before the refurbishment, in 1956, Tony Briscoe (matric 1955) swam for South Africa at the Olympics in Melbourne.</p>
+<p>In 1997, the grandstand seating at the northern and eastern ends of the pool was demolished. Renovations to these areas had become necessary. Funded by the Development Fund and the PTA, shade-cloth for the new seating areas and a judge’s box were added, along with a sound-system.  A second phase of renovations to the pool area, two years later, included the conversion of an adjacent garage into the College Fitness Centre and the addition of the studio space above.  </p>
 
     `,
     url: "assets/images/points-of-interest/21.03.jpg",

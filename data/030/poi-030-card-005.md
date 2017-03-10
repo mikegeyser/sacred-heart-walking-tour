@@ -1,7 +1,7 @@
 ---
   id: 5
   type: 1
-  text: "The Hall at Obs in c1928. "
+  text: "The Hall at Obs in c.1928. "
   url: assets/images/points-of-interest/30.04a.jpg
   reference: "Image: Marist Archive"
 ---
