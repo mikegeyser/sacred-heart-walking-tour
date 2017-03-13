@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("010", "Grotto", "The statue of Madonna and Child .", -26.173161, 28.074369);
+var poi = new PointOfInterest("010", "Grotto", "The statue of Madonna and Child", -26.173161, 28.074369);
 
-poi.themes = ["Marist Brothers' History","Brothers today at Sacred Heart","Ethos","Champagnat","Grounds and Buildings"];
+poi.themes = ["Marist Brothers' History","Brothers today at Sacred Heart","Ethos","Marcellin Champagnat","Grounds and Buildings"];
 
 poi.addElement({
     type: 1,
@@ -13,7 +13,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/10.01.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -25,7 +25,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/10.05.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 

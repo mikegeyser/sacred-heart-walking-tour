@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("007", "Pre-Primary School", "The Orchard, Yeoville and the Pre-School.", -26.173514, 28.074774);
+var poi = new PointOfInterest("007", "Pre-Primary School", "The Orchard, Yeoville and the Pre-School", -26.173514, 28.074774);
 
-poi.themes = ["Koch Street","Brothers today at Sacred Heart","Ethos","College Characters","Alumni","Grounds and Buildings","Learning","Traditions and Innovations","Socio-Political Context","Stories"];
+poi.themes = ["Koch Street","Brothers today at Sacred Heart","Ethos","College Characters","Alumni","Grounds and Buildings","Learning","Traditions and Innovations","Socio-Political Context","Stories in the story","Marcellin Champagnat"];
 
 poi.addElement({
     type: 1,
@@ -15,7 +15,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/07.22b.jpg",
-    reference: "Image: Marist Archive"
+    reference: "Image: Christian Gottschalk in Marist Archive"
 });
 
 
@@ -27,7 +27,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/07.07.jpg",
-    reference: "Image: Sacred Heart College"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -105,7 +105,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/07.12b.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 export var seven = poi;

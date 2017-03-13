@@ -3,7 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("011", "The Workshop", "Furnishing the College with history", -26.173035, 28.074214);
 
-poi.themes = ["Brothers today at Sacred Heart","Ethos","College Characters","Alumni","Grounds and Buildings","Traditions and Innovations","Stories"];
+poi.themes = ["Brothers today at Sacred Heart","Ethos","College Characters","Alumni","Grounds and Buildings","Traditions and Innovations","Stories in the story"];
 
 poi.addElement({
     type: 1,
@@ -13,7 +13,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/11.14.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -47,13 +47,13 @@ poi.addElement({
     furtherText: `
     <p>Joseph Letebele trained in carpentry at Pax College (Pietersburg) with the Brothers of Charity. Starting with a holiday job in July 1959, he was invited back for a probationary period as a handyman in 1961. From 1962, Joseph Letebele was permanently employed, as school Carpenter and “proved to be quite indispensable. He knows where every fuse is to be found, where every key fits, the intricacies of the swimming pool filter, the condition of every desk… the list is endless” (1989 College Yearbook).</p>
 <figure><img src="assets/images/points-of-interest/11.10.jpg" alt="">
-  <figcaption>Image: C Kamana</figcaption>
+  <figcaption>Image: Caroline Kamana</figcaption>
 </figure>
 
 
     `,
     url: "assets/images/points-of-interest/11.05.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -65,7 +65,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/11.15b.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -76,7 +76,7 @@ poi.addElement({
     
     `,
     url: "api.soundcloud.com/tracks/304608084",
-    reference: "(Image & Audio: C Kamana)"
+    reference: "(Image & Audio: Caroline Kamana)"
 });
 
 
@@ -97,7 +97,7 @@ poi.addElement({
     furtherText: `
     <p>Joseph Letebele with his granddaughters. Koketso Letebele (right) and Kgomotso Letebele (left) matriculated in 2015 and this picture was taken just a few weeks before the end of their school careers at Sacred Heart College. Their elder cousin, Tebogo Letebele, matriculated in 2012.</p>
 <figure><img src="assets/images/points-of-interest/34.34c.jpg" alt="">
-  <figcaption>Image: Frank Hollingworth / Sacred Heart College</figcaption>
+  <figcaption>Image: Frank Hollingworth </figcaption>
 </figure>
 
     `,

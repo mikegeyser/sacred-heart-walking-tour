@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("023", "The Memorial Chapel", "The ‘new’ College Chapel completed in 1956.", -26.173131, 28.076051);
+var poi = new PointOfInterest("023", "The Memorial Chapel", "The ‘new’ College Chapel completed in 1956", -26.173131, 28.076051);
 
-poi.themes = ["Marist Brothers' History","Brothers today at Sacred Heart","Champagnat","Alumni","Grounds and Buildings"];
+poi.themes = ["Marist Brothers' History","Brothers today at Sacred Heart","Marcellin Champagnat","Alumni","Grounds and Buildings"];
 
 poi.addElement({
     type: 1,
@@ -54,7 +54,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/23.25.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -67,7 +67,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/23.06.jpg",
-    reference: "Image: Sacred Heart College Archive"
+    reference: "Image: Sacred Heart College"
 });
 
 
@@ -79,7 +79,7 @@ poi.addElement({
 
     `,
     url: "https://www.youtube.com/embed/Y64HYUToe4Y",
-    reference: "Image: Sacred Heart College Archive"
+    reference: "Image: Sacred Heart on YouTube.com "
 });
 
 export var twentythree = poi;

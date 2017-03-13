@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("005", "Transport", "School transport and its evolution.", -26.173848, 28.07519);
+var poi = new PointOfInterest("005", "Transport", "School transport and its evolution", -26.173848, 28.07519);
 
-poi.themes = ["Koch Street","College Characters","Alumni","Grounds and Buildings","Stories"];
+poi.themes = ["Koch Street","College Characters","Alumni","Grounds and Buildings","Stories in the story"];
 
 poi.addElement({
     type: 1,
@@ -12,7 +12,7 @@ poi.addElement({
     
     `,
     url: "assets/images/points-of-interest/05.22.jpg",
-    reference: "Image: The Star, Catholic History Bureau"
+    reference: "Image: The Star in Catholic History Bureau"
 });
 
 
@@ -24,7 +24,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/05.08c.jpg",
-    reference: "Image: Rand Daily Mail, Marist Archive"
+    reference: "Image: Rand Daily Mail in Marist Archive"
 });
 
 
@@ -37,7 +37,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/05.10.jpeg",
-    reference: "Image: Sacred Heart College Archive"
+    reference: "Image: Marist Archive"
 });
 
 
@@ -49,7 +49,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/05.19.jpg",
-    reference: "Image: Sacred Heart College Archive"
+    reference: "Image: Sacred Heart College"
 });
 
 
@@ -76,7 +76,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/05.11.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 export var five = poi;

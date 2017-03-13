@@ -3,7 +3,7 @@
   type: 1
   text: "2016’s first Academic Mass; the outgoing Matrics lead the incoming Grade 1s up the steps and into the Macartin Centre. "
   url: assets/images/points-of-interest/22.20.jpg
-  reference: "Image: Sacred Heart College Archive"
+  reference: "Image: Sacred Heart College"
 ---
 The Macartin Centre is foremost a sports hub but has many other uses in line with its original purposing as a Sports and Community Centre. Three times a year whole school Masses are held in the space as it is the only indoor space large enough to hold the Pre-Primary, Primary, High School and Three2Six School that together make up Sacred Heart College. 
 

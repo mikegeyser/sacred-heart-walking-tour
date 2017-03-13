@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("038", "Main Reception Foyer", "The hallway – a passage through time…", -26.173202, 28.075423);
+var poi = new PointOfInterest("038", "Main Reception Foyer", "A passage through time…", -26.173202, 28.075423);
 
-poi.themes = ["Marist Brothers' History","Champagnat","Grounds and Buildings","Learning","Traditions and Innovations"];
+poi.themes = ["Marist Brothers' History","Marcellin Champagnat","Grounds and Buildings","Learning","Traditions and Innovations","Stories in the story"];
 
 poi.addElement({
     type: 1,
@@ -17,7 +17,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/38.04b.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -30,7 +30,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/38.10.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -57,7 +57,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/38.23.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -70,7 +70,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/38.29.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -83,7 +83,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/38.16b.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 export var thirtyeight = poi;

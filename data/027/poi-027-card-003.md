@@ -1,7 +1,7 @@
 ---
   id: 3
   type: 1
-  text: "1947, Boxing Programme. Marist Observatory vs. Athlone Boys."
+  text: "1947, Boxing Programme. Marist 'Obs' vs. Athlone Boys."
   url: assets/images/points-of-interest/27.21.jpg
   reference: "Image: Marist Archive"
 ---

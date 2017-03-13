@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("032", "The Struggle(s)", "Selected stories about some Sacred Heart’s activists from 1976-2016.", -26.173857, 28.075487);
+var poi = new PointOfInterest("032", "The Struggle(s)", "Selected stories of Sacred Heart’s activists (1976-2016)", -26.173857, 28.075487);
 
-poi.themes = ["Brothers today at Sacred Heart","Ethos","Alumni","Grounds and Buildings","Learning","Traditions and Innovations","Socio-Political Context","Stories"];
+poi.themes = ["Brothers today at Sacred Heart","Ethos","Alumni","Grounds and Buildings","Learning","Traditions and Innovations","Socio-Political Context","Stories in the story"];
 
 poi.addElement({
     type: 1,
@@ -14,7 +14,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/32.10b.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -43,7 +43,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/32.08.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -55,7 +55,7 @@ poi.addElement({
 
     `,
     url: "api.soundcloud.com/tracks/303285575",
-    reference: "(Image: Wits University, Historical Papers Archive)(Audio: C Kamana)"
+    reference: "Image: Wits University Historical Papers, Audio: Caroline Kamana"
 });
 
 
@@ -79,7 +79,7 @@ poi.addElement({
 
     `,
     url: "api.soundcloud.com/tracks/300050756",
-    reference: "Image and Audio: C Kamana"
+    reference: "Image and Audio: Caroline Kamana"
 });
 
 
@@ -92,7 +92,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/32.05.jpg",
-    reference: "Image: James-Brent Styan"
+    reference: "Image: James-Brent Styan / The Times"
 });
 
 

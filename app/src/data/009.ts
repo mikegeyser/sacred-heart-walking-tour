@@ -72,7 +72,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/09.02.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -85,7 +85,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/09.14.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 export var nine = poi;

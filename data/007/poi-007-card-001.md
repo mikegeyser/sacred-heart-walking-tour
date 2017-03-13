@@ -3,7 +3,7 @@
   type: 1
   text: "Artist's impression of the proposed Pre-Primary buildings c.1994. The architect was Christian Gottschalk of Alfio Torrisi Architects; the buildings were opened in 1996. "
   url: assets/images/points-of-interest/07.22b.jpg
-  reference: "Image: Marist Archive"
+  reference: "Image: Christian Gottschalk in Marist Archive"
 ---
 Though the physical buildings of the Sacred Heart Pre-Primary School were built in 1995-1996, the story of the Pre-Primary section of the school is intertwined with that of the local community in Yeoville from 1914, and with the changing dynamic of inner city Johannesburg from the late 1980s. The existing Pre-Primary School’s foundation stone was laid by Bishop of Johannesburg, The Right Revd. Orsmond in 1995, and the facility was opened in 1996 by Prof. Bengu, Minister of Education.
 

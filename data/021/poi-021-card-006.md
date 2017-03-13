@@ -3,7 +3,7 @@
   type: 1
   text: "In 2010, the National Lottery Distribution Trust Fund awarded Sacred Heart College a sum for pool refurbishments."
   url: assets/images/points-of-interest/21.37a.jpg
-  reference: "Image: Sacred Heart College Archive"
+  reference: "Image: Sacred Heart College"
 ---
 In 2010 the baby pool was added, shades erected over the spectator stands and the starting blocks remodelled. The pool bottom was mosaicked with the school’s sports emblem, the ‘Dolphins’ of Sacred Heart College.
 

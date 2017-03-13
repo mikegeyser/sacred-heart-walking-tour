@@ -3,7 +3,7 @@
   type: 1
   text: "Some staff were gifted copies of Mandela's autobiography."
   url: assets/images/points-of-interest/14.19b.jpg
-  reference: "Image: C Kamana"
+  reference: "Image: Caroline Kamana"
 ---
 <figure>![](assets/images/points-of-interest/14.11b.jpg)
 

@@ -2,8 +2,8 @@
   id: 3
   type: 2
   text: "War Cry Wednesday – weekly practice, 2016."
-  url: assets/images/points-of-interest/27.01 mp4.mp4
-  reference: "Video: Sacred Heart College"
+  url: https://www.youtube.com/embed/D2HU5_O3eeM
+  reference: "Video: Sacred Heart on YouTube.com"
 ---
 The College War Cry goes back at least to the 1940s, if not before. The boys imitated what was prevalent in society at the time and war cries were (and are) not unique to Sacred Heart College. However, each school’s war cry is individual. Unfortunately the origins of the wording to Sacred Heart’s are unknown. 
 

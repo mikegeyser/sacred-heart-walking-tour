@@ -1,9 +1,9 @@
 ---
   id: 9
   type: 1
-  text: "Excerpt from an article in The Star titled 'Rise of Marist Brothers in Johannesburg', published on the eve of Koch Street's 50th anniversary "
+  text: "Excerpt from an article in The Star titled 'Rise of Marist Brothers in Johannesburg', published on the eve of Koch Street's 50th anniversary in 1939. "
   url: assets/images/points-of-interest/02.86c1.jpg
-  reference: "Image: The Star, 31.08.1939"
+  reference: "Image: The Star in Marist Archive"
 ---
 For fifty years, soccer was relegated by rugby to a secondary sport at Sacred Heart College. From the 1980s it regained popularity amongst the boys, perhaps due to its following amongst the newly admitted black students for whom soccer had always been a major game, and in 1982 the school officially recognised a senior team who represented the College against other schools in matches. Today there are both girls’ and boys’ soccer teams. 
 

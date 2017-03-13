@@ -3,7 +3,7 @@
   type: 1
   text: "The view from Eric Molobi's place of refuge at the College. "
   url: assets/images/points-of-interest/32.08.jpg
-  reference: "Image: C Kamana"
+  reference: "Image: Caroline Kamana"
 ---
 > “[Eric Molobi] was to play a variety of prominent roles in the struggle in the ensuing decade, perhaps, most prominently, in visiting Dr Mandela in Pollsmoor Prison to discuss the negotiations linked to the suspension of the armed struggle.
 > 

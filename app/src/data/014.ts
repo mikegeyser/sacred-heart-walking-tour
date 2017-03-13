@@ -3,7 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("014", "Mandela", "Grandparent, Pied Piper, Mediator and President", -26.172918, 28.075211);
 
-poi.themes = ["Brothers today at Sacred Heart","Ethos","College Characters","Alumni","Socio-Political Context","Stories"];
+poi.themes = ["Brothers today at Sacred Heart","Ethos","College Characters","Alumni","Socio-Political Context","Stories in the story"];
 
 poi.addElement({
     type: 1,
@@ -31,7 +31,7 @@ poi.addElement({
 
     `,
     url: "api.soundcloud.com/tracks/305085270",
-    reference: "(Image: Sacred Heart College, Audio: C Kamana)"
+    reference: "Image: Sacred Heart College, Audio: C Kamana"
 });
 
 
@@ -43,7 +43,7 @@ poi.addElement({
 
     `,
     url: "api.soundcloud.com/tracks/305106787",
-    reference: "(Image: Debbie Yazbek / IOL, Audio: C Kamana)"
+    reference: "Image: Debbie Yazbek / IOL, Audio: Caroline Kamana"
 });
 
 
@@ -55,7 +55,7 @@ poi.addElement({
 
     `,
     url: "api.soundcloud.com/tracks/305095578",
-    reference: "(Image: Sacred Heart College, Audio: C Kamana)"
+    reference: "Image: Sacred Heart College, Audio: Caroline Kamana"
 });
 
 
@@ -71,7 +71,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/14.19b.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -83,7 +83,7 @@ poi.addElement({
 
     `,
     url: "api.soundcloud.com/tracks/306341415",
-    reference: "(Image and Audio: V Govender)"
+    reference: "(Image and Audio: Viashin Govender)"
 });
 
 
@@ -95,7 +95,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/34.52b.jpg",
-    reference: "Image: Wits University Historical Papers Archive"
+    reference: "Image: Wits University Historical Papers"
 });
 
 

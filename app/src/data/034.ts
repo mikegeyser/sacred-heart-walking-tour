@@ -3,7 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("034", "Alumni", "A selection of Alumni's stories", -26.173062, 28.075674);
 
-poi.themes = ["Koch Street","College Characters","Alumni","Socio-Political Context","Stories"];
+poi.themes = ["Koch Street","College Characters","Alumni","Socio-Political Context","Stories in the story"];
 
 poi.addElement({
     type: 1,
@@ -71,7 +71,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/34.72b.jpg",
-    reference: "Image: Getty Images / AFP / Ben Stansall"
+    reference: "Image: Getty Images/AFP/Ben Stansall"
 });
 
 
@@ -88,7 +88,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/34.58.jpg",
-    reference: "Image: The Star / Wits University Historical Papers"
+    reference: "Image: The Star in Wits University Historical Papers "
 });
 
 
@@ -138,7 +138,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/34.41a.jpg",
-    reference: "Image: Sowetan Sunday Mirror"
+    reference: "Image: Sowetan Sunday Mirror in Marist Archive"
 });
 
 
@@ -153,7 +153,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/34.77.jpg",
-    reference: "Image: Simphiwe Mbokazi /IOL."
+    reference: "Image: Simphiwe Mbokazi / IOL."
 });
 
 export var thirtyfour = poi;

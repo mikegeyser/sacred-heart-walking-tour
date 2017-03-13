@@ -3,7 +3,7 @@
   type: 1
   text: "1939, presentation of School and House flags at Koch Street."
   url: assets/images/points-of-interest/36.14b.jpg
-  reference: "Image: Rand Daily Mail, Marist Archive"
+  reference: "Image: Rand Daily Mail in Marist Archive"
 ---
 There are six flags; one each for the four School Houses at Koch Street, a flag for the Marist Brothers’ College (third from right) and one with an obscured symbol, possibly the Sacred Heart (far right).  Though the image is in black and white, one can just about make out the hues of the colours of the four School Houses; the colours still used today. Each flag has a single letter denoting the house; **F**rederick (in green, far left), **G**eddes (in blue, second left), **V**alerian (in red, third left) and **O**’Leary (in yellow, second from right). At Observatory, Frederick House was replaced by Benedict House.
 

@@ -1,7 +1,7 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("030", "The Hall", "A concourse for the body and mind.", -26.173687, 28.075672);
+var poi = new PointOfInterest("030", "The Hall", "A concourse for the body and mind", -26.173687, 28.075672);
 
 poi.themes = ["Koch Street","Alumni","Grounds and Buildings","Learning","Traditions and Innovations"];
 
@@ -31,7 +31,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/30.09.jpg",
-    reference: "Image: Rory Birkby Photography / Marist Archive"
+    reference: "Image: Rory Birkby Photography in Marist Archive"
 });
 
 
@@ -105,12 +105,12 @@ poi.addElement({
     <p>The Hall continues to be a multi-functional space. Here Colin Northmore leads an app creating workshop for the grades 8 and 9 in 2016.</p>
 <figure><img src="assets/images/points-of-interest/30.39.jpg" alt="">
 
-<figcaption>Image: C Kamana</figcaption>
+<figcaption>Image: Caroline Kamana</figcaption>
 
 </figure>
     `,
     url: "assets/images/points-of-interest/30.37.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 export var thirty = poi;

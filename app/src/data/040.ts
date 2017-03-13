@@ -38,7 +38,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/40.11.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -50,7 +50,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/40.53.jpg",
-    reference: "Image: Sacred Heart College"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -75,7 +75,7 @@ poi.addElement({
     
     `,
     url: "assets/images/points-of-interest/19.94.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 export var forty = poi;

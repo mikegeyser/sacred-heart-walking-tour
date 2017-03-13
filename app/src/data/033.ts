@@ -3,7 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("033", "The Three2Six Education Project", "A bridging program for refugee children", -26.171979, 28.076848);
 
-poi.themes = ["Marist Brothers' History","Ethos","Champagnat","Grounds and Buildings","Learning","Traditions and Innovations","Socio-Political Context","Stories"];
+poi.themes = ["Marist Brothers' History","Ethos","Marcellin Champagnat","Grounds and Buildings","Learning","Traditions and Innovations","Socio-Political Context","Stories in the story"];
 
 poi.addElement({
     type: 1,
@@ -56,7 +56,7 @@ poi.addElement({
 
     `,
     url: "https://www.youtube.com/embed/o0rASBf_Ic8",
-    reference: "(Video: G&T Spiller/Sacred Heart College)"
+    reference: "Video: G&T Spiller/SHC @ Caroline Kamana on YouTube.ccom "
 });
 
 
@@ -69,7 +69,7 @@ poi.addElement({
 
     `,
     url: "api.soundcloud.com/tracks/301060347",
-    reference: "(Image and Audio: C Kamana)"
+    reference: "Image and Audio: Caroline Kamana"
 });
 
 

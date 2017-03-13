@@ -3,7 +3,7 @@
   type: 1
   text: "This Memorial Chapel window is also by Barry Thompson. It depicts Champagnat the teacher, and an abbreviation of his saying “to teach children well, you must first love them and love them all equally.”"
   url: assets/images/points-of-interest/23.27.jpg
-  reference: "Image: C Kamana"
+  reference: "Image: Caroline Kamana"
 ---
 > 'Ordained a priest in 1816, I was assigned to a town in the district of St.-Chamond (Loire). What I saw with my own eyes in that new post, with reference to the education, reminded me of the difficulties I had experienced myself at their age, for lack of teachers.'
 > 

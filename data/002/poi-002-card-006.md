@@ -3,7 +3,7 @@
   type: 1
   text: "The school, known officially known as Sacred Heart College, after further renovations and extensions in c.1907/8."
   url: assets/images/points-of-interest/02.58c.jpg
-  reference: "Image: Museum Africa Archive"
+  reference: "Image: Museum Africa"
 ---
 During the South African War, the school roll dropped to 150 and a part of the school was turned into a military hospital under the care of the French Red Cross, assisted by the Brothers. By 1905 the pupil numbers rose back to over 500, and by 1906 the school was re-extended, this time into a triple-storey building. By 1914 the school roll was over 600 again and plans began to take shape, not to extend the existing school (impossible due to the ever increasing density of the Doornfontein neighbourhood), but to look for another site further afield. Around 1918 this additional land was found in Observatory and purchased in 1919 by the Marist Provincial (The Revd. Brother Vital) for development as soon as possible, following the settling down of socio-economics after WW1.
 

@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("031", "The Marist Archive", "A room at the hub of the College’s collective memories.", -26.173796, 28.075463);
+var poi = new PointOfInterest("031", "The Marist Archive", "A collection of collective memories", -26.173796, 28.075463);
 
-poi.themes = ["Marist Brothers' History","Koch Street","Alumni","Traditions and Innovations","Stories"];
+poi.themes = ["Marist Brothers' History","Koch Street","Alumni","Traditions and Innovations","Stories in the story"];
 
 poi.addElement({
     type: 1,
@@ -13,7 +13,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/31.13.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -30,7 +30,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/01.79_87_combined.jpg",
-    reference: "Images: Marist Archive/C Kamana"
+    reference: "Images: Marist Archive"
 });
 
 
@@ -46,7 +46,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/26.01d.jpg",
-    reference: "Image: Standard & Diggers's News / C Kamana"
+    reference: "Image: Standard & Diggers's News in Marist Archive"
 });
 
 
@@ -58,7 +58,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/26.02.jpg",
-    reference: "Image: Musée de L’homme, Paris / Marist Archive"
+    reference: "Image: Musée de L’homme, Paris in Marist Archive"
 });
 
 

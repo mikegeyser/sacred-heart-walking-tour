@@ -3,7 +3,7 @@
   type: 1
   text: "This window dedicated to the Marists, features representations of Nelson Mandela, Archbishop Hurley and Mahatma Gandhi, who embody virtues of peace and justice. "
   url: assets/images/points-of-interest/23.25.jpg
-  reference: "Image: C Kamana"
+  reference: "Image: Caroline Kamana"
 ---
 Archbishop Hurley grew up on Robben Island, as his father was the lighthouse keeper. Twice President of the South African Catholic Bishops’ Council, he was an outspoken and active opponent of apartheid.
 

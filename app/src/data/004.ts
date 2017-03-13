@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("004", "The Boarders", "Boarding was offered until the mid 1970s.", -26.173664, 28.075313);
+var poi = new PointOfInterest("004", "The Boarders", "Boarding was offered until the mid 1970s", -26.173664, 28.075313);
 
-poi.themes = ["Koch Street","Alumni","Grounds and Buildings","Traditions and Innovations","Stories"];
+poi.themes = ["Koch Street","Alumni","Grounds and Buildings","Traditions and Innovations","Stories in the story"];
 
 poi.addElement({
     type: 1,
@@ -78,7 +78,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/03.51b.jpg",
-    reference: "Image: Marist Archive"
+    reference: "Images above & below: Marist Archive"
 });
 
 export var four = poi;

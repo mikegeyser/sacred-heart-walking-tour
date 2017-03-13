@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("026", "Uniform", "School uniform and badges over the last 128 years.", -26.172251, 28.076247);
+var poi = new PointOfInterest("026", "Uniform", "School uniform and badges over 128 years (to 2017)", -26.172251, 28.076247);
 
-poi.themes = ["Koch Street","Characters","Alumni","Traditions and Innovations"];
+poi.themes = ["Koch Street","College Characters","Alumni","Traditions and Innovations"];
 
 poi.addElement({
     type: 1,
@@ -46,7 +46,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/36.11.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -58,7 +58,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/36.24.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -95,7 +95,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/36.12.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 export var twentysix = poi;

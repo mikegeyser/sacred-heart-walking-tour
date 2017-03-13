@@ -3,7 +3,7 @@
   type: 1
   text: ‘Oh brother! It’s girls, girls and more girls!’ Rand Daily Mail 12.01.1980
   url: assets/images/points-of-interest/28.82b.jpg
-  reference: "Image: Rand Daily Mail, Marist Archive"
+  reference: "Image: Rand Daily Mail in Marist Archive"
 ---
 This article from the Rand Daily Mail gives some of the student perspectives on the merging of the three schools. Learners from both the Ursuline and Holy Family Convents, as well as many Sisters and their lay staff, came to Sacred Heart. 
 

@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("006", "The College Gates", "The main point of access, then and now.", -26.173987, 28.074998);
+var poi = new PointOfInterest("006", "The College Gates", "The main point of access, then and now", -26.173987, 28.074998);
 
-poi.themes = ["Koch Street","College Characters","Alumni","Grounds and Buildings","Stories"];
+poi.themes = ["Koch Street","College Characters","Alumni","Grounds and Buildings","Stories in the story"];
 
 poi.addElement({
     type: 1,
@@ -48,7 +48,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/06.20b.jpg",
-    reference: "Image: Marist Archive"
+    reference: "Image: N.Bartie in Marist Archive"
 });
 
 
@@ -60,7 +60,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/06.11b.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -73,7 +73,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/06.06.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -88,7 +88,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/06.25.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 export var six = poi;

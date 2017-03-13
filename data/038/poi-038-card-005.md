@@ -3,7 +3,7 @@
   type: 1
   text: "The Foyer set up for All & Every, an exhibition of art work by Three2Six learners created in 2015 during their August holiday workshop that facilitated learning around children's rights. "
   url: assets/images/points-of-interest/38.29.jpg
-  reference: "Image: C Kamana"
+  reference: "Image: Caroline Kamana"
 ---
 The Foyer is a space for temporary exhibitions, often of art work by Sacred Heart College or Three2Six learners, and informative displays, including alumni news or materials relating to the critical thinking learning programme. Hanging from the ceiling is a banner that reads ‘good nutrition’, one of many information points set up by High School students as part of a Life Orientation project. 
 

@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("013", "Statue of Jesus", "At the heart of the College.", -26.173185, 28.075152);
+var poi = new PointOfInterest("013", "Statue of Jesus", "At the heart of the College", -26.173185, 28.075152);
 
-poi.themes = ["Brothers today at Sacred Heart","Ethos","Grounds and Buildings","Learning","Socio-Political Context","Stories"];
+poi.themes = ["Brothers today at Sacred Heart","Ethos","Grounds and Buildings","Learning","Socio-Political Context","Stories in the story"];
 
 poi.addElement({
     type: 1,
@@ -14,7 +14,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/13.08.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -54,7 +54,7 @@ poi.addElement({
 
     `,
     url: "api.soundcloud.com/tracks/303282356",
-    reference: "Image: Sacred Heart College, Audio: C Kamana"
+    reference: "Image: Sacred Heart College, Audio: Caroline Kamana"
 });
 
 
@@ -84,7 +84,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/13.12.jpg",
-    reference: "Image: Anna Zeminski/Afrapix/SACBC, Marist Archive"
+    reference: "Image: Anna Zeminski/Afrapix/SACBC in Marist Archive"
 });
 
 export var thirteen = poi;

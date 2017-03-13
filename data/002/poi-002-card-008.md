@@ -3,7 +3,7 @@
   type: 1
   text: "Brother Aquinas after demolition began at Koch Street in the mid 1960s."
   url: assets/images/points-of-interest/02.145.jpg
-  reference: "Image: The Star, Marist Archive"
+  reference: "Image: The Star in Marist Archive"
 ---
 The Brothers sold the land at Koch Street in the mid 1960s as the ever developing city centre had become an unsuitable area for a school . A site to the south and (at the time) far away from construction in town was bought in Linmeyer. The final assembly at Sacred Heart College on the Koch Street site was held in 1965. 
 

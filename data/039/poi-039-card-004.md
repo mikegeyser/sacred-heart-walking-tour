@@ -3,7 +3,7 @@
   type: 1
   text: "Statue of Mary from original college Chapel now in the Memorial Chapel."
   url: assets/images/points-of-interest/23.54.jpg
-  reference: "Image: C Kamana"
+  reference: "Image: Caroline Kamana"
 ---
 This statue of Mary is positioned to the left just before the chancel in the Memorial Chapel, just as it was in the original Chapel. Likewise, the statue of Joseph can be found to the right, just before the chancel in the Memorial Chapel.
 

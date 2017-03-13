@@ -3,7 +3,7 @@
   type: 1
   text: "The Epaulette worn by School Nurse Peta-Anne Munnik."
   url: assets/images/points-of-interest/17.11.jpg
-  reference: "Image: C Kamana"
+  reference: "Image: Caroline Kamana"
 ---
 Under the 1978 Nurses’ Act the epaulettes and badges worn by a registered and practicing nurse are protected. By law they must be worn whilst on duty (with a few specified exceptions). Sister Peta-Anne’s maroon epaulette denotes that she is a Registered General Nurse and the bars underneath signify particular capacities in the following areas: community nursing (yellow), psychiatrics (black) and midwifery (green). The lamp within the blue enameled edged badge, the Badge of the South African Nursing Council, alludes to Florence Nightingale, ‘the Lady with the Lamp’, who is considered the creator of modern nursing. 
 

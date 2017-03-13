@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("018", "Foundation Quad", "This block of classrooms was added in 1935s.", -26.17278, 28.075545);
+var poi = new PointOfInterest("018", "Foundation Quad", "This block of classrooms was added in 1935", -26.17278, 28.075545);
 
-poi.themes = ["Grounds and Buildings","Learning"];
+poi.themes = ["Grounds and Buildings","Learning","Stories in the story"];
 
 poi.addElement({
     type: 1,

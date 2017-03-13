@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("035", "The Main Quadrangle", "Fountain of school life", -26.173225, 28.075564);
+var poi = new PointOfInterest("035", "The Main Quadrangle", "A Fountain of school life", -26.173225, 28.075564);
 
-poi.themes = ["Brothers today at Sacred Heart","College Characters","Alumni","Grounds and Buildings","Traditions and Innovations","Stories"];
+poi.themes = ["Brothers today at Sacred Heart","College Characters","Alumni","Grounds and Buildings","Traditions and Innovations","Stories in the story"];
 
 poi.addElement({
     type: 1,
@@ -51,7 +51,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/35.18.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -76,7 +76,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/35.05.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 

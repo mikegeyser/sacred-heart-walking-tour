@@ -3,7 +3,7 @@
   type: 1
   text: "A Southern African Catholic Bishops’ Conference (SACBC) booklet about the petrol bombing of Khanya House, 1988."
   url: assets/images/points-of-interest/13.12.jpg
-  reference: "Image: Anna Zeminski/Afrapix/SACBC, Marist Archive"
+  reference: "Image: Anna Zeminski/Afrapix/SACBC in Marist Archive"
 ---
 > “What has occurred at Khanya House is a tragedy, not only for the Bishops’ Conference but for the country as well. THIS IS NOT A TIME FOR POLITICAL POINT SCORING. It is a time for all South Africans to realise that violence will not solve the problems of the country.”
 > 

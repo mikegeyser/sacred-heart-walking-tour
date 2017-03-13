@@ -3,7 +3,7 @@
   type: 1
   text: "Press clippings that form a picture of what life was like for the wider Marist community in times gone by are kept in the archive. This double page spread features sporting champions from Sacred Heart College at Koch Street, the dynamite explosion at George Goch (the area south of Jeppestown today) and portraits of two young ladies – likely society debutantes. "
   url: assets/images/points-of-interest/26.01d.jpg
-  reference: "Image: Standard & Diggers's News / C Kamana"
+  reference: "Image: Standard & Diggers's News in Marist Archive"
 ---
 In those early days of Johannesburg explosions related to mining were not infrequent. In 1896, at Braamfontein station, an explosives train carrying c.60 tons of dynamite, which had been stood for several days in the sun was struck by a shunting train. A crater 60m x 50m x 8m was created by the blast (heard up to 200 km away) and some 300 people were killed or seriously injured. 
 

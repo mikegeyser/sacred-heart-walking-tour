@@ -1,7 +1,7 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("003", "Observatory", "From Marist ‘Obs’ to Sacred Heart College of today .", -26.173221, 28.075289);
+var poi = new PointOfInterest("003", "Observatory", "From Marist ‘Obs’ to Sacred Heart College of today", -26.173221, 28.075289);
 
 poi.themes = ["Koch Street","Brothers today at Sacred Heart","Ethos","College Characters","Alumni","Grounds and Buildings","Learning","Traditions and Innovations","Socio-Political Context"];
 
@@ -86,7 +86,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/03.26h.jpg",
-    reference: "Image: Sacred Heart College / annotated by C Kamana"
+    reference: "Image: Brother Rudolf (annotations Caroline Kamana)"
 });
 
 

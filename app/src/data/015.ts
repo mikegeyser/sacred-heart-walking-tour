@@ -27,7 +27,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/15.04.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -40,7 +40,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/11.26.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -53,7 +53,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/15.02.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -81,7 +81,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/15.14b.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Sacred Heart College"
 });
 
 export var fifteen = poi;

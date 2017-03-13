@@ -3,7 +3,7 @@
   type: 1
   text: "The Accounts Ledger from the first South African Marist School, St. Joseph’s Academy in Cape Town."
   url: assets/images/points-of-interest/01.79_87_combined.jpg
-  reference: "Images: Marist Archive/C Kamana"
+  reference: "Images: Marist Archive"
 ---
 This example page from the Accounts Ledger of St Joseph’s Academy lists purchases by the Brothers in 1872 as including library books, ink mats, 20lbs of chocolate, 2 pigs and ½ lb of snuff. 
 

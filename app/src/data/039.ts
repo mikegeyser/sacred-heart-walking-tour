@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("039", "Old Chapel Theatre", "Original Chapel - first floor (NW corner) of main building", -26.17295, 28.075356);
+var poi = new PointOfInterest("039", "Old Chapel Theatre", "Original Chapel (first floor, NW corner, of main building)", -26.17295, 28.075356);
 
-poi.themes = ["Champagnat","Grounds and Buildings","Traditions and Innovations"];
+poi.themes = ["Marcellin Champagnat","Grounds and Buildings","Traditions and Innovations"];
 
 poi.addElement({
     type: 1,
@@ -26,7 +26,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/39.03.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -52,7 +52,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/23.54.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 

@@ -3,7 +3,7 @@
   type: 1
   text: "In The Workshop Joseph Letebele holds the Peace Pole that used to stand in the Intermediate Quad in the 1990s. "
   url: assets/images/points-of-interest/11.26.jpg
-  reference: "Image: C Kamana"
+  reference: "Image: Caroline Kamana"
 ---
 In the final school assembly of 1993, when all learners were housed in the classrooms on the Observatory site (the Junior Primary learners moved from Yeoville in 1993), a prayer for peace was said by the whole school. It was a time of national uncertainty before the first democratic elections in the country in 1994. A visiting German journalist who witnessed the prayer described the spirit of the diverse and united school community as a beacon of hope for the country. The Director of the Peace Pole Project (an international organisation that began in Japan in the 1950s), after reading the article, decided the College would be a fitting location for a South African Peace Pole. 
 

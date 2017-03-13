@@ -3,7 +3,7 @@
   type: 1
   text: "Primary school pupils at a Mass to celebrate a visit by Marist Superior General Emili Turú in September 2016. "
   url: assets/images/points-of-interest/23.06.jpg
-  reference: "Image: Sacred Heart College Archive"
+  reference: "Image: Sacred Heart College"
 ---
 The Memorial Chapel is not a parish church and as such regular services are not held by the Diocese here. However, during the school week Masses are attended by all High and Primary school pupils, and pupils from Pre-Primary to Matric meet here with Fr Dryden, the school Chaplain. Special services are also held throughout the year, such as the Matric Valedictory. In keeping with the inclusive nature of the school, special Holy Days marked by other faiths are also celebrated in the space, such as Diwali. The Chapel is used for special services outside of school days by alumni and the extended Marist congregation for marriages, memorials and sometimes Ordinations. Performances such as the Pre-Primary nativity are held here as are numerous musical recitals. 
 

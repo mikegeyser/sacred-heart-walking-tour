@@ -3,7 +3,7 @@
   type: 1
   text: "The College gates as they appear in 2017. The lettering for the signage was prepared by Frank Hollingworth (who has taught High School Science since the late 1970s) in December 1979, as the College reverted to the use of its religious name ‘Sacred Heart College’ when it became co-educational in 1980."
   url: assets/images/points-of-interest/06.25.jpg
-  reference: "Image: C Kamana"
+  reference: "Image: Caroline Kamana"
 ---
 Frank Hollingworth recounts how he created these:
 

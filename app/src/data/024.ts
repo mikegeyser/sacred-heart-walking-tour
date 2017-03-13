@@ -3,7 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("024", "The Science Block", "Our Lady of Observatory and the Science Block", -26.173412, 28.076001);
 
-poi.themes = ["Koch Street","Brothers today at Sacred Heart","College Characters","Alumni","Grounds and Buildings","Learning","Stories"];
+poi.themes = ["Koch Street","Brothers today at Sacred Heart","College Characters","Alumni","Grounds and Buildings","Learning","Stories in the story"];
 
 poi.addElement({
     type: 1,
@@ -25,7 +25,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/24.05.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 

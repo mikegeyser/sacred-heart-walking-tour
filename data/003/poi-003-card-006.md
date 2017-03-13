@@ -3,7 +3,7 @@
   type: 1
   text: "Photograph taken by Brother Rudolf in 1961, showing additions to the school by this time. Mr. Armstrong, parent of a Sacred Heart pupil, made his plane available to Brother Rudolf specially to take this aerial view of the school. Brother Rudolf, who taught science, also ran the school photography club. "
   url: assets/images/points-of-interest/03.26h.jpg
-  reference: "Image: Sacred Heart College / annotated by C Kamana"
+  reference: "Image: Brother Rudolf (annotations Caroline Kamana)"
 ---
 1. The original main building built 1924-26 was constructed around the fountain quad.
 2. The hall was completed for 1926 and renovated in 1951. 

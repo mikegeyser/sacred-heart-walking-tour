@@ -3,7 +3,7 @@
   type: 1
   text: "Sacred Heart College alumnus Rekgotsofetse Chikane being arrested during the protests to support #FeesMustFall in the Cape Town parliamentary precinct in 2015. "
   url: assets/images/points-of-interest/32.05.jpg
-  reference: "Image: James-Brent Styan"
+  reference: "Image: James-Brent Styan / The Times"
 ---
 The College provides a balanced, multicultural and dynamic environment. Confidence is instilled in the individual through allowing no single pupil grouping to dominate; no sporting, academic or cultural merits are ranked more important than others. The Marist ethos cultivates proactivity around the values of equality and freedom. The development of critical thinking skills, through an ever-innovating curriculum, produces well balanced, respectful but equally opinionated and strong willed alumni; something which is often remarked on by those meeting alumni in the fields of further education and business. That many of the leaders in the 2015 and 2016 protests around access to education and its fee structures were alumni of Sacred Heart College came as no surprise. Rekgotsofetse Chikane (pictured) and Wits SRC Secretary General for 2016, Fasiha Hassan (matric 2011), are but two examples; many others, including some of the older students still attending the College, also stepped forward to demonstrate their solidarity with the cause. 
 

@@ -3,7 +3,7 @@
   type: 1
   text: "The circular stained glass window is a memorial to Bebe Mothopeng, alumnus and former trainee teacher at Sacred Heart College."
   url: assets/images/points-of-interest/15.04.jpg
-  reference: "Image: C Kamana"
+  reference: "Image: Caroline Kamana"
 ---
 All over the College grounds, in windows, on plaques, in the form of benches, artworks or dedicated spaces there are memorials to those members of the school community who have died. Many more of course are recalled through the memories of those who have attended or still attend the college and not all have a physical marker in the school space to their earthly existence. Each one, in their own way, made a special contribution to the family spirit of Sacred Heart College. 
 

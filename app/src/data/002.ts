@@ -1,7 +1,7 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("002", "Koch Street", "The first Sacred Heart College in Johannesburg.", -26.173581, 28.075099);
+var poi = new PointOfInterest("002", "Koch Street", "The first Sacred Heart College in Johannesburg", -26.173581, 28.075099);
 
 poi.themes = ["Marist Brothers' History","Koch Street","Alumni"];
 
@@ -70,7 +70,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/02.172.jpg",
-    reference: "Image: Museum Africa Archive"
+    reference: "Image: Museum Africa"
 });
 
 
@@ -83,7 +83,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/02.58c.jpg",
-    reference: "Image: Museum Africa Archive"
+    reference: "Image: Museum Africa"
 });
 
 
@@ -109,7 +109,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/02.145.jpg",
-    reference: "Image: The Star, Marist Archive"
+    reference: "Image: The Star in Marist Archive"
 });
 
 

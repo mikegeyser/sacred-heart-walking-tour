@@ -3,7 +3,7 @@
   type: 1
   text: "Brother Jude with some Grade 1s in 2017."
   url: assets/images/points-of-interest/12.70.jpg
-  reference: "Image: Sacred Heart College"
+  reference: "Image: Lynn Walker"
 ---
 Brother Jude describes himself as ‘working with young people’, but this only tells one small portion (though with a huge impact) of his contribution to transformative processes in South African society. Educated at St. Joseph’s College, Rondebosch from Standard 2 (grade 4 today), he professed his first Marist vows in 1959. Brother Jude taught in Marist Brothers’ Colleges in Observatory and in Walmer, Port Elizabeth, where he was Principal from 1969. In 1974, Br Jude was appointed Provincial of South Africa, a position he held for nine years. Following this, at the request of the Catholic Bishops’ Conference of Southern Africa (SACBC), he founded the Catholic Institute of Education. From 1988 until 1995 he served as Secretary General of the SACBC until re-appointment as Provincial of South Africa. From 1998, until 2003, Br Jude was Provincial of the new Marist Province of Southern Africa which, besides South Africa, involves the Brothers and their institutions in Angola, Malawi, Mozambique, Zambia and Zimbabwe. Today he is a Councillor for the Southern African Province. 
 

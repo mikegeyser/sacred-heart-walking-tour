@@ -1,7 +1,7 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("028", "Co-Education and Sacred Heart", "Marists, Holy Family Sisters and Ursuline Sisters combine in Sacred Heart College.", -26.173112, 28.07586);
+var poi = new PointOfInterest("028", "Co-education and Sacred Heart College", "Marists, Holy Family Sisters and Ursuline Sisters combine", -26.173112, 28.07586);
 
 poi.themes = ["Koch Street","Brothers today at Sacred Heart","Ethos","Alumni","Grounds and Buildings","Traditions and Innovations","Socio-Political Context"];
 
@@ -14,7 +14,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/28.79.jpg",
-    reference: "Image: Sacred Heart College Archive"
+    reference: "Image: Sacred Heart College"
 });
 
 
@@ -31,7 +31,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/28.82b.jpg",
-    reference: "Image: Rand Daily Mail, Marist Archive"
+    reference: "Image: Rand Daily Mail in Marist Archive"
 });
 
 

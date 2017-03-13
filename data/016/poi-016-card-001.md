@@ -3,7 +3,7 @@
   type: 1
   text: "Stained glass window in the College's Memorial Chapel. By artist Barry Thompson, it depicts Champagnat at the bedside of the dying youth, Jean Baptiste Montagne."
   url: assets/images/points-of-interest/23.18a.jpg
-  reference: "Image: C Kamana"
+  reference: "Image: Caroline Kamana"
 ---
 Champagnat’s experience with the Montagne boy confirmed his calling to teach children, particularly those who didn’t know God’s love. Within a few months of the boy’s death, Champagnat had found two men willing to train as teachers and to follow in the way of Mary. Champagnat, curate of the village of La Valla, started a school and a foundation house for the three of them on 2 January 1817. The original house soon became too small and Notre Dame de L’Hermitage (depicted at bottom right of window as a red roofed building) was completed in 1825 to accommodate 100 Brothers.
 

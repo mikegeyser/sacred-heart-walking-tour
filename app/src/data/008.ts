@@ -3,7 +3,7 @@ import { PointOfInterest } from '../models/point-of-interest';
 
 var poi = new PointOfInterest("008", "Ntate Sammy", "Selling Ice-Cream at Sacred Heart College since 1963", -26.173422, 28.074565);
 
-poi.themes = ["Brothers today at Sacred Heart","College Characters","Alumni","Grounds and Buildings","Stories"];
+poi.themes = ["Brothers today at Sacred Heart","College Characters","Alumni","Grounds and Buildings","Stories in the story"];
 
 poi.addElement({
     type: 1,
@@ -29,7 +29,7 @@ poi.addElement({
 
     `,
     url: "https://www.youtube.com/embed/ughdThYOKok",
-    reference: "Video: C Kamana"
+    reference: "Video: Caroline Kamana at YouTube.com"
 });
 
 
@@ -45,7 +45,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/08.07b.jpg",
-    reference: "Image: Frank Hollingworth / Marist Archive"
+    reference: "Image: Frank Hollingworth in Marist Archive"
 });
 
 
@@ -60,7 +60,7 @@ poi.addElement({
 
     `,
     url: "api.soundcloud.com/tracks/303356674",
-    reference: "Image: Frank Hollingworth / Sacred Heart College, Audio: C Kamana"
+    reference: "Image: Frank Hollingworth, Audio: Caroline Kamana"
 });
 
 
@@ -73,7 +73,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/08.09b.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -85,7 +85,7 @@ poi.addElement({
 
     `,
     url: "api.soundcloud.com/tracks/303360968",
-    reference: "Image: Frank Hollingworth / Sacred Heart College, Audio: F Correira"
+    reference: "Image: Frank Hollingworth, Audio: Frances Correira"
 });
 
 
@@ -96,7 +96,7 @@ poi.addElement({
     
     `,
     url: "api.soundcloud.com/tracks/303362034",
-    reference: "Image: F Hollingworth/ Sacred Heart College, Audio: F Correira"
+    reference: "Image: Frank Hollingworth, Audio: Frances Correira"
 });
 
 export var eight = poi;

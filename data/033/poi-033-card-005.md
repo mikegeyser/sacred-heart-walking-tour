@@ -3,7 +3,7 @@
   type: 3
   text: "A Three2Six learner and his Journey with an Artist, 2015 "
   url: api.soundcloud.com/tracks/301060347
-  reference: "(Image and Audio: C Kamana)"
+  reference: "Image and Audio: Caroline Kamana"
 ---
 During the school holidays, the Three2Six learners are offered programmes in the arts, sciences, computing, sports and other skills that the daily timetabling focus on numeracy and literacy cannot afford. 
 

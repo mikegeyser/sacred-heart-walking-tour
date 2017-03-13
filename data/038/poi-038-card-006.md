@@ -3,7 +3,7 @@
   type: 1
   text: "The school office display cabinet and view to Foyer."
   url: assets/images/points-of-interest/38.16b.jpg
-  reference: "Image: C Kamana"
+  reference: "Image: Caroline Kamana"
 ---
 The display cabinet contains a selection of photographs and items that relate to the heritage of Sacred Heart College and the Marist Brothers. 
 

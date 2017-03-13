@@ -66,7 +66,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/19.48.jpg",
-    reference: "Image: Rand Daily Mail / Museum Africa"
+    reference: "Image: Rand Daily Mail in Museum Africa"
 });
 
 
@@ -82,7 +82,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/19.29b.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -135,7 +135,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/40.21.jpg",
-    reference: "Image: Boxer Ngwenya for The Star"
+    reference: "Image: Boxer Ngwenya / The Star"
 });
 
 export var nineteen = poi;

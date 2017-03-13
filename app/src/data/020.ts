@@ -77,7 +77,7 @@ poi.addElement({
 
     `,
     url: "https://www.youtube.com/embed/urEOjdDQpL0",
-    reference: "Image: Sacred Heart College"
+    reference: "Video: Sacred Heart on YouTube.com"
 });
 
 
@@ -89,7 +89,7 @@ poi.addElement({
 
     `,
     url: "https://www.youtube.com/embed/YjAddE3fzaE",
-    reference: "Image: Jozikids"
+    reference: "Video: Jozikids on YouTube.com"
 });
 
 export var twenty = poi;

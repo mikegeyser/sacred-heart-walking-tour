@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("037", "Library / Media Centre", "This was formerly the boarders’ dining room.", -26.173316, 28.075436);
+var poi = new PointOfInterest("037", "Library / Media Centre", "Formerly the boarders’ dining room", -26.173316, 28.075436);
 
-poi.themes = ["Alumni","Grounds and Buildings","Learning","Traditions and Innovations","Socio-Political Context","Stories"];
+poi.themes = ["Alumni","Grounds and Buildings","Learning","Traditions and Innovations","Socio-Political Context","Stories in the story"];
 
 poi.addElement({
     type: 1,
@@ -82,7 +82,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/37.13.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 export var thirtyseven = poi;

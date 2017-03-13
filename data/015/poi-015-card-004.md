@@ -3,7 +3,7 @@
   type: 1
   text: "The stage area in the Intermediate Quad, bordered with a learner created mosaic listing the five Marist pedagogical pillars."
   url: assets/images/points-of-interest/15.02.jpg
-  reference: "Image: C Kamana"
+  reference: "Image: Caroline Kamana"
 ---
 The Integrated Studies Curriculum was a concrete example of the innovative approach to education undertaken at Sacred Heart College. As a Marist school, it is underpinned by and strengthened through values that come directly from the unique application of Marcellin Champagnat’s educational vision that stemmed from his understanding of the Gospel message and which lies at the core of Marist schools today. These values can be understood as five pedagogical (or educational practice) pillars or characteristics that uphold and inform the educational framework of the school. These five characteristics are named as presence, simplicity, family spirit, love of work and following the way of Mary. 
 

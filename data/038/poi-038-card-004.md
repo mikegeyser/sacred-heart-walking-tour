@@ -3,7 +3,7 @@
   type: 1
   text: "Ethiopian Hunger Cloth (Alemayehu Bizuneleh, 1978). "
   url: assets/images/points-of-interest/38.23.jpg
-  reference: "Image: C Kamana"
+  reference: "Image: Caroline Kamana"
 ---
 This printed fabric wall hanging was given to the College by the Chaplain, Father Dryden. 
 

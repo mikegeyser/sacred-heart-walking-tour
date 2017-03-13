@@ -1,7 +1,7 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("012", "The Brothers' Residence", "Built in 1984 to provide more suitable rooming.", -26.172998, 28.074698);
+var poi = new PointOfInterest("012", "The Brothers' Residence", "A selection of Brothers' profiles", -26.172998, 28.074698);
 
 poi.themes = ["Marist Brothers' History","Koch Street","Brothers today at Sacred Heart","Ethos","College Characters","Alumni","Grounds and Buildings","Learning","Socio-Political Context"];
 
@@ -30,7 +30,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/02.91b.jpg",
-    reference: "Image: The Star / Marist Archive"
+    reference: "Image: The Star in Marist Archive"
 });
 
 
@@ -43,7 +43,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/12.17.jpg",
-    reference: "Image: Rand Daily Mail, Marist Archive"
+    reference: "Image: Rand Daily Mail in Marist Archive"
 });
 
 
@@ -56,7 +56,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/12.70.jpg",
-    reference: "Image: Sacred Heart College"
+    reference: "Image: Lynn Walker"
 });
 
 
@@ -95,7 +95,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/12.72.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -136,7 +136,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/12.02b.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 export var twelve = poi;

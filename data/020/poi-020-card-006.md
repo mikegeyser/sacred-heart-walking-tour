@@ -3,7 +3,7 @@
   type: 2
   text: "Iyon Brew, the Sacred Heart College Marimba Band, performs at Sacred Heart Day, October 2016. "
   url: https://www.youtube.com/embed/urEOjdDQpL0
-  reference: "Image: Sacred Heart College"
+  reference: "Video: Sacred Heart on YouTube.com"
 ---
 Both the Primary and High Schools have several musical ensembles, including the seniors’ One Heart Choir, String and Woodwind Ensemble, The Sacred Heart Jazz band and a number of Marimba groups (including the featured Iyon Brew). As well as players of more traditional instruments there are a growing number of contemporary musicians and vocalists who refine their skills at school. 
 

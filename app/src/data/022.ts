@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("022", "The Macartin Centre", "Indoor sports and community space.", -26.172722, 28.075867);
+var poi = new PointOfInterest("022", "The Macartin Centre", "Indoor sports and community space", -26.172722, 28.075867);
 
-poi.themes = ["Koch Street","Alumni","Grounds and Buildings","Traditions and Innovations"];
+poi.themes = ["Koch Street","Alumni","Grounds and Buildings","Traditions and Innovations","Stories in the story"];
 
 poi.addElement({
     type: 1,
@@ -67,7 +67,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/22.20.jpg",
-    reference: "Image: Sacred Heart College Archive"
+    reference: "Image: Sacred Heart College"
 });
 
 
@@ -79,7 +79,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/22.13.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 export var twentytwo = poi;

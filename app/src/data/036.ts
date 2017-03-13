@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("036", "Houses", "The school houses and their namesakes.", -26.173358, 28.075663);
+var poi = new PointOfInterest("036", "Houses", "Four school houses and their namesakes", -26.173358, 28.075663);
 
-poi.themes = ["Marist Brothers' History","Koch Street","Champagnat","Alumni"];
+poi.themes = ["Marist Brothers' History","Koch Street","Marcellin Champagnat","Alumni"];
 
 poi.addElement({
     type: 1,
@@ -14,7 +14,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/36.14b.jpg",
-    reference: "Image: Rand Daily Mail, Marist Archive"
+    reference: "Image: Rand Daily Mail in Marist Archive"
 });
 
 
@@ -79,7 +79,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/36.16.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 export var thirtysix = poi;

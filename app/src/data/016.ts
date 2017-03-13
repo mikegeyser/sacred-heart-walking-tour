@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("016", "St Marcellin Champagnat", "St Marcellin’s story and Sacred Heart College .", -26.172672, 28.075282);
+var poi = new PointOfInterest("016", "St Marcellin Champagnat", "St Marcellin’s story and Sacred Heart College", -26.172672, 28.075282);
 
-poi.themes = ["Marist Brothers' History","Ethos","Champagnat","Grounds and Buildings"];
+poi.themes = ["Marist Brothers' History","Ethos","Marcellin Champagnat","Grounds and Buildings"];
 
 poi.addElement({
     type: 1,
@@ -14,7 +14,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/23.18a.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -31,7 +31,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/23.27.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -55,7 +55,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/16.21b.jpg",
-    reference: "Image: C Kamana "
+    reference: "Image: Caroline Kamana "
 });
 
 
@@ -67,7 +67,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/36.66.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -80,7 +80,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/16.10.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 

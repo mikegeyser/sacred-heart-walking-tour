@@ -1,7 +1,7 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("017", "School Nurses", "Hospitals, Matrons and Nurses.", -26.172887, 28.075342);
+var poi = new PointOfInterest("017", "A Medical History", "Hospitals, Matrons and Nurses", -26.172887, 28.075342);
 
 poi.themes = ["Koch Street","Ethos","College Characters","Alumni","Grounds and Buildings","Traditions and Innovations","Socio-Political Context"];
 
@@ -13,7 +13,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/17.18b.jpg",
-    reference: "Image: The Star, Marist Archive"
+    reference: "Image: The Star in Marist Archive"
 });
 
 
@@ -25,7 +25,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/17.07c.jpg",
-    reference: "Image: The Star, Marist Archive"
+    reference: "Image: The Star in Marist Archive"
 });
 
 
@@ -37,7 +37,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/17.06b.jpg",
-    reference: "Image: The Star, Marist Archive"
+    reference: "Image: The Star in Marist Archive"
 });
 
 
@@ -89,7 +89,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/17.11.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 export var seventeen = poi;

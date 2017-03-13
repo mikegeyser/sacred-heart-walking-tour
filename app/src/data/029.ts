@@ -1,9 +1,9 @@
 
 import { PointOfInterest } from '../models/point-of-interest';
 
-var poi = new PointOfInterest("029", "WW1 Memorial", "Marist pupils from Koch Street who served in WW1.", -26.173556, 28.075651);
+var poi = new PointOfInterest("029", "World War One Memorial", "Remembering Koch Street Marists who served in WW1", -26.173556, 28.075651);
 
-poi.themes = ["Koch Street","Alumni","Grounds and Buildings","Socio-Political Context","Stories"];
+poi.themes = ["Koch Street","Alumni","Grounds and Buildings","Socio-Political Context","Stories in the story"];
 
 poi.addElement({
     type: 1,
@@ -13,7 +13,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/29.11.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -26,7 +26,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/19.16a.jpg",
-    reference: "Image: C Kamana"
+    reference: "Image: Caroline Kamana"
 });
 
 
@@ -51,7 +51,7 @@ poi.addElement({
 
     `,
     url: "https://www.youtube.com/embed/cfgyaLBc2MM",
-    reference: "Video: https://www.youtube.com/embed/cfgyaLBc2MM"
+    reference: "Video: NationalMuseumsScotland on YouTube.com"
 });
 
 

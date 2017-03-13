@@ -3,7 +3,7 @@
   type: 1
   text: "c.1945 -  Cyclists on the driveway in front of the main school building."
   url: assets/images/points-of-interest/05.10.jpeg
-  reference: "Image: Sacred Heart College Archive"
+  reference: "Image: Marist Archive"
 ---
 The 1935 Maristonian (p55) records that along with the building of the new quad (now the Primary School Foundation Quad) a new bike shed was built, with spaces for 170 bicycles. This would have been at the back of the changing room facilities, where the music rooms now stand. During the late 1930s to 1950s the bicycle would have been the choice of transport for many of the boys. 
 

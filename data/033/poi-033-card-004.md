@@ -3,7 +3,7 @@
   type: 2
   text: "Finale scene from the Three2Six Musical Theatre production, facilitated by MindBurst Workshop and Minimax Performing Arts and hosted by Sacred Heart College in August 2014. "
   url: https://www.youtube.com/embed/o0rASBf_Ic8 
-  reference: "(Video: G&T Spiller/Sacred Heart College)"
+  reference: "Video: G&T Spiller/SHC @ Caroline Kamana on YouTube.ccom "
 ---
 The holiday programme was first started in 2010 when it was feared that many of the children might be at an extra risk of child trafficking during the Soccer World Cup. The holiday programme was such a success that it has been repeated annually ever since, often twice a year. Some of the activities take place on campus at Sacred Heart College, others involve outings to places of interest such as the Zoo, SciBono and The National Children’s Theatre. 
 

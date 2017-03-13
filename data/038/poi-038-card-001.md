@@ -3,7 +3,7 @@
   type: 1
   text: "Relic of Champagnat presented to the College by the Institute of Marist Brothers to mark his canonisation in 1999."
   url: assets/images/points-of-interest/38.04b.jpg
-  reference: "Image: C Kamana"
+  reference: "Image: Caroline Kamana"
 ---
 Amongst items relating to the foundation of the Marist Brothers, such as silver and bronze representations of Champagnat and of his role model, Mary, the mother of Jesus, is a Holy relic of Saint Marcellin. All Marist schools received a similar cabinet in 1999, each with their own relic. The one at Sacred Heart is believed to be from Champagnat’s finger, authenticated by a Latin certificate translated as follows:
 
