@@ -2,7 +2,7 @@ declare var google: any;
 
 import { Component, ElementRef, ViewChild, NgZone, OnInit } from '@angular/core';
 // import { NavController, PopoverController } from 'ionic-angular';
-// import { AllPointsOfInterest, getPointOfInterest } from '../../data/index';
+import { AllPointsOfInterest, getPointOfInterest } from '../data/index';
 // import { PointOfInterestPage } from '../point-of-interest/point-of-interest';
 // import { HelpPage } from '../help/help';
 
@@ -26,7 +26,7 @@ export class HomeComponent implements OnInit {
   ngOnInit(){
     this.loadGoogleMaps(this._ngZone);
   }
-  
+
   help(event) {
     // let popover = this.popoverCtrl.create(HelpPage);
     // popover.present({
@@ -90,48 +90,46 @@ export class HomeComponent implements OnInit {
     const greyIcon = iconBase + 'marker-2-grey.png';
     const colourIcon = iconBase + 'marker-yellow.png';
 
-    // for (let key in AllPointsOfInterest) {
-    //   let poi = AllPointsOfInterest[key];
+    for (let key in AllPointsOfInterest) {
+      let poi = AllPointsOfInterest[key];
 
-    //   let marker = new google.maps.Marker({
-    //     position: poi.getLatLng(),
-    //     title: poi.title,
-    //     icon: colourIcon,
-    //     map: this.map
-    //   });
+      let marker = new google.maps.Marker({
+        position: poi.getLatLng(),
+        title: poi.title,
+        icon: colourIcon,
+        map: this.map
+      });
 
-    //   let closeSelectedMarker = () => {
-    //     //selectedMarker.setIcon(greyIcon);
-    //     selectedMarker = null;
-    //   }
+      let closeSelectedMarker = () => {
+        //selectedMarker.setIcon(greyIcon);
+        selectedMarker = null;
+      }
 
-    //   marker.addListener('click', function () {
-    //     if (selectedMarker) {
-    //       closeSelectedMarker();
-    //     }
+      marker.addListener('click', function () {
+        if (selectedMarker) {
+          closeSelectedMarker();
+        }
 
-    //     selectedMarker = marker;
-    //     //marker.setIcon(colourIcon);
+        selectedMarker = marker;
+        //marker.setIcon(colourIcon);
 
-    //     if (infowindow) {
-    //       infowindow.close();
-    //     }
+        if (infowindow) {
+          infowindow.close();
+        }
 
-    //     infowindow = new google.maps.InfoWindow({
-    //       content: poi.info
-    //     });
+        infowindow = new google.maps.InfoWindow({
+          content: poi.info
+        });
 
-    //     infowindow.open(this.map, marker);
+        infowindow.open(this.map, marker);
 
-    //     google.maps.event.addListener(infowindow, 'closeclick', function () {
-    //       closeSelectedMarker();
-    //     });
-    //   });
+        google.maps.event.addListener(infowindow, 'closeclick', function () {
+          closeSelectedMarker();
+        });
+      });
 
-    //   this.bounds.extend(marker.getPosition());
-    // }
-
-
+      this.bounds.extend(marker.getPosition());
+    }
 
     this.map.fitBounds(this.bounds);
 
@@ -164,7 +162,5 @@ export class HomeComponent implements OnInit {
         ]
       ]
     });
-
-    this.map.setCenter(new google.maps.LatLng(this.latitude, this.longitude));
   }
 }
