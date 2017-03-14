@@ -1,7 +1,7 @@
 ---
   id: 6
   type: 1
-  text: "Joseph Letebele (staff member since 1961) shows where he put his initials “J.L. ‘79” into the wet concrete support at the right hand (on exit) base of the gates during the renovations. Look carefully and you can still see this initialling today. "
+  text: "Joseph Letebele (staff member since 1961) shows where he put his initials “J.L. ‘79” into the wet concrete support at the right hand (on exit) base of the gates during the renovations. Look carefully and you can still feel this initialling today. "
   url: assets/images/points-of-interest/06.06.jpg
   reference: "Image: Caroline Kamana"
 ---

@@ -81,7 +81,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/33.54.jpg",
-    reference: "Image: Benjamin Buegja"
+    reference: "Image: Benjamin Bugeja"
 });
 
 
@@ -93,7 +93,7 @@ poi.addElement({
 
     `,
     url: "assets/images/points-of-interest/33.57.jpg",
-    reference: "Image: Benjamin Buegja"
+    reference: "Image: Benjamin Bugeja"
 });
 
 export var thirtythree = poi;
