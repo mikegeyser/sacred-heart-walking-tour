@@ -355,7 +355,7 @@ function updateLink(linkElement, obj) {
 /***/ 572:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "badge.0ca1eaf9a03deabb0f99.png";
+module.exports = __webpack_require__.p + "badge.0745312df58e58a805ad.png";
 
 /***/ }),
 
