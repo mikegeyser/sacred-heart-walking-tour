@@ -1,0 +1,36 @@
+<h1>{{poi.title}}<i class="close" (click)="close()">X</i></h1>
+<h4>{{poi.description}}</h4>
+
+<div class="content">
+  <div class="chevron left">
+    <i name="arrow-back" [class.active]="!isFirst()" (click)="previous()">&lt;</i>
+  </div>
+
+  <div class="card" [class.show-more]="showMore">
+    <figure>
+      <img [src]="selected.url" imageViewer *ngIf="selected.type == 1">
+      
+      <div class="video-container" *ngIf="selected.type == 2">
+        <iframe width="854" height="480" [src]="selected.url | safe" frameborder="0" allowfullscreen></iframe>
+      </div>
+
+      <div class="audio-container" *ngIf="selected.type == 3">
+        <iframe width="100%" height="450" scrolling="no" frameborder="no" [src]="'https://w.soundcloud.com/player/?url=https%3A//' + selected.url + '&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=true' | safe"></iframe>
+      </div>
+
+      <figcaption>{{selected.reference}}</figcaption>
+    </figure>
+
+    <h2>
+      {{selected.text}}
+    </h2>
+
+    <div [innerHTML]="selected.furtherText">
+    </div>
+    
+  </div>
+
+  <div class="chevron right">
+    <i name="arrow-forward" [class.active]="!isLast()" (click)="next()">&gt;</i>
+  </div>
+</div>

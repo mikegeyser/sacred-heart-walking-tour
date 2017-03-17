@@ -1,6 +1,7 @@
 declare var google: any;
 
 import { Component, ElementRef, ViewChild, NgZone, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 // import { NavController, PopoverController } from 'ionic-angular';
 import { AllPointsOfInterest, getPointOfInterest } from '../data/index';
 // import { PointOfInterestPage } from '../point-of-interest/point-of-interest';
@@ -21,9 +22,9 @@ export class HomeComponent implements OnInit {
   longitude: number = 28.075560;
   zoom: number = 327;
 
-  constructor(private _ngZone: NgZone) {  }
+  constructor(private _ngZone: NgZone, private router: Router) { }
 
-  ngOnInit(){
+  ngOnInit() {
     this.loadGoogleMaps(this._ngZone);
   }
 
@@ -43,14 +44,15 @@ export class HomeComponent implements OnInit {
         this.initMap();
       }
 
-      // window['mapNavigate'] = (id) => {
-      //   _ngZone.run(() => {
-      //     let poi = getPointOfInterest(id);
+      window['mapNavigate'] = (id) => {
+        _ngZone.run(() => {
+          let poi = getPointOfInterest(id);
 
-      //     console.log(`Navigating to POI  ${poi.id} - ${poi.title}`);
-      //     this.nav.push(PointOfInterestPage, { id: poi.id });
-      //   });
-      // };
+          console.log(`Navigating to POI  ${poi.id} - ${poi.title}`);
+          this.router.navigate(['/p', poi.id]);
+          // this.nav.push(PointOfInterestPage, { id: poi.id });
+        });
+      };
 
       let script = document.createElement("script");
       script.id = "googleMaps";
@@ -62,6 +64,8 @@ export class HomeComponent implements OnInit {
       }
 
       document.body.appendChild(script);
+    } else {
+      this.initMap();
     }
   }
 
