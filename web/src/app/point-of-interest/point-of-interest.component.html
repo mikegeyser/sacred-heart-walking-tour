@@ -9,7 +9,7 @@
   <div class="card" [class.show-more]="showMore">
     <figure>
       <img [src]="selected.url" imageViewer *ngIf="selected.type == 1">
-      
+
       <div class="video-container" *ngIf="selected.type == 2">
         <iframe width="854" height="480" [src]="selected.url | safe" frameborder="0" allowfullscreen></iframe>
       </div>
@@ -27,7 +27,7 @@
 
     <div [innerHTML]="selected.furtherText">
     </div>
-    
+
   </div>
 
   <div class="chevron right">

@@ -17,7 +17,7 @@ export class PointOfInterestComponent implements OnInit {
 
   ngOnInit() {
     this.route.params.subscribe((params) => {
-        let id = params['id'];
+      let id = params['id'];
       this.poi = getPointOfInterest(id);
       this.selected = this.poi.elements[0];
     })
