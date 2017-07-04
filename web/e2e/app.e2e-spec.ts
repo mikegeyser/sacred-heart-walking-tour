@@ -1,14 +1,14 @@
-import { SacredHeartWalkingTourPage } from './app.po';
+import { FootstepsThroughSacredHeartPage } from './app.po';
 
-describe('sacred-heart-walking-tour App', () => {
-  let page: SacredHeartWalkingTourPage;
+describe('footsteps-through-sacred-heart App', () => {
+  let page: FootstepsThroughSacredHeartPage;
 
   beforeEach(() => {
-    page = new SacredHeartWalkingTourPage();
+    page = new FootstepsThroughSacredHeartPage();
   });
 
-  it('should display message saying app works', () => {
+  it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getParagraphText()).toEqual('app works!');
+    expect(page.getParagraphText()).toEqual('Welcome to app!!');
   });
 });
