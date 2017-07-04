@@ -2,10 +2,7 @@ declare var google: any;
 
 import { Component, ElementRef, ViewChild, NgZone, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-// import { NavController, PopoverController } from 'ionic-angular';
 import { AllPointsOfInterest, getPointOfInterest } from '../data/index';
-// import { PointOfInterestPage } from '../point-of-interest/point-of-interest';
-// import { HelpPage } from '../help/help';
 
 @Component({
   selector: 'app-home',
@@ -17,7 +14,7 @@ export class HomeComponent implements OnInit {
 
   map: any;
   bounds: any;
-  apiKey: any = "AIzaSyAJymzPSBYve3q0KoFEJf69LN_1hEPRtuk";
+  apiKey: any = 'AIzaSyAJymzPSBYve3q0KoFEJf69LN_1hEPRtuk';
   latitude: number = -26.173247;
   longitude: number = 28.075560;
   zoom: number = 327;
@@ -36,10 +33,10 @@ export class HomeComponent implements OnInit {
   };
 
   loadGoogleMaps(_ngZone: NgZone) {
-    if (typeof google == "undefined" || typeof google.maps == "undefined") {
-      console.log("online, loading map");
+    if (typeof google === 'undefined' || typeof google.maps === 'undefined') {
+      console.log('online, loading map');
 
-      //Load the SDK
+      // Load the SDK
       window['mapInit'] = () => {
         this.initMap();
       }
@@ -54,8 +51,8 @@ export class HomeComponent implements OnInit {
         });
       };
 
-      let script = document.createElement("script");
-      script.id = "googleMaps";
+      let script = document.createElement('script');
+      script.id = 'googleMaps';
 
       if (this.apiKey) {
         script.src = 'https://maps.google.com/maps/api/js?key=' + this.apiKey + '&callback=mapInit';
@@ -105,31 +102,32 @@ export class HomeComponent implements OnInit {
       });
 
       let closeSelectedMarker = () => {
-        //selectedMarker.setIcon(greyIcon);
+        // selectedMarker.setIcon(greyIcon);
         selectedMarker = null;
       }
 
-      marker.addListener('click', function () {
+      marker.addListener('click', () => {
         if (selectedMarker) {
           closeSelectedMarker();
         }
 
         selectedMarker = marker;
-        //marker.setIcon(colourIcon);
+        // marker.setIcon(colourIcon);
 
-        if (infowindow) {
-          infowindow.close();
-        }
+        // if (infowindow) {
+        //   infowindow.close();
+        // }
 
-        infowindow = new google.maps.InfoWindow({
-          content: poi.info
-        });
+        // infowindow = new google.maps.InfoWindow({
+        //   content: poi.info
+        // });
 
-        infowindow.open(this.map, marker);
+        // infowindow.open(this.map, marker);
 
-        google.maps.event.addListener(infowindow, 'closeclick', function () {
-          closeSelectedMarker();
-        });
+        // google.maps.event.addListener(infowindow, 'closeclick', function () {
+        //   closeSelectedMarker();
+        // });
+        this.router.navigate(['/p', poi.id]);
       });
 
       this.bounds.extend(marker.getPosition());
@@ -138,7 +136,7 @@ export class HomeComponent implements OnInit {
     this.map.fitBounds(this.bounds);
 
     // Create a geo-mask for the school.
-    new google.maps.Polygon({
+    let border = new google.maps.Polygon({
       map: this.map,
       strokeColor: '#000000',
       strokeOpacity: 0.5,

@@ -11,9 +11,11 @@ import { getPointOfInterest } from '../data/index';
 export class PointOfInterestComponent implements OnInit {
   poi: PointOfInterest;
   selected: PointOfInterestElement
-  showMore: boolean = false;
+  showMore = false;
 
-  constructor(private route: ActivatedRoute, private router: Router) { }
+  constructor(private route: ActivatedRoute, private router: Router) {
+    console.log('wat');
+  }
 
   ngOnInit() {
     this.route.params.subscribe((params) => {

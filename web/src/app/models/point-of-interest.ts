@@ -4,11 +4,11 @@ export class PointOfInterest {
     elements: PointOfInterestElement[] = [];
     info: string;
     themes: string[];
-    
+
     constructor(
         public id: string,
         public title: string,
-        public description: string = "",
+        public description: string = '',
         public latitude: number,
         public longitude: number
     ) {
