@@ -1,7 +1,7 @@
 ---
   id: 2
   type: 1
-  text: "1394, The cloistered walkway that leads to the room (visible at the end of the walkway framed by the arch) that was originally the Brothers’ Dining Room and today is Habits Coffee Shop."
+  text: "1934, The cloistered walkway that leads to the room (visible at the end of the walkway framed by the arch) that was originally the Brothers’ Dining Room and today is Habits Coffee Shop."
   url: assets/images/points-of-interest/40.06.jpg
   reference: "Image: Marist Archive"
 ---
