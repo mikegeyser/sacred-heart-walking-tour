@@ -127,7 +127,7 @@ export class HomeComponent implements OnInit {
         // google.maps.event.addListener(infowindow, 'closeclick', function () {
         //   closeSelectedMarker();
         // });
-        this.router.navigate(['/p', poi.id]);
+        this._ngZone.run(() => this.router.navigate(['/p', poi.id]));
       });
 
       this.bounds.extend(marker.getPosition());

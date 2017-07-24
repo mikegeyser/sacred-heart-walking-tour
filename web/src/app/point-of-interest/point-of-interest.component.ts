@@ -14,7 +14,6 @@ export class PointOfInterestComponent implements OnInit {
   showMore = false;
 
   constructor(private route: ActivatedRoute, private router: Router) {
-    console.log('wat');
   }
 
   ngOnInit() {
@@ -22,7 +21,7 @@ export class PointOfInterestComponent implements OnInit {
       let id = params['id'];
       this.poi = getPointOfInterest(id);
       this.selected = this.poi.elements[0];
-    })
+    });
   }
 
   private getIndex() {

@@ -57,3 +57,10 @@ header {
     border-radius: 2px;
   }
 }
+
+// NB: THIS IS A HACK FOR DYNAMIC CONTENT
+.card > div > figure { 
+  img {
+    max-width: 100%;
+  }
+}

@@ -1,11 +1,11 @@
 :host {
     position:absolute;
     display: block;
-    top: 120px;    
+    top: 110px;    
     right: 0;
     left: 0;
-    bottom: 50px;
-    width: 60%;
+    bottom: 20px;
+    width: 70%;
     margin: auto;
     background-color: #ffffff;
     border: 0.55px solid #b2b2b2;
@@ -25,6 +25,9 @@ h4 {
 .content {
     position: relative;
     text-align: justify;
+    display: block;
+    overflow: auto;
+    height: 100%;
 }  
 
 .card {
@@ -47,8 +50,10 @@ h4 {
     }
 
     div {
+        margin-bottom: 75px;
     }
 }
+
 
 .chevron {
     position: absolute;
@@ -90,7 +95,7 @@ and (min-device-width : 768px)
 {
     .card img,
     .card .video-container embed {
-        max-height: 300px;
+        max-height: 400px;
     }
 
     .scroll-content {
